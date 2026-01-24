@@ -133,6 +133,7 @@ If you find anything else, ping me on Discord or post it to the G3 forums.
  - EscapeArea() / Kill(Myself) moved at the end of blocks
  - G_warrens spiders changes to SPIDGI or SPIDGI01
  - Items corrections
+ - Malarite and Wererat animations for EE by GraionDilach
 
 1.2 Voice acting and more!
  - Full voiceacting for Eloran!
