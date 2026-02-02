@@ -22,7 +22,7 @@ END
 IF ~~ THEN BEGIN 1
 	SAY @7504 /* I don’t know much about him! I just moved here from Daggerford! He died, obviously, and so the wife sold the house. I think she’s staying at the Red Sheaf until she gets her affairs in order to move to Baldur’s Gate. */
 		+ ~Global("Talked2_gBFq1","GLOBAL",1)~ + @7502 /* He keeps going on about coins? */ DO ~SetGlobal("Talked2_gBFq1","GLOBAL",2)~ GOTO 2
-		++ @7503 /* I have no further questions. */ EXIT
+		++ @7503 /* I have no further questions. */ DO ~SetGlobal("Talked2_gBFq1","GLOBAL",2)~ EXIT
 END
 
 IF ~~ THEN BEGIN 2
@@ -33,10 +33,10 @@ END
 
 IF ~Global("gBFq1","GLOBAL",1) Global("Talked1_gBFq1","MYAREA",1)~ THEN BEGIN 3
 	SAY @7506 /* Hopefully you have a few ideas about what to do here. I don’t want to live in a haunted house, and I don’t think I can sell the place now. */
-	IF ~~ THEN EXIT
-	+ ~Global("Talked2_gBFq1","GLOBAL",1)~ + @7502 /* He keeps going on about coins? */ DO ~SetGlobal("Talked2_gBFq1","GLOBAL",2)~ GOTO 2
-	IF ~Global("Talked2_gBFq1","GLOBAL",2)~ THEN DO ~SetGlobal("Talked2_gBFq1","GLOBAL",1)~ EXIT
-		++ @7503 /* I have no further questions. */ EXIT
+		IF ~~ THEN EXIT
+		+ ~Global("Talked2_gBFq1","GLOBAL",1)~ + @7502 /* He keeps going on about coins? */ DO ~SetGlobal("Talked2_gBFq1","GLOBAL",2)~ GOTO 2
+		IF ~Global("Talked2_gBFq1","GLOBAL",2)~ THEN REPLY @7503 /* I have no further questions. */ DO ~SetGlobal("Talked2_gBFq1","GLOBAL",1)~ EXIT
+		+ ~!Global("Talked2_gBFq1","GLOBAL",2)~ + @7503 /* I have no further questions. */ EXIT
 END
 
 //sent off the ghost

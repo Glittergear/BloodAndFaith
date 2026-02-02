@@ -6,7 +6,7 @@ IF ~Global("gBFq1","GLOBAL",1)~ THEN BEGIN 0
 	++ @11501 /* You want gold? I have some here. */ GOTO 1
 	++ @11502 /* What would it take for you to leave? */ GOTO 2
 	+~PartyHasItem("gBFcc")~+ @11503 /* I have your coin collection here. */ GOTO 3
-	+~!PartyHasItem("gBFcc")~+ @11504 /* I will find your coin collection. */ GOTO 2
+	+~!Global("Talked2_gBFq1","GLOBAL",0) !PartyHasItem("gBFcc")~+ @11504 /* I will find your coin collection. */ GOTO 2
 END
 
 IF ~~ THEN BEGIN 1

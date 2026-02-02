@@ -69,17 +69,13 @@ LANGUAGE ~English~
 
 LANGUAGE ~Simplified Chinese(by Lzw104522773)~
          ~schinese~
-         ~BloodAndFaith/Languages/english/BloodAndFaith.tra~
          ~BloodAndFaith/Languages/schinese/BloodAndFaith.tra~ //you'd put the mod title in here.
-         ~BloodAndFaith/Languages/english/JournalEntries.tra~
          ~BloodAndFaith/Languages/schinese/JournalEntries.tra~
          ~BloodAndFaith/Languages/schinese/install.tra~
 
 LANGUAGE ~Russian (by CblblP & Arcanecoast.ru)~
          ~russian~
-         ~BloodAndFaith/Languages/english/BloodAndFaith.tra~
          ~BloodAndFaith/Languages/russian/BloodAndFaith.tra~ //you'd put the mod title in here.
-         ~BloodAndFaith/Languages/english/JournalEntries.tra~
          ~BloodAndFaith/Languages/russian/JournalEntries.tra~
 
 
