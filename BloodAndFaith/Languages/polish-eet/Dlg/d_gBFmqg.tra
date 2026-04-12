@@ -1,0 +1,425 @@
+// ==========================================================
+// Eloran questline master .tra (English original, grouped)
+// ==========================================================
+
+
+// =====================
+// Banters – Imoen
+// =====================
+
+@13000 = ~Tak? W czym mogê ci pomóc?~
+@13001 = ~S³ysza³am, ¿e kiedyœ by³aœ poszukiwaczk¹ przygód. Dlaczego to siê zmieni³o?~
+@13002 = ~Widzia³am zbyt wiele œmierci. Uzna³am, ¿e pora odejœæ.~
+@13003 = ~Ale jesteœ kap³ank¹. Nie mog³aœ ich wskrzesiæ?~
+@13004 = ~Nie zawsze ni¹ by³am. A czemu pytasz?~
+@13005 = ~A tak sobie. Zagajam rozmowê. Kim by³aœ, zanim zosta³aœ kap³ank¹?~
+@13006 = ~Tym, kim musia³am byæ. Ale chyba <CHARNAME> ciê potrzebuje? Mam wra¿enie, ¿e robi siê niecierpliwy. Porozmawiamy innym razem.~ ~Tym, kim musia³am byæ. Ale chyba <CHARNAME> ciê potrzebuje? Mam wra¿enie, ¿e robi siê niecierpliwa. Porozmawiamy innym razem.~
+@13007 = ~Tak, Imoen?~
+@13008 = ~Mówi³aœ, ¿e kiedyœ nie by³aœ kap³ank¹ i ¿e by³aœ tym, kim musia³aœ byæ. Czyli kim?~
+@13009 = ~S³ucham?~
+@13010 = ~No pamiêtasz! Sama powiedzia³aœ, ¿e nie zawsze by³aœ kap³ank¹. I obieca³aœ, ¿e dokoñczymy rozmowê.~
+@13011 = ~Ach. Racja. Có¿... Zanim zosta³am kap³ank¹, by³am bardzo dobra w dostawaniu siê tam, gdzie nie powinnam, i znajdowaniu rzeczy, których nie powinnam mieæ. To mnie utrzymywa³o przy ¿yciu.~
+@13012 = ~A potem?~
+@13013 = ~A potem zosta³am kap³ank¹ Lathandera.~
+@13014 = ~Co? I tyle?! Nie wierzê, ¿e to ca³a historia.~
+@13015 = ~Nie, to nie jest ca³oœæ, ale to wszystko, co mogê ci powiedzieæ. Mo¿e chcesz zerkn¹æ na jakieœ eliksiry? Albo coœ w tym stylu?~
+@13016 = ~No dobra, to powiedz: do jakiego tajnego stowarzyszenia nale¿ysz?~
+@13017 = ~...co proszê?~
+@13018 = ~No bo na pewno do jakiegoœ nale¿ysz! Dlatego jesteœ taka tajemnicza i wymijaj¹ca, dlatego masz z³odziejskie zdolnoœci. No to jak? Do którego nale¿a³aœ?~
+@13019 = ~Nie odpuœcisz, prawda?~
+@13020 = ~Nie ma takiej opcji.~
+@13021 = ~Teraz nie nale¿ê do ¿adnego, zreszt¹ wtedy to te¿ nie by³o ¿adne tajne stowarzyszenie. Po prostu... nie jest to coœ, o czym lubiê mówiæ. Jestem kap³ank¹ i mam ku temu powody. I mam nadziejê, ¿e nigdy nie bêdziesz musia³a czegoœ takiego zrozumieæ.~
+
+
+// =====================
+// Banters – Kivan
+// =====================
+
+@13022 = ~Tak, jesteœ Kivan, prawda? Przykro mi, ¿e nie mieliœmy okazji porozmawiaæ, gdy odwiedzi³eœ nas po raz pierwszy. Mam nadziejê, ¿e Thalantyr mia³ to, czego szuka³eœ.~
+@13023 = ~Co wiesz o bandytach w tej okolicy?~
+@13024 = ~Niewiele. Na co dzieñ mam inne obowi¹zki.~
+@13025 = ~Inne obowi¹zki?~
+@13026 = ~Nie zrozum mnie Ÿle. Owszem, martwi¹ mnie bandyci, ale zostawiam to paladynom i kap³anom. To w koñcu ich dzia³ka.~
+@13027 = ~A czym wiêc siê zajmujesz?~
+@13028 = ~G³ównie sprawami œwi¹tyni. Nic wielkiego. Piszê listy z podziêkowaniami do hojnych darczyñców, dbam o zapasy, od czasu do czasu warzê mikstury. Obawiam siê, ¿e niewiele ma to wspólnego z bandytami.~
+@13029 = ~I nic innego ciê nie obchodzi?~
+@13030 = ~Oczywiœcie, ¿e obchodzi. Gdyby by³o inaczej, nigdy nie us³ysza³abym ani o Bassilusie, ani o innych, za którymi was posy³am.~
+@13031 = ~Kivanie, wierzysz w odkupienie?~
+@13032 = ~Dla siebie czy dla innych?~
+@13033 = ~A jest jakaœ ró¿nica?~
+@13034 = ~Dla mnie nie ma odkupienia. Mo¿e byæ tylko przebaczenie.~
+@13035 = ~Mo¿e jesteœmy bardziej podobni, ni¿ nam siê wydaje.~
+@13036 = ~Wola³bym nie. Dla dobra nas obojga.~
+
+
+// =====================
+// Banters – Xzar
+// =====================
+
+@13037 = ~Twoje uszy... jak d³ugo je masz?~
+@13038 = ~S³ucham?~
+@13039 = ~Przecie¿ nie s¹ twoje, prawda? Wygl¹daj¹... na ludzkie. A ty przecie¿ nie jesteœ cz³owiekiem. Widzê to w twoich oczach.~
+@13040 = ~To moje uszy i mam je od zawsze. Czy to ju¿ wszystko?~
+@13041 = ~A ju¿ myœla³em, ¿e masz pewne zami³owanie do Rzemios³a. Mo¿e gdybyœmy wymienili siê oczami, moglibyœmy widzieæ rzeczy inaczej. Mo¿e innym razem.~
+@13042 = ~Czego chcesz, nekromanto?~
+@13043 = ~Myœla³aœ o tym? O wymianie oczu?~
+@13044 = ~Nie... nie mogê powiedzieæ, ¿ebym myœla³a.~
+@13045 = ~Och. Jak¿e rozczarowuj¹ce. Ale potrafisz widzieæ w ciemnoœci jak elfy, prawda? Zawsze o tym marzy³em, lecz to nie kwestia samego oka. Próbowa³em – elfie oczy mi nie le¿¹. Nie dzia³aj¹ zbyt dobrze i w ogóle nie pasuj¹ do mojej karnacji. Ale TWOJE oczy...~
+@13046 = ~Nie. Moja odpowiedŸ brzmi: nie.~
+@13047 = ~Czy ja naprawdê chcê wiedzieæ, co znowu chodzi ci po g³owie?~
+@13048 = ~Twój jêzyk.~
+@13049 = ~Uszy i oczy masz... osobliwe. Ale twój jêzyk jest znajomy. Jak d³ugo jesteœ z dala od Morza Ksiê¿ycowego?~
+@13050 = ~D³u¿ej ni¿ ty, zapewne. I nie têskniê.~
+@13051 = ~Ja te¿ nie. Wybrze¿e Mieczy jest takie urocze o tej porze roku.~
+
+
+// =====================
+// Quest Hub – Accepting the questline
+// =====================
+
+@13052 = ~Myœlê, ¿e moglibyœmy stworzyæ ca³kiem niez³y duet. Szukam kogoœ, kto potrafi³by nieœæ sprawiedliwoœæ i nadziejê na Wybrze¿u Mieczy. Bêdzie to coœ na kszta³t œcigania przestêpców za nagrody, ale nie musisz martwiæ siê moralnymi dylematami – bardzo dok³adnie sprawdzam swoje cele i przysiêgam na Pana Poranka, ¿e wyœlê ciê tylko przeciwko z³u. Co ty na to?~ ~Myœlê, ¿e mog³ybyœmy stworzyæ ca³kiem niez³y duet. Szukam kogoœ, kto potrafi³by nieœæ sprawiedliwoœæ i nadziejê na Wybrze¿u Mieczy. Bêdzie to coœ na kszta³t œcigania przestêpców za nagrody, ale nie musisz martwiæ siê moralnymi dylematami – bardzo dok³adnie sprawdzam swoje cele i przysiêgam na Pana Poranka, ¿e wyœlê ciê tylko przeciwko z³u. Co ty na to?~  [b_gIntro]
+@13053 = ~Zdajesz sobie sprawê, ¿e jestem nekromant¹, prawda?~ ~Zdajesz sobie sprawê, ¿e jestem nekromantk¹, prawda?~
+@13054 = ~Chyba zauwa¿y³aœ, ¿e podró¿ujê z Dornem, prawda?~
+@13055 = ~Chyba zauwa¿y³aœ, ¿e podró¿ujê z Tiaxem, prawda?~
+@13056 = ~Chyba zauwa¿y³aœ, ¿e podró¿ujê z Xzarem, prawda?~
+@13057 = ~Chyba zauwa¿y³aœ, ¿e podró¿ujê z Viconi¹, prawda?~
+@13058 = ~A zdajesz sobie sprawê, ¿e jestem wyznawc¹ Shar?~ ~A zdajesz sobie sprawê, ¿e jestem wyznawczyni¹ Shar?~
+@13059 = ~Czego dok³adnie ode mnie oczekujesz?~
+@13060 = ~O jakich nagrodach mówimy?~
+@13061 = ~Co z ciebie za lathanderytka, skoro najmujesz ³owcê nagród?~
+@13062 = ~Zrobiê to.~
+@13063 = ~Nie, dziêkujê.~
+@13064 = ~Myœlê, ¿e mimo naszych ró¿nic moglibyœmy stworzyæ ca³kiem zgrany zespó³. Szukam kogoœ, kto potrafi³by nieœæ sprawiedliwoœæ i nadziejê na Wybrze¿u Mieczy – nie obchodzi mnie, czy w te koncepty wierzysz, bo mam wra¿enie, ¿e ty wierzysz przede wszystkim w nagrody. Œwi¹tynia Lathandera jest i majêtna, i hojna. Co ty na to?~ [b_eInt] ~Myœlê, ¿e mimo naszych ró¿nic mog³ybyœmy stworzyæ ca³kiem zgrany zespó³. Szukam kogoœ, kto potrafi³by nieœæ sprawiedliwoœæ i nadziejê na Wybrze¿u Mieczy – nie obchodzi mnie, czy w te koncepty wierzysz, bo mam wra¿enie, ¿e ty wierzysz przede wszystkim w nagrody. Œwi¹tynia Lathandera jest i majêtna, i hojna. Co ty na to?~ [b_eInt]
+@13065 = ~Zauwa¿y³am. Ale wiem te¿, ¿e nie wszyscy nekromanci s¹ Ÿli ani dog³êbnie spaczeni. Istnieje wiele sposobów praktykowania nekromancji, które nie ³ami¹ ¿adnych praw boskich. A poza tym – kto zna nekromantów i nieumar³ych lepiej ni¿ nekromanci?~
+@13066 = ~Tak, zauwa¿y³am. Raczej trudno go przeoczyæ. Jednak Lathander naucza o odkupieniu. A jak Z³o ma znaleŸæ drogê ku zmianie, jeœli nie da mu siê na to szansy?~ [b_mNot]
+@13067 = ~Tak, zauwa¿y³am. Raczej trudno j¹ przeoczyæ. Jednak Lathander naucza o odkupieniu. A jak Z³o ma znaleŸæ drogê ku zmianie, jeœli nie da mu siê na to szansy?~ [b_fNot]
+@13068 = ~Tak, zauwa¿y³am. Doœæ dziwne, ¿e tak po prostu to og³aszasz – myœla³am, ¿e wasza wiara ceni sobie dyskrecjê. Powiedz mi jednak, czy nie wierzycie tak¿e w osobist¹ stratê i w to, ¿e dusza musi zaznaæ mroku, by odnaleŸæ prawdê? I czy istnieje mrok wiêkszy od zabicia drugiej osoby? Poza tym Lathander naucza o odkupieniu – jak masz siê odmieniæ, jeœli nie dasz sobie szansy? Traktuj to zadanie jak okazjê... na wzmocnienie lub nadwyrê¿enie w³asnej wiary. Ciekawe, dok¹d zaprowadzi ciê to zadanie...~ [b_sNot]
+@13069 = ~Wska¿ê ci, czym masz siê zaj¹æ, a ty rozwi¹¿esz mój problem. Zazwyczaj bêdzie mi chodzi³o o rozprawienie siê z nieumar³ymi albo o wykonanie jakiegoœ drobnego zadania. Pamiêtaj jednak, ¿e przemoc nie zawsze jest jedynym wyjœciem – czasem to s³owa okazuj¹ siê najsilniejsz¹ broni¹. Jednak gdy s³owa zawiod¹... dobrze wymierzony sztylet zazwyczaj za³atwi sprawê.~ [b_whExp]
+@13070 = ~Masz na myœli zap³atê? Przede wszystkim z³oto. Czasem jakaœ mikstura albo magiczny drobiazg. Sprawa jest raczej prosta. Zdobêdziesz te¿ doœwiadczenie, co dla ka¿dego poszukiwacza przygód jest bezcenne. Postaram siê nie wrzucaæ ciê od razu na g³êbok¹ wodê – to nie s³u¿y³oby ani mnie, ani tobie. Ja straci³abym cz³owieka do zadañ terenowych, a ty... có¿, swoje ¿ycie. To by³by kiepski interes.~ [b_whPr]
+@13071 = ~Praktyczna, oczywiœcie. Ktoœ musi rozwi¹zywaæ te problemy, a Pan Poranka wie, ¿e P³omienna Piêœæ siê tym nie zajmie. Mamy paladynów, owszem, ale oni... có¿, nie wszystkie zadania da siê wykonaæ bez odrobiny finezji i dyskrecji, a z tym u paladynów bywa ró¿nie. Kiedyœ sama mog³am braæ to wszystko na siebie, ale obowi¹zki i stare rany trzymaj¹ mnie teraz pod dachem.~ [b_whyMe]
+@13072 = ~Szkoda. Bêdê tutaj, jeœli zmienisz zdanie.~ [b_no]
+
+
+// =====================
+// Quest 1 – An Ordinary Haunting (ghost in Beregost)
+// =====================
+
+@13073 = ~To w³aœnie chcia³am us³yszeæ. Mam nadziejê, ¿e jesteœ gotów zabraæ siê do pracy... od razu. W Beregoœcie jest dom, który nawiedza duch. To ten du¿y, ¿ó³tawy budynek z niebieskim dachem, naprzeciwko gospody P³on¹cy Czarodziej. Spróbuj znaleŸæ sposób, by siê go pozbyæ. Jakieœ pytania?~ ~To w³aœnie chcia³am us³yszeæ. Mam nadziejê, ¿e jesteœ gotowa, by zabraæ siê do pracy... od razu. W Beregoœcie jest dom, który nawiedza duch. To ten du¿y, ¿ó³tawy budynek z niebieskim dachem, naprzeciwko gospody P³on¹cy Czarodziej. Spróbuj znaleŸæ sposób, by siê go pozbyæ. Jakieœ pytania?~  [b_yes]
+@13074 = ~Jakieœ rady?~
+@13075 = ~Wygl¹dasz na ca³kiem sprawn¹... dlaczego wysy³asz mnie?~
+@13076 = ~Bez pytañ. Ju¿ siê za to biorê.~
+@13077 = ~Uparte duchy zwykle maj¹ powód, by trwaæ na tym œwiecie. Jeœli go zabijesz, mo¿e po prostu wróciæ. Nie ka¿dy problem da siê rozwi¹zaæ stal¹ i przemoc¹. Dowiedz siê, czego chce, i spróbuj spe³niæ jego ostatnie ¿yczenie. Coœ jeszcze?~ [gh_ad]
+@13078 = ~W pewnych kwestiach jesteœmy bardziej przydatni, w innych mniej. Mówi¹c wprost – moja pomoc skupia siê przede wszystkim na œwi¹tyni. Ty dobrze radzisz sobie w terenie, wiêc dlaczego mia³abym nie wys³aæ w³aœnie ciebie? Poza tym... jak masz zdobywaæ doœwiadczenie? Poszukiwacze przygód bez doœwiadczenia ¿yj¹ wyj¹tkowo krótko. Coœ jeszcze?~ [gh_whyme]
+@13079 = ~Dobrze. Niech Pan Poranka ci sprzyja.~ [gh_noQs]
+@13080 = ~Rozwi¹¿ sprawê nawiedzenia, <CHARNAME>.~ [gh_goSo]
+@13081 = ~Masz jakieœ wieœci?~ [gh_back]
+@13082 = ~Duch chcia³, by pochowano go razem z jego kolekcj¹ monet. Odnalaz³em j¹, odda³em... i nieproszony goœæ odszed³ w spokoju.~ ~Duch chcia³, by pochowano go razem z jego kolekcj¹ monet. Odnalaz³am j¹, odda³am... i nieproszony goœæ odszed³ w spokoju.~
+
+
+// =====================
+// Quest 2 – Hunting the Huntsman (Malarite on Coast Way)
+// =====================
+
+@13083 = ~Dobra robota, <CHARNAME>. WeŸ te mikstury w nagrodê. Zas³u¿y³eœ... i mam przeczucie, ¿e przydadz¹ ci siê w nastêpnym zadaniu. Pamiêtasz, jak mówi³am, ¿e nie ka¿dy problem da siê rozwi¹zaæ przemoc¹? Có¿, tym razem chyba tylko przemoc przyniesie skutek. Na trakcie miêdzy Beregostem a Zajazdem Pomocna D³oñ znikaj¹ podró¿ni. Najpierw myœleliœmy, ¿e to wina bandytów, ale w koñcu trafi³ siê ocala³y – i wiemy ju¿, ¿e nie stoi za tym zwyk³y bandyta, a wyznawca Malara. Malaryci wierz¹, ¿e przetrwaæ mog¹ jedynie najsilniejsi, wiêc przemoc to jedyny jêzyk, jaki rozumiej¹. ZnajdŸ wyznawcê Malara na Nadbrze¿nym Trakcie i zabij go. Jakieœ pytania?~ [mal_st] ~Dobra robota, <CHARNAME>. WeŸ te mikstury w nagrodê. Zas³u¿y³aœ... i mam przeczucie, ¿e przydadz¹ ci siê w nastêpnym zadaniu. Pamiêtasz, jak mówi³am, ¿e nie ka¿dy problem da siê rozwi¹zaæ przemoc¹? Có¿, tym razem chyba tylko przemoc przyniesie skutek. Na trakcie miêdzy Beregostem a Zajazdem Pomocna D³oñ znikaj¹ podró¿ni. Najpierw myœleliœmy, ¿e to wina bandytów, ale w koñcu trafi³ siê ocala³y – i wiemy ju¿, ¿e nie stoi za tym zwyk³y bandyta, a wyznawca Malara. Malaryci wierz¹, ¿e przetrwaæ mog¹ jedynie najsilniejsi, wiêc przemoc to jedyny jêzyk, jaki rozumiej¹. ZnajdŸ wyznawcê Malara na Nadbrze¿nym Trakcie i zabij go. Jakieœ pytania?~ [mal_st]
+@13084 = ~Co mo¿esz mi powiedzieæ o Malarze?~
+@13085 = ~Mo¿e powinienem spróbowaæ z nim porozmawiaæ? Myœla³em, ¿e Pan Poranka wierzy w odkupienie.~ ~Mo¿e powinnam spróbowaæ z nim porozmawiaæ? Myœla³am, ¿e Pan Poranka wierzy w odkupienie.~
+@13086 = ~Dlaczego wysy³asz tam w³aœnie mnie? Mogê zgin¹æ.~
+@13087 = ~Masz jakieœ wskazówki, gdzie siê ukrywa?~
+@13088 = ~Pytañ brak. Zabieram siê za zadanie.~
+@13089 = ~Malar to z³owrogi bóg polowania – krwio¿erczy, dziki i okrutny. Wyzwala w swoich wyznawcach to, co najgorsze, a oni lubuj¹ siê w tym. Sprzymierza siê z boginiami pokroju Lolth i Loviatar, o ile mo¿na to w ogóle nazwaæ sojuszami. Tacy bogowie kiepsko wspó³pracuj¹ z innymi. Spodziewaj siê wiêc relacji drapie¿nik-ofiara albo bardzo pokrêconej zabawy w chowanego. Coœ jeszcze?~ [mal_ex]
+@13090 = ~Pan Poranka wierzy w odkupienie, ale nie jest naiwny. Ja te¿ nie. ¯eby siê zmieniæ, trzeba tego chcieæ. W¹tpiê, by ten malaryta mia³ takie chêci, a my nie mo¿emy czekaæ na decyzjê, która mo¿e nigdy nie nadejœæ – zw³aszcza gdy w miêdzyczasie ludzie gin¹. Coœ jeszcze?~ [mal_na]
+@13091 = ~Skoro prosty wêdrowiec zdo³a³ mu uciec, ty te¿ sobie poradzisz. A dopiero co da³am ci parê mikstur leczniczych.~ [mal_fi]
+@13092 = ~Ostatnie ofiary podró¿owa³y jednym wozem i nie dotar³y daleko na pó³noc. Poszuka³abym ukrytego wejœcia na po³udniowych klifach Nadbrze¿nego Traktu.~ [mal_wh]
+@13093 = ~Dobrze. Niech Pan Poranka rozœwietli twoj¹ drogê ku zwyciêstwu. A to – trochê z³ota za rozwi¹zanie sprawy nawiedzenia.~ [mal_co]
+@13094 = ~Nie zwlekaj, ale te¿ nie dzia³aj bezmyœlnie. Im d³u¿ej czekasz, tym wiêcej czasu ma na porwanie kolejnej osoby.~ [mal_hu]
+@13095 = ~Wyznawca Malara nie ¿yje.~
+@13096 = ~Dobra robota, <CHARNAME>. Wiedzia³am, ¿e ci siê uda. Ale powiedz mi... jak siê czujesz po tym ostatnim zadaniu?~ [mal_how]
+@13097 = ~Co to w ogóle za pytanie?~
+@13098 = ~Ja... nie wiem. Jak powinienem siê czuæ?~ ~Ja... nie wiem. Jak powinnam siê czuæ?~
+@13099 = ~Okropnie. Nie chcia³em go zabijaæ, ale...~ ~Okropnie. Nie chcia³am go zabijaæ, ale...~
+@13100 = ~W porz¹dku. Dlaczego mia³oby byæ inaczej?~
+@13101 = ~To by³o ciekawe wyzwanie. Szczerze mówi¹c – nawet mi siê podoba³o.~
+@13102 = ~Jesteœ m³ody, niedoœwiadczony i raczej nieprzyzwyczajony do zabijania ludzi, prawda? Chcê siê upewniæ, ¿e wszystko z tob¹ w porz¹dku i ¿e jesteœ gotów na kolejne zadania. Teraz odpowiedz: co poczu³eœ, gdy zabi³eœ malarytê?~ ~Jesteœ m³oda, niedoœwiadczona i raczej nieprzyzwyczajona do zabijania ludzi, prawda? Chcê siê upewniæ, ¿e wszystko z tob¹ w porz¹dku i ¿e jesteœ gotowa na kolejne zadania. Teraz odpowiedz: co poczu³aœ, gdy zabi³aœ malarytê?~ [mal_an]
+@13103 = ~Nie mogê odpowiedzieæ na to pytanie. Sama do koñca tego nie wiem. Satysfakcja z dobrze wykonanej pracy? Przera¿enie, ¿e musia³o do tego dojœæ? Myœlê, ¿e Malar by³by z ciebie zadowolony, mimo ¿e zabi³eœ jego wyznawcê – w koñcu to ty okaza³eœ siê silniejszy. A teraz uspokój swoje myœli. Wahaj¹cy siê poszukiwacze przygód nie ¿yj¹ d³ugo, nawet jeœli s¹ intryguj¹cy. Doœæ tych rozmyœlañ. Porozmawiaj ze mn¹, kiedy bêdziesz gotów na kolejne zadanie.~ ~Nie mogê odpowiedzieæ na to pytanie. Sama do koñca tego nie wiem. Satysfakcja z dobrze wykonanej pracy? Przera¿enie, ¿e musia³o do tego dojœæ? Myœlê, ¿e Malar by³by z ciebie zadowolony, mimo ¿e zabi³aœ jego wyznawcê – w koñcu to ty okaza³aœ siê silniejsza. A teraz uspokój swoje myœli. Wahaj¹cy siê poszukiwacze przygód nie ¿yj¹ d³ugo, nawet jeœli s¹ intryguj¹cy. Doœæ tych rozmyœlañ. Porozmawiaj ze mn¹, kiedy bêdziesz gotowa na kolejne zadanie.~  [mal_a1]
+@13104 = ~Ale co? Pos³uchaj – w d³u¿szej perspektywie zostawienie go przy ¿yciu by³oby gorsze. On dalej mordowa³by niewinnych. To prawda, mamy krew na rêkach, ale bierzemy ten ciê¿ar na siebie po to, by inni nie musieli tego robiæ. Odebra³eœ ¿ycie komuœ, kto stan¹³ ci na drodze, ale w ten sposób ocali³eœ tych, których nawet nigdy nie poznasz. A teraz uspokój swoje myœli. Wahaj¹cy siê poszukiwacze przygód nie ¿yj¹ d³ugo, nawet jeœli s¹ intryguj¹cy. Doœæ tych rozmyœlañ. Porozmawiaj ze mn¹, kiedy bêdziesz gotów na kolejne zadanie.~ ~Ale co? Pos³uchaj – w d³u¿szej perspektywie zostawienie go przy ¿yciu by³oby gorsze. On dalej mordowa³by niewinnych. To prawda, mamy krew na rêkach, ale bierzemy ten ciê¿ar na siebie po to, by inni nie musieli tego robiæ. Odebra³aœ ¿ycie komuœ, kto stan¹³ ci na drodze, ale w ten sposób ocali³aœ tych, których nawet nigdy nie poznasz. A teraz uspokój swoje myœli. Wahaj¹cy siê poszukiwacze przygód nie ¿yj¹ d³ugo, nawet jeœli s¹ intryguj¹cy. Doœæ tych rozmyœlañ. Porozmawiaj ze mn¹, kiedy bêdziesz gotowa na kolejne zadanie.~ [mal_con]
+@13105 = ~Szczerze? Nie wiem. Wydaje mi siê, ¿e jesteœmy do siebie podobni. Czasami odebranie ¿ycia jest najlepszym albo jedynym wyjœciem, ale nie ma sensu tego roztrz¹saæ. Porozmawiaj ze mn¹, kiedy bêdziesz gotów na kolejne zadanie.~ [mal_c3]
+@13106 = ~Có¿, wygl¹da na to, ¿e znalaz³eœ swoje powo³anie. Myœlê, ¿e Malar by³by z ciebie zadowolony. To brutalny, wymagaj¹cy zawód. Uwa¿aj jednak, kogo atakujesz – bezmyœlne zabijanie to œwietny sposób, by samemu zostaæ zwierzyn¹ dla ogarów sprawiedliwoœci, a rzucanie siê na ka¿de wyzwanie to prosty sposób na to, by w koñcu zgin¹æ. Ale doœæ kazañ. Porozmawiaj ze mn¹, kiedy bêdziesz gotów na kolejne zadanie.~ ~Có¿, wygl¹da na to, ¿e znalaz³aœ swoje powo³anie. Myœlê, ¿e Malar by³by z ciebie zadowolony. To brutalny, wymagaj¹cy zawód. Uwa¿aj jednak, kogo atakujesz – bezmyœlne zabijanie to œwietny sposób, by samemu zostaæ zwierzyn¹ dla ogarów sprawiedliwoœci, a rzucanie siê na ka¿de wyzwanie to prosty sposób na to, by w koñcu zgin¹æ. Ale doœæ kazañ. Porozmawiaj ze mn¹, kiedy bêdziesz gotowa na kolejne zadanie.~  [mal_c4]
+
+
+// =====================
+// Quest 3 – Errant Funeral (Nashkel, Ibrandul)
+// =====================
+
+@13107 = ~Mam dla ciebie zadanie wymagaj¹ce odrobiny dyskrecji. Helmici z Nashkel chc¹, by ktoœ od nas coœ zbada³, wiêc wysy³am ciebie. Ich opiekun cmentarza zgubi³ cia³o, a rodzina – naturalnie – jest wœciek³a. Kiedy helmici zasugerowali, ¿e zmar³y móg³ zostaæ nieumar³ym, zrobi³o siê jeszcze gorzej. Nie spodziewaj siê ciep³ego powitania. Wszyscy chc¹ zachowaæ w tajemnicy sprawê zaginionego cia³a i potencjalnych nieumar³ych. Nashkel ma ju¿ doœæ problemów. Ustal, co sta³o siê z cia³em. Jakieœ pytania?~ [nas_0]
+@13108 = ~Co mo¿esz mi powiedzieæ o zaginionym ciele?~
+@13109 = ~Dlaczego ktokolwiek podejrzewa nieumar³ych?~
+@13110 = ~Jakie jeszcze problemy ma Nashkel?~
+@13111 = ~Dlaczego wysy³asz w³aœnie mnie?~
+@13112 = ~Starszy mê¿czyzna, zmar³ – o ile wiemy – z przyczyn naturalnych. Otrzyma³ pogrzeb wed³ug obrzêdów Helma, co w Nashkel nie jest niczym niezwyk³ym. Wszystko przebieg³o normalnie... poza tym, ¿e cia³o zniknê³o. Coœ jeszcze?~ [nas_01]
+@13113 = ~Có¿, gdy cia³o znika z grobu, s¹ tylko dwie mo¿liwoœci: albo powsta³o jako nieumar³e i samo odesz³o, albo dzia³a grabie¿ca grobów. Twoim zadaniem jest ustaliæ, która z tych opcji jest prawdziwa – i rozwi¹zaæ problem. Coœ jeszcze?~ [nas_02]
+@13114 = ~<CHARNAME>... Czasami zachowujesz siê, jakbyœ dopiero co wyszed³ z jakiejœ odosobnionej fortecy. Nashkel opiera siê na swojej kopalni ¿elaza, ale podczas problemów z rud¹ ¿elaza wydobywany tam metal sta³ siê wadliwy – kruchy, ³amie siê od byle czego. Do tego s³ysza³am, ¿e z ich dowódc¹ stra¿y sta³o siê coœ z³ego – zabi³ kilka osób, po czym znikn¹³. W Nashkel panuje chaos. Lepiej go nie pogarszaæ. Coœ jeszcze?~ ~<CHARNAME>... Czasami zachowujesz siê, jakbyœ dopiero co wysz³a z jakiejœ odosobnionej fortecy. Nashkel opiera siê na swojej kopalni ¿elaza, ale podczas problemu z rud¹ ¿elaza wydobywany tam metal sta³ siê wadliwy – kruchy, ³amie siê od byle czego. Do tego s³ysza³am, ¿e z ich dowódc¹ stra¿y sta³o siê coœ z³ego – zabi³ kilka osób, po czym znikn¹³. W Nashkel panuje chaos. Lepiej go nie pogarszaæ. Coœ jeszcze?~ [nas_03]
+@13115 = ~Normalnie wys³alibyœmy naszego kap³ana, ale z powodu bandytów wszyscy s¹ zajêci. Ty masz doœwiadczenie w uspokajaniu umar³ych i w radzeniu sobie z nekromantami. Cokolwiek tam znajdziesz, bêdziesz wiedzia³, co zrobiæ. Poza tym... w Nashkel jest sporo do zobaczenia. Jeœli kopalnie ciê nie interesuj¹, s³ysza³am, ¿e jarmark jest ca³kiem uroczy. Coœ jeszcze?~ ~Normalnie wys³alibyœmy naszego kap³ana, ale z powodu bandytów wszyscy s¹ zajêci. Ty masz doœwiadczenie w uspokajaniu umar³ych i w radzeniu sobie z nekromantami. Cokolwiek tam znajdziesz, bêdziesz wiedzia³a, co zrobiæ. Poza tym... w Nashkel jest sporo do zobaczenia. Jeœli kopalnie ciê nie interesuj¹, s³ysza³am, ¿e jarmark jest ca³kiem uroczy. Coœ jeszcze?~  [nas_04]
+@13116 = ~Dobrze. Powodzenia, <CHARNAME>.~ [nas_05]
+@13117 = ~Zajmij siê zadaniem, <CHARNAME>.~
+@13118 = ~Jak ci idzie?~
+@13119 = ~Okaza³o siê, ¿e mê¿czyzna powsta³ z martwych, bo nie by³ zadowolony z pogrzebu wed³ug obrz¹dku Helma. By³ wyznawc¹ Ibrandula i chcia³ pochówku zgodnego ze swoj¹ wiar¹.~
+@13120 = ~Hm. Ciekawe. Zmarli potrafi¹ byæ wybredni, jeœli chodzi o swoje pogrzeby. A sam Ibrandul jest intryguj¹cy – sprzymierza siê i z Mask¹, i z Ilmaterem, choæ oni sami s¹ wrogami. Jest te¿ ca³kowicie sprzeczny z Panem Poranka. I dlatego jestem ciekawa... Co byœ zrobi³, gdybyœ znalaz³ siê w towarzystwie kogoœ, kto stoi w absolutnej opozycji do twojej wiary?~ ~Hm. Ciekawe. Zmarli potrafi¹ byæ wybredni, jeœli chodzi o swoje pogrzeby. A sam Ibrandul jest intryguj¹cy – sprzymierza siê i z Mask¹, i z Ilmaterem, choæ oni sami s¹ wrogami. Jest te¿ ca³kowicie sprzeczny z Panem Poranka. I dlatego jestem ciekawa... Co byœ zrobi³a, gdybyœ znalaz³a siê w towarzystwie kogoœ, kto stoi w absolutnej opozycji do twojej wiary?~ [nas_06]
+@13121 = ~Có¿, wspó³pracujê z tob¹, prawda?~
+@13122 = ~Moja wiara stoi po stronie Dobra, wiêc ktoœ jej ca³kowicie przeciwny musia³by byæ Z³y. Zrobi³bym to, co konieczne.~ ~Moja wiara stoi po stronie Dobra, wiêc ktoœ jej ca³kowicie przeciwny musia³by byæ Z³y. Zrobi³abym to, co konieczne.~
+@13123 = ~Myœlê, ¿e nic bym nie zrobi³. W wielkim porz¹dku rzeczy wszystko ma swoje miejsce.~ ~Myœlê, ¿e nic bym nie zrobi³a. W wielkim porz¹dku rzeczy wszystko ma swoje miejsce.~
+@13124 = ~Tak g³êbokie ró¿nice musz¹ skoñczyæ siê przemoc¹.~
+@13125 = ~Nie s¹dzê, bym potrafi³ kogokolwiek przekonaæ... ale móg³bym daæ przyk³ad, ¿e mo¿na ¿yæ inaczej.~ ~Nie s¹dzê, bym potrafi³a kogokolwiek przekonaæ... ale mog³abym daæ przyk³ad, ¿e mo¿na ¿yæ inaczej.~
+@13126 = ~Szczerze mówi¹c – nie wiem.~
+@13127 = ~Ha! S³usznie, <CHARNAME>, s³usznie. To jedna z rzeczy, które w tobie ceniê. Porozmawiaj ze mn¹, kiedy bêdziesz gotów na coœ nowego.~ ~Ha! S³usznie, <CHARNAME>, s³usznie. To jedna z rzeczy, które w tobie ceniê. Porozmawiaj ze mn¹, kiedy bêdziesz gotowa na coœ nowego.~  [nas_07]
+@13128 = ~A jak okreœlasz to, co jest konieczne? Jak zdecydujesz, kiedy pozwoliæ Z³u ¿yæ, a kiedy skazaæ je na œmieræ? Gdybyœmy niszczyli Z³o za ka¿dym razem, nikt nie dosta³by szansy na odkupienie. Ale jeœli zawsze pozwolimy mu ¿yæ, czy nie bêdziemy czêœciowo winni z³a, które póŸniej spowoduje? Hm. Ale nie ma sensu d³u¿ej o tym rozmyœlaæ. Porozmawiaj ze mn¹, gdy bêdziesz gotów na kolejne zadanie.~ ~A jak okreœlasz to, co jest konieczne? Jak zdecydujesz, kiedy pozwoliæ Z³u ¿yæ, a kiedy skazaæ je na œmieræ? Gdybyœmy niszczyli Z³o za ka¿dym razem, nikt nie dosta³by szansy na odkupienie. Ale jeœli zawsze pozwolimy mu ¿yæ, czy nie bêdziemy czêœciowo winni z³a, które póŸniej spowoduje? Hm. Ale nie ma sensu d³u¿ej o tym rozmyœlaæ. Porozmawiaj ze mn¹, gdy bêdziesz gotowa na kolejne zadanie.~ [3dhow]
+@13129 = ~Czyli mrok pozwala doceniæ œwit, tak? Hm. Nie jestem pewna, czy siê z tym zgadzam, ale to nie czas na filozofowanie. Porozmawiaj ze mn¹, gdy bêdziesz gotów na kolejne zadanie.~ ~Czyli mrok pozwala doceniæ œwit, tak? Hm. Nie jestem pewna, czy siê z tym zgadzam, ale to nie czas na filozofowanie. Porozmawiaj ze mn¹, gdy bêdziesz gotowa na kolejne zadanie.~  [3ddd]
+@13130 = ~A kto by³by prowodyrem takiej sytuacji? Czasem ten, kogo uwa¿amy za wroga, potrafi nas naprawdê zaskoczyæ. Byæ mo¿e m¹drzej jest wstrzymaæ cios i zobaczyæ, co z tego wyniknie. Porozmawiaj ze mn¹, gdy bêdziesz gotów na kolejne zadanie.~ ~A kto by³by prowodyrem takiej sytuacji? Czasem ten, kogo uwa¿amy za wroga, potrafi nas naprawdê zaskoczyæ. Byæ mo¿e m¹drzej jest wstrzymaæ cios i zobaczyæ, co z tego wyniknie. Porozmawiaj ze mn¹, gdy bêdziesz gotowa na kolejne zadanie.~  [3dinst]
+@13131 = ~A jeœli wystarczaj¹co ich zaciekawisz, sami zaczn¹ szukaæ odpowiedzi? Có¿... czasami to dzia³a. Porozmawiaj ze mn¹, gdy bêdziesz gotów na kolejne zadanie.~ ~A jeœli wystarczaj¹co ich zaciekawisz, sami zaczn¹ szukaæ odpowiedzi? Có¿... czasami to dzia³a. Porozmawiaj ze mn¹, gdy bêdziesz gotowa na kolejne zadanie.~ [3dcur]
+@13132 = ~Przemyœl to... Podobne sytuacje mog¹ nadejœæ szybciej, ni¿ myœlisz. Porozmawiaj ze mn¹, gdy bêdziesz gotów na kolejne zadanie.~ ~Przemyœl to... Podobne sytuacje mog¹ nadejœæ szybciej, ni¿ myœlisz. Porozmawiaj ze mn¹, gdy bêdziesz gotowa na kolejne zadanie.~ [3didk]
+
+
+// =====================
+// Quest 4 – The Rat King (wererat & rats)
+// =====================
+
+@13133 = ~Mam nadziejê, ¿e nie bêdzie ci przeszkadzaæ ma³e odejœcie od normy. Tym razem ¿adnych nieumar³ych, nekromantów ani kultystów. Jedna z mieszkanek ma problem ze szczurami i chcê, ¿ebyœ siê tym zaj¹³. Mieszka niedaleko gospody P³on¹cy Czarodziej. Jakieœ pytania?~ ~Mam nadziejê, ¿e nie bêdzie ci przeszkadzaæ ma³e odejœcie od normy. Tym razem ¿adnych nieumar³ych, nekromantów ani kultystów. Jedna z mieszkanek ma problem ze szczurami i chcê, ¿ebyœ siê tym zajê³a. Mieszka niedaleko gospody P³on¹cy Czarodziej. Jakieœ pytania?~
+@13134 = ~Chcesz, ¿ebym zaj¹³ siê gromadk¹ szczurów?~ ~Chcesz, ¿ebym zajê³a siê gromadk¹ szczurów?~ [4star]
+@13135 = ~Nigdy nie mówi³am, ¿e ka¿de zadanie, które ci dam, bêdzie ekscytuj¹ce i pe³ne chwa³y, prawda? Œwi¹tynia ma obowi¹zki wobec Beregostu i jego mieszkañców. W³aœcicielka domu poprosi³a najpierw P³omienn¹ Piêœæ, ale oczywiœcie odmówili. Nie b¹dŸ taki ponury – mo¿e jednak wydarzy siê coœ interesuj¹cego. Poza tym chyba ka¿dy poszukiwacz przygód zaczyna³ od problemu ze szczurami.~ ~Nigdy nie mówi³am, ¿e ka¿de zadanie, które ci dam, bêdzie ekscytuj¹ce i pe³ne chwa³y, prawda? Œwi¹tynia ma obowi¹zki wobec Beregostu i jego mieszkañców. W³aœcicielka domu poprosi³a najpierw P³omienn¹ Piêœæ, ale oczywiœcie odmówili. Nie b¹dŸ taka ponura – mo¿e jednak wydarzy siê coœ interesuj¹cego. Poza tym chyba ka¿da poszukiwaczka przygód zaczyna³a od problemu ze szczurami.~ [4glum]
+@13136 = ~Dobrze.~ [4rgood]
+@13137 = ~Wróæ, kiedy uporasz siê z sytuacj¹.~ [4rnoye]
+@13138 = ~Likantrop? Tutaj? Na Pana Poranka... gdybym tylko mog³a, posz³abym tam z tob¹. Dam ci dobr¹ radê. Spróbuj unikn¹æ walki i przekonaæ szczuro³aka, ¿eby odszed³ po dobroci. Nie by³ dot¹d agresywny, wiêc jest szansa, ¿e siê na to zgodzi. WeŸ te¿ ten srebrny sztylet, na wszelki wypadek. Niestety mam tylko jeden. Powodzenia, <CHARNAME>.~ [4yikes]
+@13139 = ~Wróæ, gdy uporasz siê z sytuacj¹. I powodzenia.~ [4noye2]
+@13140 = ~Zabi³em szczuro³aka.~ ~Zabi³am szczuro³aka.~
+@13141 = ~Ciekawi mnie... dlaczego go zabi³eœ? To musia³a byæ trudna walka.~ [4whyk]
+@13142 = ~Likantropy s¹ z³e. Nie mog³em pozwoliæ mu ¿yæ.~ ~Likantropy s¹ z³e. Nie mog³am pozwoliæ mu ¿yæ.~
+@13143 = ~Likantropy s¹ zbyt niebezpieczne, zw³aszcza blisko cywilizacji. Zostawienie go przy ¿yciu by³oby zbyt ryzykowne.~
+@13144 = ~Chcia³em doœwiadczyæ wymagaj¹cej walki.~ ~Chcia³am doœwiadczyæ wymagaj¹cej walki.~
+@13145 = ~Nie mog³em go przekonaæ. To by³a jedyna opcja.~ ~Nie mog³am go przekonaæ. To by³a jedyna opcja.~
+@13146 = ~Twierdzisz, ¿e s¹ z³e z racji samego istnienia? To doœæ okrutna wizja. A co z likantropami Selune? Có¿... miejmy nadziejê, ¿e nikt nigdy nie uzna, ¿e ty jesteœ zbyt niebezpieczny, by ¿yæ. Ale nie mamy czasu, by siê nad tym rozwodziæ. Porozmawiaj ze mn¹, gdy bêdziesz chcia³ podj¹æ siê kolejnego zadania.~ ~Twierdzisz, ¿e s¹ z³e z racji samego istnienia? To doœæ okrutna wizja. A co z likantropami Selune? Có¿... miejmy nadziejê, ¿e nikt nigdy nie uzna, ¿e ty jesteœ zbyt niebezpieczna, by ¿yæ. Ale nie mamy czasu, by siê nad tym rozwodziæ. Porozmawiaj ze mn¹, gdy bêdziesz chcia³a podj¹æ siê kolejnego zadania.~ [4ouch]
+@13147 = ~Zastanawiam siê... czy nadejdzie dzieñ, w którym to ty bêdziesz uwa¿any za tak potê¿nego i tak groŸnego, ¿e ktoœ uzna, ¿e ciebie nie mo¿na zostawiæ przy ¿yciu? Ale nie mamy czasu na rozwa¿ania. Porozmawiaj ze mn¹, gdy bêdziesz chcia³ coœ zrobiæ.~ ~Zastanawiam siê... czy nadejdzie dzieñ, w którym to ty bêdziesz uwa¿ana za tak potê¿n¹ i tak groŸn¹, ¿e ktoœ uzna, ¿e ciebie nie mo¿na zostawiæ przy ¿yciu? Ale nie mamy czasu na rozwa¿ania. Porozmawiaj ze mn¹, gdy bêdziesz chcia³a coœ zrobiæ.~  [4risk]
+@13148 = ~Naprawdê? A co z tob¹? Chcia³byœ, aby ktoœ pomyœla³ o tobie w podobny sposób? Choæ... mo¿e nawet by ci to odpowiada³o. Ale nie mamy czasu na takie dywagacje. Porozmawiaj ze mn¹, gdy bêdziesz chcia³ czegoœ siê podj¹æ.~ ~Naprawdê? A co z tob¹? Chcia³abyœ, aby ktoœ pomyœla³ o tobie w podobny sposób? Choæ... mo¿e nawet by ci to odpowiada³o. Ale nie mamy czasu na takie dywagacje. Porozmawiaj ze mn¹, gdy bêdziesz chcia³a czegoœ siê podj¹æ.~ [4relish]
+@13149 = ~To niedobrze, ale tak ju¿ bywa. Przykro mi, <CHARNAME>, naprawdê, ale nie mamy czasu, ¿eby o tym dyskutowaæ. Porozmawiaj ze mn¹, gdy bêdziesz chcia³ czegoœ siê podj¹æ.~ [4roops] ~To niedobrze, ale tak ju¿ bywa. Przykro mi, <CHARNAME>, naprawdê, ale nie mamy czasu, ¿eby o tym dyskutowaæ. Porozmawiaj ze mn¹, gdy bêdziesz chcia³a czegoœ siê podj¹æ.~ [4roops]
+@13150 = ~Szczurami dowodzi³ szczuro³ak, ale przekona³em ich, by przenieœli siê do nor, które kiedyœ zajmowa³ malaryta.~ ~Szczurami dowodzi³ szczuro³ak, ale przekona³am ich, by przenieœli siê do nor, które kiedyœ zajmowa³ malaryta.~
+@13151 = ~Jestem ciekawa... dlaczego oszczêdzi³eœ szczuro³aka?~ ~Jestem ciekawa... dlaczego oszczêdzi³aœ szczuro³aka?~ [4rwhya]
+@13152 = ~Nie by³ agresywny. Nie zaatakujê kogoœ, kto nie chce walczyæ. To by³oby z³e i niehonorowe.~
+@13153 = ~Nie robi³ niczego z³ego. Nie zas³ugiwa³ na œmieræ tylko dlatego, ¿e by³ szczuro³akiem.~
+@13154 = ~Naprawdê, ale to naprawdê nie chcia³em walczyæ z likantropem.~ ~Naprawdê, ale to naprawdê nie chcia³am walczyæ z likantropem.~
+@13155 = ~Niehonorowe? Tak, wszyscy powinniœmy kierowaæ siê jakimiœ zasadami. Albo przynajmniej powinniœmy je mieæ. Dobra decyzja, <CHARNAME>. Porozmawiaj ze mn¹, gdy bêdziesz chcia³ czegoœ siê podj¹æ.~ ~Niehonorowe? Tak, wszyscy powinniœmy kierowaæ siê jakimiœ zasadami. Albo przynajmniej powinniœmy je mieæ. Dobra decyzja, <CHARNAME>. Porozmawiaj ze mn¹, gdy bêdziesz chcia³a czegoœ siê podj¹æ.~ [4rdish]
+@13156 = ~Czyli nie mo¿emy zmieniæ tego, kim jesteœmy, ale mo¿emy zmieniæ to, kim siê stajemy. O to ci chodzi? Mam nadziejê, ¿e masz racjê, <CHARNAME>. Naprawdê. I chcia³abym, ¿eby wiêcej ludzi myœla³o tak jak ty. Ale nie ma sensu siê nad tym rozwodziæ. Porozmawiaj ze mn¹, gdy bêdziesz chcia³ czegoœ siê podj¹æ.~ ~Czyli nie mo¿emy zmieniæ tego, kim jesteœmy, ale mo¿emy zmieniæ to, kim siê stajemy. O to ci chodzi? Mam nadziejê, ¿e masz racjê, <CHARNAME>. Naprawdê. I chcia³abym, ¿eby wiêcej ludzi myœla³o tak jak ty. Ale nie ma sensu siê nad tym rozwodziæ. Porozmawiaj ze mn¹, gdy bêdziesz chcia³a czegoœ siê podj¹æ.~ [4rwho]
+@13157 = ~To tchórzliwe, ale czasem tchórzostwo ratuje ¿ycie. Porozmawiaj ze mn¹, gdy bêdziesz chcia³ czegoœ siê podj¹æ.~ ~To tchórzliwe, ale czasem tchórzostwo ratuje ¿ycie. Porozmawiaj ze mn¹, gdy bêdziesz chcia³a czegoœ siê podj¹æ.~ [4rcow]
+
+
+// =====================
+// Quest 5 – A Zhent Agent
+// =====================
+
+@13158 = ~Chêtnie porozmawia³abym d³u¿ej, ale... na trakcie miêdzy gospod¹ „Pod Pomocn¹ D³oni¹” a Beregostem znajduje siê agent Zhentarimów. Zabij go. Jakieœ pytania?~ [5zhst]
+@13159 = ~Mam go po prostu zabiæ? Nie mam z nim wczeœniej porozmawiaæ?~
+@13160 = ~Jak go rozpoznam?~ 
+@13161 = ~Jedyny dobry Zhent to martwy Zhent. Owszem, zdarzaj¹ siê odstêpcy od regu³y, ale tym razem nie o takiego chodzi. Coœ jeszcze?~ [5dead]
+@13162 = ~Droga miêdzy Beregostem a gospod¹ „Pod Pomocn¹ D³oni¹” jest prosta jak strza³a. G³upot¹ by³oby iœæ ni¹ otwarcie, ale równie g³upio by³oby zapuszczaæ siê zbyt daleko od traktu. A agenci Zhentarimów w terenie nie s³yn¹ z subtelnoœci. Nie powinno byæ go trudno znaleŸæ. Coœ jeszcze?~ [5where]
+@13163 = ~Zabij agenta Zhentarimów, <CHARNAME>.~ [5kill]
+@13164 = ~Witaj ponownie, <CHARNAME>. Jak tam twoje zadanie?~ [5done]
+@13165 = ~Agent Zhentarim nie ¿yje, choæ najpierw zd¹¿y³ trochê pogadaæ.~
+@13166 = ~Doprawdy?~ [5did]
+@13167 = ~Nazwa³ mnie twoj¹ „najnowsz¹ zabawk¹”.~
+@13168 = ~Nale¿ysz do Harfiarzy? Dlatego wys³a³aœ mnie na Zhenta?~
+@13169 = ~Co ten Zhent w ogóle o tobie wie?~
+@13170 = ~PrzejdŸmy dalej.~
+@13171 = ~Tak powiedzia³? Nie jesteœ pierwsz¹ osob¹, któr¹ wys³a³am w teren. Podejrzewam te¿, ¿e nie bêdziesz ostatni¹ – nie dlatego, ¿e zak³adam twoj¹ œmieræ, rzecz jasna. Mam nadziejê, ¿e z czasem pójdziesz w³asn¹ drog¹. Coœ jeszcze?~ [5move]
+@13172 = ~Co? Nie. Ja... niewa¿ne. Nie nale¿ê do ¿adnych Harfiarzy. Coœ jeszcze?~ [5harp]
+@13173 = ~Nazwa³ mnie twoj¹ „najnowsz¹ zabawk¹”.~
+@13174 = ~Poza tym, ¿e jestem lathanderytk¹, a oni nas nie cierpi¹ z zasady? I ¿e œcigam przestêpców, a oni w³aœnie nimi s¹? I to od dawna? By³oby dziwne, gdyby o mnie nie wiedzieli. Coœ jeszcze?~ [5know]
+@13175 = ~Z przyjemnoœci¹. Zg³oœ siê do mnie, kiedy bêdziesz gotów na kolejne zadanie. A oto z³oto w ramach nagrody za twój wysi³ek.~ ~Z przyjemnoœci¹. Zg³oœ siê do mnie, kiedy bêdziesz gotowa na kolejne zadanie. A oto z³oto w ramach nagrody za twój wysi³ek.~  [5end]
+
+
+// =====================
+// Quest 6 – The Hungry Halfling (Lenovola)
+// =====================
+
+@13176 = ~Dobrze, to mamy ju¿ za sob¹. Wysy³am ciê teraz po Lenovolê – doœæ znan¹ kanibalkê. To nizio³ka... choæ zjada nie tylko nizio³ki, wiêc nie myœl, ¿e ktokolwiek z was jest bezpieczny. Poluje na podró¿nych miêdzy Beregostem a Nashkel, a czasem widywano j¹ te¿ w okolicach Gullykin. Szuka³abym jej w Samotnych Szczytach. Uwa¿aj, ¿eby ciê nie zjad³a – okaleczonego albo zbezczeszczonego cia³a nie da siê wskrzesiæ. Jeœli po¿re ciebie albo któregoœ z twoich towarzyszy, nic siê ju¿ nie da zrobiæ. Poza zabiciem jej, oczywiœcie. Jakieœ pytania?~ [6start]
+@13177 = ~Da siê najpierw z ni¹ porozmawiaæ?~
+@13178 = ~Zale¿y, jak bardzo bêdzie g³odna. A tak ca³kiem serio – raczej w¹tpiê. Kanibalizm to jej wybór i nie s¹dzê, by da³a siê od tego odwieœæ. Coœ jeszcze?~ [6choi]
+@13179 = ~Wykonaj zadanie.~ [6comp]
+@13180 = ~Ach, wróci³eœ – i nadal ¿yjesz. Œwietnie. Odezwij siê, gdy bêdziesz gotów na kolejne zlecenie. A, i jeszcze – weŸ ten pierœcieñ. Pomo¿e ci uchroniæ siê przed tym, by ktoœ ciê w przysz³oœci upiek³.~ ~Ach, wróci³aœ – i nadal ¿yjesz. Œwietnie. Odezwij siê, gdy bêdziesz gotowa na kolejne zlecenie. A, i jeszcze – weŸ ten pierœcieñ. Pomo¿e ci uchroniæ siê przed tym, by ktoœ ciê w przysz³oœci upiek³.~ [can_0]
+
+
+// =====================
+// Quest 7 – Bandits and Thieves (Shadow Thief & bandits)
+// =====================
+
+@13181 = ~S³ysza³am pog³oski, ¿e w pobliskich lasach dzia³aj¹ bandyci. Musia³ o nich us³yszeæ tak¿e Z³odziej Cienia, bo opuœci³ Amn i uda³ siê prosto do lasów. O ile wiemy, jeszcze nie opuœci³ puszczy. Tak czy inaczej – jeœli Z³odzieje Cienia interesuj¹ siê bandytami z jakiegokolwiek powodu, warto siê temu przyjrzeæ. ZnajdŸ Z³odzieja Cienia i dowiedz siê, czego tylko mo¿esz. Jest szansa, ¿e dotar³ ju¿ do obozu bandytów, wiêc mo¿e bêdziesz musia³ najpierw ten obóz znaleŸæ. Jakieœ pytania?~ ~S³ysza³am pog³oski, ¿e w pobliskich lasach dzia³aj¹ bandyci. Musia³ o nich us³yszeæ tak¿e Z³odziej Cienia, bo opuœci³ Amn i uda³ siê prosto do lasów. O ile wiemy, jeszcze nie opuœci³ puszczy. Tak czy inaczej – jeœli Z³odzieje Cienia interesuj¹ siê bandytami z jakiegokolwiek powodu, warto siê temu przyjrzeæ. ZnajdŸ Z³odzieja Cienia i dowiedz siê, czego tylko mo¿esz. Jest szansa, ¿e dotar³ ju¿ do obozu bandytów, wiêc mo¿e bêdziesz musia³a najpierw ten obóz znaleŸæ. Jakieœ pytania?~ [ban_0]
+@13182 = ~Gdzie jest ten obóz bandytów?~
+@13183 = ~Co Z³odziej Cienia robi w tych stronach?~
+@13184 = ~Nie mam pytañ. Zajmê siê tym.~
+@13185 = ~Nie wiem. Wiedz¹ to tylko sami bandyci. Bêdziesz musia³ znaleŸæ jakiœ trop, a obawiam siê, ¿e tu ci nie pomogê. Coœ jeszcze?~ ~Nie wiem. Wiedz¹ to tylko sami bandyci. Bêdziesz musia³a znaleŸæ jakiœ trop, a obawiam siê, ¿e tu ci nie pomogê. Coœ jeszcze?~ [ban_01]
+@13186 = ~Nie jestem pewna. W³aœnie dlatego chcê, ¿ebyœ to ustali³. Coœ jeszcze?~ ~Nie jestem pewna. W³aœnie dlatego chcê, ¿ebyœ to ustali³a. Coœ jeszcze?~ [ban_02]
+@13187 = ~Z³odziej Cienia okaza³ siê renegatem. Przy³¹czy³ siê do bandytów, bo uzna³, ¿e tylko oni go przyjm¹ po tym, co zrobi³. Odes³a³em go tutaj.~ ~Z³odziej Cienia okaza³ siê renegatem. Przy³¹czy³ siê do bandytów, bo uzna³, ¿e tylko oni go przyjm¹ po tym, co zrobi³. Odes³a³am go tutaj.~
+@13188 = ~Tak? Co wp³ynê³o na tê decyzjê?~ [ban_03]
+@13189 = ~Mo¿e zas³u¿y³ na œmieræ za swoje czyny, ale to nie mnie o tym decydowaæ.~
+@13190 = ~Wygl¹da³ na skruszonego, a ja uzna³em, ¿e nale¿y mu siê druga szansa.~ ~Wygl¹da³ na skruszonego, a ja uzna³am, ¿e nale¿y mu siê druga szansa.~
+@13191 = ~Naprawdê nie chcia³o mi siê walczyæ ze Z³odziejem Cienia, skoro i tak mia³em na g³owie ca³¹ bandê bandytów.~ ~Naprawdê nie chcia³o mi siê walczyæ ze Z³odziejem Cienia, skoro i tak mia³am na g³owie ca³¹ bandê bandytów.~
+@13192 = ~Czyli nie chcesz byæ sêdzi¹, ³aw¹ przysiêg³ych i katem w jednej osobie? Zazwyczaj myœlê podobnie. Tak czy inaczej, mam dla ciebie coœ nowego. Odezwij siê, kiedy bêdziesz gotów.~ ~Czyli nie chcesz byæ sêdzi¹, ³aw¹ przysiêg³ych i katem w jednej osobie? Zazwyczaj myœlê podobnie. Tak czy inaczej, mam dla ciebie coœ nowego. Odezwij siê, kiedy bêdziesz gotowa.~  [ban_04]
+@13193 = ~Jesteœ chlub¹ swojej wiary, <CHARNAME>. Odezwij siê, kiedy bêdziesz gotów.~ ~Jesteœ chlub¹ swojej wiary, <CHARNAME>. Odezwij siê, kiedy bêdziesz gotowa.~ [ban_05]
+@13194 = ~Och? Czy¿byœ zaczyna³ braæ ze mnie przyk³ad? Mo¿e jeszcze zrobiê z ciebie lathanderytê! ¯arty na bok – mam dla ciebie coœ jeszcze. Porozmawiaj ze mn¹ znowu, gdy bêdziesz gotów na kolejne zadanie.~ ~Och? Czy¿byœ zaczyna³a braæ ze mnie przyk³ad? Mo¿e jeszcze zrobiê z ciebie lathanderytkê! ¯arty na bok – mam dla ciebie coœ jeszcze. Porozmawiaj ze mn¹ znowu, gdy bêdziesz gotowa na kolejne zadanie.~ [ban_06]
+@13195 = ~Praktyczne podejœcie. Tak czy inaczej, mam dla ciebie kolejne zadanie. Odezwij siê, kiedy bêdziesz gotów.~ ~Praktyczne podejœcie. Tak czy inaczej, mam dla ciebie kolejne zadanie. Odezwij siê, kiedy bêdziesz gotowa.~ [ban_07]
+@13196 = ~Z³odziej Cienia okaza³ siê renegatem. Przy³¹czy³ siê do bandytów, bo uzna³, ¿e tylko oni go przyjm¹ po tym, co zrobi³. Zabi³em go.~ ~Z³odziej Cienia okaza³ siê renegatem. Przy³¹czy³ siê do bandytów, bo uzna³, ¿e tylko oni go przyjm¹ po tym, co zrobi³. Zabi³am go.~
+@13197 = ~Zas³u¿y³ na œmieræ za to, co robi³ jako Z³odziej Cienia.~
+@13198 = ~Móg³ k³amaæ z tym renegactwem. Nie chcia³em ryzykowaæ, ¿e Z³odzieje Cienia wmieszaj¹ siê w sprawê bandytów.~ ~Móg³ k³amaæ z tym renegactwem. Nie chcia³am ryzykowaæ, ¿e Z³odzieje Cienia wmieszaj¹ siê w sprawê bandytów.~
+@13199 = ~Nigdy wczeœniej nie walczy³em ze Z³odziejem Cienia i by³em tego ciekaw.~ ~Nigdy wczeœniej nie walczy³am ze Z³odziejem Cienia i by³am tego ciekaw.~
+@13200 = ~I nie dosta³ drugiej szansy? Ludzie potrafi¹ zmieniaæ siê w zaskakuj¹cy sposób. Skoro by³ renegatem... có¿, nigdy siê ju¿ nie dowiemy. Tak czy inaczej, mam dla ciebie kolejne zadanie. Odezwij siê, kiedy bêdziesz gotów.~ ~I nie dosta³ drugiej szansy? Ludzie potrafi¹ zmieniaæ siê w zaskakuj¹cy sposób. Skoro by³ renegatem... có¿, nigdy siê ju¿ nie dowiemy. Tak czy inaczej, mam dla ciebie kolejne zadanie. Odezwij siê, kiedy bêdziesz gotowa.~
+@13201 = ~Och. Tak, jeœli k³ama³, móg³by w przysz³oœci narobiæ wszystkim wielu k³opotów. Ostatnia rzecz, jakiej potrzebujemy, to wpl¹tanie siê Z³odziei Cienia w... cokolwiek siê tutaj dzieje. Niezale¿nie od tego, mam dla ciebie coœ innego. Porozmawiaj ze mn¹ ponownie, gdy bêdziesz gotów.~ ~Och. Tak, jeœli k³ama³, móg³by w przysz³oœci narobiæ wszystkim wielu k³opotów. Ostatnia rzecz, jakiej potrzebujemy, to wpl¹tanie siê Z³odziei Cienia w... cokolwiek siê tutaj dzieje. Niezale¿nie od tego, mam dla ciebie coœ innego. Porozmawiaj ze mn¹ ponownie, gdy bêdziesz gotowa.~ [ban_09]
+@13202 = ~Nie walczy³eœ jeszcze z wieloma rzeczami. Gdybym wys³a³a ciê na spotkanie ze smokiem, te¿ byœ go zabi³? W ka¿dym razie – mam dla ciebie kolejne zadanie. Mo¿e och³odzi nieco twoj¹ ¿¹dzê walki. Odezwij siê, kiedy bêdziesz gotów.~ ~Nie walczy³aœ jeszcze z wieloma rzeczami. Gdybym wys³a³a ciê na spotkanie ze smokiem, te¿ byœ go zabi³a? W ka¿dym razie – mam dla ciebie kolejne zadanie. Mo¿e och³odzi nieco twoj¹ ¿¹dzê walki. Odezwij siê, kiedy bêdziesz gotowa.~
+
+
+// =====================
+// Quest 8 – The Ulcaster Ruins
+// =====================
+
+@13203 = ~S³ysza³eœ o Ruinach Ulcastera? To by³a szko³a magii, za³o¿ona kilka wieków temu przez mistrza przywo³añ Ulcastera pod okiem Aumvora Niezniszczalnego, netheryjskiego lisza. Szko³a zosta³a dawno temu zniszczona, a od tamtej pory okolica roi siê od nieumar³ych. A nieumarli, rzecz jasna, przyci¹gaj¹ nekromantów. Od czasu do czasu czyœcimy to miejsce, ale teraz wszyscy maj¹ rêce pe³ne roboty przez bandytów i problemy z rud¹ ¿elaza. Widzisz chyba, do czego zmierzam, prawda? IdŸ do Ruin Ulcastera, znajdŸ najnowszego lokatora-nekromantê i usuñ go. Jakieœ pytania?~ ~S³ysza³aœ o Ruinach Ulcastera? To by³a szko³a magii, za³o¿ona kilka wieków temu przez mistrza przywo³añ Ulcastera pod okiem Aumvora Niezniszczalnego, netheryjskiego lisza. Szko³a zosta³a dawno temu zniszczona, a od tamtej pory okolica roi siê od nieumar³ych. A nieumarli, rzecz jasna, przyci¹gaj¹ nekromantów. Od czasu do czasu czyœcimy to miejsce, ale teraz wszyscy maj¹ rêce pe³ne roboty przez bandytów i problemy z rud¹ ¿elaza. Widzisz chyba, do czego zmierzam, prawda? IdŸ do Ruin Ulcastera, znajdŸ najnowszego lokatora-nekromantê i usuñ go. Jakieœ pytania?~ [ul_01]
+@13204 = ~Uwa¿aj w tych ruinach. Nie zagl¹daliœmy tam od d³u¿szego czasu, wiêc mo¿e siê tam roiæ od wszelkiego plugastwa. A kiedy ju¿ staniesz naprzeciw nekromanty – postaraj siê, ¿eby nie zd¹¿y³ rzuciæ choæby jednego czaru. Coœ jeszcze?~ [ul_02]
+@13205 = ~Dobrze. Niech Lathander ci sprzyja. WeŸ jeszcze te strza³y – s¹ bardzo skuteczne przeciwko czaruj¹cym. I nagroda za poprzednie zadanie: Pierœcieñ Stra¿nika. Mo¿e siê jeszcze okazaæ przydatny.~ [ul_03]
+@13206 = ~Dobrze. Niech Lathander ci sprzyja. WeŸ jeszcze te strza³y – s¹ bardzo skuteczne przeciwko czaruj¹cym. Ach, i nagroda za poprzednie zadanie – Pierœcieñ druida. Mo¿e ci siê jeszcze przydaæ.~ [ul_04]
+@13207 = ~Dobrze. Niech Lathander ci sprzyja. A weŸ jeszcze te strza³y – s¹ bardzo skuteczne przeciwko czaruj¹cym. Ach, i nagroda za poprzednie zadanie – Pierœcieñ ostroœci. Mo¿e ci siê jeszcze przydaæ.~ [ul_05]
+
+
+// =====================
+// Quest 9 – Judge and Jury (Ovlin the bandit)
+// =====================
+
+@13208 = ~Ach, <CHARNAME>. Przybywasz w sam¹ porê. Kiedy rozprawi³eœ siê z obozem bandytów, jednego musia³eœ przeoczyæ... albo po prostu nie by³o go wtedy w obozie. Tak czy inaczej, jest tutaj i proszê ciê, byœ rozs¹dzi³ spór miêdzy mn¹ a tym oficerem P³omiennej Piêœci. <CHARNAME>, sytuacja jest taka: ten cz³owiek bra³ udzia³ w napadach, ale okazuje skruchê i prosi o azyl w naszej œwi¹tyni. Jest gotów zostaæ tu, studiowaæ nauki Lathandera, a ja wierzê, ¿e naprawdê ¿a³uje. Œwi¹tynia i P³omienna Piêœæ nie mog¹ dojœæ do porozumienia, wiêc proszê, byœ to ty wyda³ wyrok. Daj znaæ, kiedy podejmiesz decyzjê.~ ~Ach, <CHARNAME>. Przybywasz w sam¹ porê. Kiedy rozprawi³aœ siê z obozem bandytów, jednego musia³aœ przeoczyæ... albo po prostu nie by³o go wtedy w obozie. Tak czy inaczej, jest tutaj i proszê ciê, byœ rozs¹dzi³a spór miêdzy mn¹ a tym oficerem P³omiennej Piêœci. <CHARNAME>, sytuacja jest taka: ten cz³owiek bra³ udzia³ w napadach, ale okazuje skruchê i prosi o azyl w naszej œwi¹tyni. Jest gotów zostaæ tu, studiowaæ nauki Lathandera, a ja wierzê, ¿e naprawdê ¿a³uje. Œwi¹tynia i P³omienna Piêœæ nie mog¹ dojœæ do porozumienia, wiêc proszê, byœ to ty wyda³a wyrok. Daj znaæ, kiedy podejmiesz decyzjê.~ [jj_01]
+@13209 = ~No i jak, <CHARNAME>? Jaki jest twój werdykt?~ [jj_02]
+@13210 = ~Za swoje zbrodnie zas³u¿y³ na stryczek.~
+@13211 = ~Musi odpowiedzieæ za to, co zrobi³, ale niekoniecznie utrat¹ ¿ycia. Zamknijcie go na jakiœ czas. Nauki Lathandera mo¿e ch³on¹æ zza krat.~
+@13212 = ~Okazuje skruchê. Skupmy siê na tym i pozwólmy mu zostaæ w œwi¹tyni.~
+@13213 = ~Wci¹¿ siê nad tym zastanawiam.~
+@13214 = ~A mo¿e jednak... nie... Wszyscy zgodziliœmy siê na ten uk³ad. Wybacz, Ovlinie. Bogowie znaj¹ prawdê i ufam, ¿e oka¿¹ mi³osierdzie twojej duszy. <CHARNAME>, porozmawiaj ze mn¹, kiedy bêdziesz gotów na kolejne zadanie.~ ~A mo¿e jednak... nie... Wszyscy zgodziliœmy siê na ten uk³ad. Wybacz, Ovlinie. Bogowie znaj¹ prawdê i ufam, ¿e oka¿¹ mi³osierdzie twojej duszy. <CHARNAME>, porozmawiaj ze mn¹, kiedy bêdziesz gotowa na kolejne zadanie.~ [jj_03]
+@13215 = ~Kompromis, tak? To i tak lepsze ni¿ niektóre inne mo¿liwoœci. <CHARNAME>, porozmawiaj ze mn¹, kiedy bêdziesz gotów na kolejne zadanie.~ ~Kompromis, tak? To i tak lepsze ni¿ niektóre inne mo¿liwoœci. <CHARNAME>, porozmawiaj ze mn¹, kiedy bêdziesz gotowa na kolejne zadanie.~  [jj_04]
+@13216 = ~WeŸmiemy za niego pe³n¹ odpowiedzialnoœæ, jeœli to pana uspokoi, oficerze. Chyba ¿e ma pan jeszcze jakieœ zastrze¿enia...? A ty, <CHARNAME>, porozmawiaj ze mn¹, kiedy bêdziesz gotów na kolejne zadanie.~ [jj_05] ~WeŸmiemy za niego pe³n¹ odpowiedzialnoœæ, jeœli to pana uspokoi, oficerze. Chyba ¿e ma pan jeszcze jakieœ zastrze¿enia...? A ty, <CHARNAME>, porozmawiaj ze mn¹, kiedy bêdziesz gotowa na kolejne zadanie.~ [jj_05]
+@13217 = ~Nie musisz siê spieszyæ z decyzj¹.~ [jj_06]
+
+
+// =====================
+// Quest 10 – Renegade Zhent (Cloakwood)
+// =====================
+
+@13218 = ~Mam dla ciebie zadanie doœæ delikatnej natury. Otrzyma³am wiadomoœæ o renegacie Zhentarimów ukrywaj¹cym siê w Kniei Otulisko i chcê, byœ go tutaj sprowadzi³. Nie wiem dok³adnie, gdzie siê kryje – pewnie na tyle g³êboko, by unikaæ ludzi, ale nie tak g³êboko, by trafiæ na Druidów Cienia. ZnajdŸ go i odeœlij tutaj, jasne?~ ~Mam dla ciebie zadanie doœæ delikatnej natury. Otrzyma³am wiadomoœæ o renegacie Zhentarimów ukrywaj¹cym siê w Kniei Otulisko i chcê, byœ go tutaj sprowadzi³a. Nie wiem dok³adnie, gdzie siê kryje – pewnie na tyle g³êboko, by unikaæ ludzi, ale nie tak g³êboko, by trafiæ na Druidów Cienia. ZnajdŸ go i odeœlij tutaj, jasne?~  [rz_01]
+@13219 = ~Czemu go po prostu nie zabiæ? Myœla³em, ¿e jedyny dobry Zhent to martwy Zhent?~ ~Czemu go po prostu nie zabiæ? Myœla³am, ¿e jedyny dobry Zhent to martwy Zhent?~
+@13220 = ~Dlaczego w³aœciwie chcesz go tutaj?~
+@13221 = ~Jesteœ pewna, ¿e nie nale¿ysz do Harfiarzy?~
+@13222 = ~Nie jest ju¿ Zhentem. Uciek³ – jest renegatem. Czy to wyjaœnia sprawê? Coœ jeszcze?~ [rz_02]
+@13223 = ~Bo jeœli nie trafi tutaj albo do ilmaterytów, to prêdzej czy póŸniej zginie. Lathander naucza o odkupieniu. Nawet dla Zhentarimów. Coœ jeszcze?~ [rz_03]
+@13224 = ~Tak, jestem pewna. Przestañ o to pytaæ. Coœ jeszcze?~ [rz_04]
+@13225 = ~OdnajdŸ renegata i sprowadŸ go tutaj.~ [rz_05]
+@13226 = ~Odes³a³em renegata w tê stronê. Inni Zhentarimowie próbowali go zabiæ, ale ju¿ siê tym nie zajm¹... a przy okazji nazwali mnie twoim „psem bojowym”.~ ~Odes³a³am renegata w tê stronê. Inni Zhentarimowie próbowali go zabiæ, ale ju¿ siê tym nie zajm¹... a przy okazji nazwali mnie twoim „psem bojowym”.~
+@13227 = ~Mm. W gruncie rzeczy... mo¿e nie s¹ daleko od prawdy, co? Tak czy inaczej, dobra robota, <CHARNAME>. Mam dla ciebie kolejne zadanie – tym razem chyba mniej dramatyczne. Odezwij siê, kiedy bêdziesz gotów.~ ~Mm. W gruncie rzeczy... mo¿e nie s¹ daleko od prawdy, co? Tak czy inaczej, dobra robota, <CHARNAME>. Mam dla ciebie kolejne zadanie – tym razem chyba mniej dramatyczne. Odezwij siê, kiedy bêdziesz gotowa.~  [rz_06]
+@13228 = ~Naprawdê? Tak ciê nazwali? Dziwne. Nie jesteœ szczególnie brutalny... na pewno nie tak ¿¹dny krwi jak oni. W ka¿dym razie – dobra robota, <CHARNAME>. Mam dla ciebie kolejne zadanie, raczej spokojniejsze. Odezwij siê, kiedy bêdziesz gotów.~ ~Naprawdê? Tak ciê nazwali? Dziwne. Nie jesteœ szczególnie brutalna... na pewno nie tak ¿¹dna krwi jak oni. W ka¿dym razie – dobra robota, <CHARNAME>. Mam dla ciebie kolejne zadanie, raczej spokojniejsze. Odezwij siê, kiedy bêdziesz gotowa.~ [rz_07]
+@13229 = ~Zabi³em renegata Zhentarimów.~ ~Zabi³am renegata Zhentarimów.~
+@13230 = ~CO TAKIEGO?! Przecie¿ wyraŸnie powiedzia³am, ¿ebyœ tego nie robi³! Niewa¿ne, jakie masz wyt³umaczenie. Wynoœ siê st¹d!~ ~CO TAKIEGO?! Przecie¿ wyraŸnie powiedzia³am, ¿ebyœ tego nie robi³a! Niewa¿ne, jakie masz wyt³umaczenie. Wynoœ siê st¹d!~  [rz_08]
+@13231 = ~Wynoœ siê, <CHARNAME>.~ [rz_09]
+
+
+// =====================
+// Quest 11 – Papers, please (Helmite documents)
+// =====================
+
+@13232 = ~Helmici we Wrotach Baldura maj¹ pewne dokumenty, które – jak s¹dz¹ – bêdê w stanie rozszyfrowaæ. Zrób mi przys³ugê i je dla mnie odbierz. Arteger bêdzie, rzecz jasna, w Œwi¹tyni Helma. Jakieœ pytania?~ [p_01]
+@13233 = ~Dlaczego s¹dz¹, ¿e potrafisz je odczytaæ? Czemu nie poprosz¹ o to jakiegoœ uczonego z Candlekeep?~
+@13234 = ~Dlaczego sama po nie nie pójdziesz?~
+@13235 = ~Nie jestem tego ca³kowicie pewna – i nie bêdê, dopóki nie zobaczê tych dokumentów. Mo¿esz rozwiaæ nasz¹ ciekawoœæ, przynosz¹c je tutaj. Coœ jeszcze?~ [p_02]
+@13236 = ~Poniewa¿ niechêtnie opuszczam œwi¹tyniê. Ty natomiast – jak widzê – nie masz z tym ¿adnego problemu. Coœ jeszcze?~ [p_03]
+@13237 = ~Przynieœ mi te dokumenty.~ [p_04]
+@13238 = ~Ach, widzê, ¿e masz dokumenty. Hm... poka¿. Aha... tak, zdecydowanie potrafiê... hm. Niestety wygl¹da na to, ¿e sama powinnam udaæ siê do Wrót. Najpewniej bêdê mia³a dla ciebie kolejne zadania – spotkaj siê ze mn¹ w Œwi¹tyni Helma.~ [p_05]
+
+
+// =====================
+// Quest 12 – The Loviataran (renegade of Loviatar)
+// =====================
+
+@13239 = ~Ach, <CHARNAME>, jesteœ. Doskonale. Rzecz jasna, mam dla ciebie kolejn¹ misjê. Pods³ucha³am rozmowê kilku helmitów o pewnej wyznawczyni Loviatar. Schroni³a siê we Wrotach Baldura jako odstêpczyni i pragnie pojednaæ siê z Ilmaterem. Helmici, oczywiœcie, chc¹ j¹ „postawiæ przed wymiarem sprawiedliwoœci”, co zapewne oznacza stryczek. Osobiœcie uwa¿am, ¿e to wyznawcy Ilmatera powinni zdecydowaæ, co z ni¹ zrobiæ. Chcê, byœ j¹ odnalaz³ i przekaza³ jej ten pierœcieñ niewidzialnoœci. Najtrudniejsze bêdzie ustalenie, gdzie siê zatrzyma³a. Ach – i helmici nie wiedz¹, ¿e my wiemy o jej obecnoœci, wiêc proszê, zachowaj to miêdzy nami. Jakieœ pytania?~ [lov_01] ~Ach, <CHARNAME>, jesteœ. Doskonale. Rzecz jasna, mam dla ciebie kolejn¹ misjê. Pods³ucha³am rozmowê kilku helmitów o pewnej wyznawczyni Loviatar. Schroni³a siê we Wrotach Baldura jako odstêpczyni i pragnie pojednaæ siê z Ilmaterem. Helmici, oczywiœcie, chc¹ j¹ „postawiæ przed wymiarem sprawiedliwoœci”, co zapewne oznacza stryczek. Osobiœcie uwa¿am, ¿e to wyznawcy Ilmatera powinni zdecydowaæ, co z ni¹ zrobiæ. Chcê, byœ j¹ odnalaz³a i przekaza³a jej ten pierœcieñ niewidzialnoœci. Najtrudniejsze bêdzie ustalenie, gdzie siê zatrzyma³a. Ach – i helmici nie wiedz¹, ¿e my wiemy o jej obecnoœci, wiêc proszê, zachowaj to miêdzy nami. Jakieœ pytania?~ [lov_01]
+@13240 = ~Co masz na myœli, mówi¹c, ¿e helmici nie wiedz¹, ¿e o niej wiemy?~
+@13241 = ~Dlaczego mamy pozwoliæ im decydowaæ o jej losie?~
+@13242 = ~Wygl¹dasz na wyj¹tkowo zaanga¿owan¹ w tê sprawê.~
+@13243 = ~Masz jakieœ wskazówki, gdzie jej szukaæ?~
+@13244 = ~Trochê sobie ich pods³ucha³am. By³byœ zdziwiony, gdybyœ dowiedzia³ siê, co ludzie mówi¹, gdy s¹dz¹, ¿e nikt ich nie s³yszy albo nie zwraca na nich uwagi. Coœ jeszcze?~ ~Trochê sobie ich pods³ucha³am. By³abyœ zdziwiona, gdybyœ dowiedzia³a siê, co ludzie mówi¹, gdy s¹dz¹, ¿e nikt ich nie s³yszy albo nie zwraca na nich uwagi. Coœ jeszcze?~ [lov_02]
+@13245 = ~Z tego, co pods³ucha³am, wiêkszoœæ jej przewinieñ dotyczy³a wyznawców Ilmatera. Skoro tak, to oni powinni zdecydowaæ o jej losie, nie s¹dzisz? Coœ jeszcze?~ [lov_3]
+@13246 = ~Ja...? Nie, nie bardziej ni¿ w innych sprawach. Jest odstêpczyni¹ i chcê daæ jej szansê na odkupienie – tak jak tamtemu renegatowi Zhentarimów, którego kaza³am ci sprowadziæ. Coœ jeszcze?~ [lov_04]
+@13247 = ~Hm. wyznawcy Loviatar potrafi¹ byæ doœæ... dekadenccy, wiêc mog³a wybraæ jak¹œ lepsz¹ gospodê. Ale s¹ te¿ kalkuluj¹cy, wiêc równie dobrze mog³a celowo wybraæ lichsz¹. Albo przewidzieæ, ¿e bêdziemy tak myœleæ. SprawdŸ po prostu wszystkie miejsca, gdzie podró¿ni zwykle siê zatrzymuj¹. Coœ jeszcze?~ [lov_05]
+@13248 = ~Dobrze. Obyœ znalaz³ j¹, nim zrobi to P³omienna Piêœæ albo paladyni.~ ~Dobrze. Obyœ znalaz³a j¹, nim zrobi to P³omienna Piêœæ albo paladyni.~  [lov_06]
+@13249 = ~Dostarcz ten pierœcieñ.~
+@13250 = ~Ach, wróci³eœ. Powiedz mi, <CHARNAME>... dlaczego w³aœciwie zrobi³eœ to, o co prosi³am?~ ~Ach, wróci³aœ. Powiedz mi, <CHARNAME>... dlaczego w³aœciwie zrobi³aœ to, o co prosi³am?~ [lov_08]
+@13251 = ~Wyda³aœ siê wyj¹tkowo w to zaanga¿owana, wiêc uzna³em, ¿e to coœ wa¿nego.~ ~Wyda³aœ siê wyj¹tkowo w to zaanga¿owana, wiêc uzna³am, ¿e to coœ wa¿nego.~
+@13252 = ~Bo mnie o to poprosi³aœ.~
+@13253 = ~Bo uwa¿am, ¿e nale¿y siê jej druga szansa.~
+@13254 = ~Naprawdê tak myœlisz? Hm. W pewnym sensie... chyba rzeczywiœcie jest to dla mnie wa¿ne. Niewa¿ne. Mam dla ciebie kolejne zadanie. Porozmawiaj ze mn¹, kiedy bêdziesz gotów.~ ~Naprawdê tak myœlisz? Hm. W pewnym sensie... chyba rzeczywiœcie jest to dla mnie wa¿ne. Niewa¿ne. Mam dla ciebie kolejne zadanie. Porozmawiaj ze mn¹, kiedy bêdziesz gotowa.~ [lov_09]
+@13255 = ~I to tyle? Gdybym poprosi³a ciê o... nie, to by³oby wobec ciebie nieuczciwe. Niewa¿ne. Mam dla ciebie kolejne zadanie.~ [lov_10]
+@13256 = ~Cieszê siê, ¿e siê zgadzamy. A teraz – nastêpne zadanie czeka. Porozmawiaj ze mn¹, kiedy bêdziesz gotów.~ ~Cieszê siê, ¿e siê zgadzamy. A teraz – nastêpne zadanie czeka. Porozmawiaj ze mn¹, kiedy bêdziesz gotowa.~ [lov_11]
+@13257 = ~Zabi³em renegatkê, wyznawczyniê Loviatar.~ ~Zabi³am renegatkê, wyznawczyniê Loviatar.~
+
+
+// =====================
+// Quest 13 – The Doppelganger
+// =====================
+
+@13258 = ~Ach, <CHARNAME>. Mam dla ciebie coœ interesuj¹cego – pojawi³y siê doniesienia o sobowtórniaku, który skrywa siê w kana³ach. P³omienna Piêœæ, rzecz jasna, chce go zabiæ, ale ja jestem niezwykle ciekawa. Prawie nigdy nie widzi siê sobowtórniaka w jego prawdziwej postaci i zastanawiam siê, dlaczego akurat ten nie próbuje ukrywaæ siê wœród ludzi, jak zwykle robi jego rodzaj. Zbadaj to, dobrze?~ [dop_01]
+@13259 = ~Myœlisz, ¿e ten sobowtórniak ma coœ wspólnego z niepokojami w mieœcie?~
+@13260 = ~Zajmê siê tym.~
+@13261 = ~Ma³o prawdopodobne. Gdyby chcia³ sprawiaæ problemy, nie paradowa³by w swojej prawdziwej formie.~ [dop_02]
+@13262 = ~Dobrze. Obyœ znalaz³ go, zanim zrobi to P³omienna Piêœæ.~ ~Dobrze. Obyœ znalaz³a go, zanim zrobi to P³omienna Piêœæ.~  [dop_03]
+@13263 = ~Ustal, co siê dzieje.~
+@13264 = ~Ach, <CHARNAME>, wróci³eœ. Dziêki bogom.~ ~Ach, <CHARNAME>, wróci³aœ. Dziêki bogom.~ [dop_04]
+@13265 = ~Sobowtórniak chcia³ po prostu ¿yæ, bêd¹c sob¹, wiêc mu na to pozwoli³em.~ ~Sobowtórniak chcia³ po prostu ¿yæ, bêd¹c sob¹, wiêc mu na to pozwoli³am.~
+@13266 = ~Dobra decyzja. Mo¿e... mo¿e jednak jest jakaœ nadzieja. Nie mamy jednak czasu na rozwa¿ania, mam dla ciebie coœ bardzo pilnego. Porozmawiaj ze mn¹, jak tylko bêdziesz móg³ podj¹æ siê kolejnego zadania.~ ~Dobra decyzja. Mo¿e... mo¿e jednak jest jakaœ nadzieja. Nie mamy jednak czasu na rozwa¿ania, mam dla ciebie coœ bardzo pilnego. Porozmawiaj ze mn¹, jak tylko bêdziesz mog³a podj¹æ siê kolejnego zadania.~  [dop_05]
+@13267 = ~Sobowtórniak nie ¿yje – nie mog³em pozwoliæ takiemu potworowi ¿yæ.~ ~Sobowtórniak nie ¿yje – nie mog³am pozwoliæ takiemu potworowi ¿yæ.~				 
+@13268 = ~Có¿... i w³aœnie dlatego zwykle siê ukrywaj¹. I dlatego inni tak¿e k³ami¹ oraz skrywaj¹, kim s¹. Os¹d bywa gwa³towny. Nie mamy czasu, by siê nad tym pochylaæ. Mam dla ciebie coœ bardzo pilnego. Porozmawiaj ze mn¹, jak tylko bêdziesz móg³ podj¹æ siê kolejnego zadania.~ ~Có¿... i w³aœnie dlatego zwykle siê ukrywaj¹. I dlatego inni tak¿e k³ami¹ oraz skrywaj¹, kim s¹. Os¹d bywa gwa³towny. Nie mamy czasu, by siê nad tym pochylaæ. Mam dla ciebie coœ bardzo pilnego. Porozmawiaj ze mn¹, jak tylko bêdziesz mog³a podj¹æ siê kolejnego zadania.~ [dop_06]
+
+
+// =====================
+// Finale – Blood or Faith (Mordiyin & confession)
+// =====================
+
+@13269 = ~G³êbokie Piwnice pod Sp³onion¹ Syren¹. Kryje siê tam Mordiyin, wysoko postawiony zabójca Zhentarimów. Musi zgin¹æ, <CHARNAME>. Jakieœ pytania?~ [fin_01]
+@13270 = ~Dlaczego sama tego nie zrobisz?~
+@13271 = ~Sk¹d o tym wiesz?~
+@13272 = ~Czemu nie poprosiæ o pomoc P³omiennej Piêœci?~
+@13273 = ~Czemu nie wezwaæ Harfiarzy?~
+@13274 = ~To chyba nie jest jakaœ pu³apka, prawda?~
+@13275 = ~Co mo¿esz mi powiedzieæ o Mordiyinie?~
+@13276 = ~Nie mam pytañ. Zajmê siê tym.~
+@13277 = ~Ja... nie ufam sobie w tej sprawie. Za du¿o miêdzy nami zasz³o. Coœ jeszcze?~ [fin_02]
+@13278 = ~Pamiêtasz dokumenty, które sprowadzi³eœ mi od helmitów? Powód, dla którego przyby³am do Wrót Baldura, zamiast zostaæ w Beregoœcie? To by³y papiery Zhentarimów. Nie by³o trudno z³amaæ ich szyfr i tak dowiedzia³am siê o tym wszystkim. Coœ jeszcze?~ ~Pamiêtasz dokumenty, które sprowadzi³aœ mi od helmitów? Powód, dla którego przyby³am do Wrót Baldura, zamiast zostaæ w Beregoœcie? To by³y papiery Zhentarimów. Nie by³o trudno z³amaæ ich szyfr i tak dowiedzia³am siê o tym wszystkim. Coœ jeszcze?~  [fin_03]
+@13279 = ~P³omiennej Piêœci? Mówimy o tej samej organizacji? Nie radz¹ sobie z bandytami – jak wiêc mieliby poradziæ sobie ze Zhentarimami? Nie dadz¹ sobie rady. To by³aby rzeŸ, zak³adaj¹c, ¿e w ogóle odwa¿yliby siê tam pójœæ. Coœ jeszcze?~ [fin_04]
+@13280 = ~¯yczê powodzenia w szybkim odnalezieniu Harfiarzy. Nawet jeœli ich znajdziesz, zasypi¹ ciê pytaniami. Ty stracisz czas, oni strac¹ czas... dok³adnie tak, jak my teraz. Coœ jeszcze?~ [fin_05]
+@13281 = ~Oczywiœcie, <CHARNAME>, spêdzi³am ca³y ten czas, buduj¹c twoj¹ pozycjê, tylko po to, by poprowadziæ ciê w pu³apkê jak baranka na rzeŸ. Nie, to nie jest pu³apka. Coœ jeszcze?~ [fin_06]
+@13282 =  ~Byliœmy kiedyœ partnerami. Unika³am i zabija³am wielu innych zabójców z Twierdzy Zhentil i wygl¹da na to, ¿e w koñcu przys³ali Mordiyina. Zna mnie wystarczaj¹co dobrze i zak³adam, ¿e wiedz¹, ¿e robi³am siê trochê zbyt sentymentalna. Ja... nie wiem, czy dam radê siê z nim zmierzyæ, dlatego wysy³am ciebie. I b¹dŸ ostro¿ny, ca³kiem dobrze radzi sobie w walce, a do tego potrafi u¿ywaæ magii. Nie wiem dok³adnie, do czego jest teraz zdolny, nie œledzi³am go. Byæ mo¿e by³ to z mojej strony b³¹d. Coœ jeszcze?~ [fin_07]
+@13283 = ~Powodzenia, <CHARNAME>.~ [fin_08]
+@13284 = ~Zabij Mordiyina, <CHARNAME>. Szybko. Proszê.~ [fin_09]
+@13285 = ~Och, <CHARNAME>! Wróci³eœ.~ ~Och, <CHARNAME>! Wróci³aœ.~ [fin_10]
+@13286 = ~Tak, wróci³em. Mordiyin mia³ sporo do powiedzenia.~ ~Tak, wróci³am. Mordiyin mia³ sporo do powiedzenia.~
+@13287 = ~Tak... przypuszczam, ¿e mia³. Dobrze, zas³ugujesz na moj¹ szczeroœæ. Kiedyœ by³am agentk¹ Zhentarimów. Egzekutork¹. Tropi³am naszych wrogów bez litoœci i bez wahania, a ka¿dego, kto im pomóg³, choæby tylko udzieli³ schronienia... zabija³am. Z zimn¹ krwi¹. Zdarza³o siê, ¿e mordowa³am niewinnych tylko dlatego, ¿e ukrywali renegatów. Wymordowa³am ca³¹ œwi¹tyniê wraz z wyznawcami Ilmatera – choæ nikt z nich nawet nie podniós³ na mnie rêki. Próbowa³am uciec przed swoj¹ przesz³oœci¹. Byæ kimœ lepszym. Lathander obiecuje nowy dzieñ, ale ja nie potrafiê wyrwaæ siê z cienia w³asnych grzechów. Zhentarimowie mawiaj¹: „raz Zhent, zawsze Zhent”. I zaczynam rozumieæ, ¿e mieli racjê. Próbowa³am odkupiæ winy, pomagaj¹c innym renegatom... ale kiedy mówiê, ¿e jedyny dobry Zhent to martwy Zhent – wierz mi, wiem, co mówiê. Dlatego mam dla ciebie ostatnie zadanie. Chcê, ¿ebyœ by³ œwiadkiem mojej œmierci.~ ~Tak... przypuszczam, ¿e mia³. Dobrze, zas³ugujesz na moj¹ szczeroœæ. Kiedyœ by³am agentk¹ Zhentarimów. Egzekutork¹. Tropi³am naszych wrogów bez litoœci i bez wahania, a ka¿dego, kto im pomóg³, choæby tylko udzieli³ schronienia... zabija³am. Z zimn¹ krwi¹. Zdarza³o siê, ¿e mordowa³am niewinnych tylko dlatego, ¿e ukrywali renegatów. Wymordowa³am ca³¹ œwi¹tyniê wraz z wyznawcami Ilmatera – choæ nikt z nich nawet nie podniós³ na mnie rêki. Próbowa³am uciec przed swoj¹ przesz³oœci¹. Byæ kimœ lepszym. Lathander obiecuje nowy dzieñ, ale ja nie potrafiê wyrwaæ siê z cienia w³asnych grzechów. Zhentarimowie mawiaj¹: „raz Zhent, zawsze Zhent”. I zaczynam rozumieæ, ¿e mieli racjê. Próbowa³am odkupiæ winy, pomagaj¹c innym renegatom... ale kiedy mówiê, ¿e jedyny dobry Zhent to martwy Zhent – wierz mi, wiem, co mówiê. Dlatego mam dla ciebie ostatnie zadanie. Chcê, ¿ebyœ by³a œwiadkiem mojej œmierci.~ [fin_11]
+@13288 = ~Nie b¹dŸ niedorzeczna. Wiesz przecie¿, ¿e sam œwiêty nie jestem. Jeœli potêpisz siebie, potêpiasz i mnie.~ ~Nie b¹dŸ niedorzeczna. Wiesz przecie¿, ¿e sama œwiêta nie jestem. Jeœli potêpisz siebie, potêpiasz i mnie.~
+@13289 = ~Nikt z nas nie jest œwiêty, Elorano... ale chyba to, kim siê stajemy, znaczy równie wiele – jeœli nie wiêcej – ni¿ to, kim byliœmy? (UWAGA: ten wybór zmieni twój charakter na Chaotyczny Neutralny)~
+@13290 = ~Nikt z nas nie jest œwiêty, Elorano... ale chyba to, kim siê stajemy, znaczy równie wiele – jeœli nie wiêcej – ni¿ to, kim byliœmy? (UWAGA: ten wybór zmieni twój charakter na Prawdziwie Neutralny)~
+@13291 = ~Nikt z nas nie jest œwiêty, Elorano... ale chyba to, kim siê stajemy, znaczy równie wiele – jeœli nie wiêcej – ni¿ to, kim byliœmy? (UWAGA: ten wybór zmieni twój charakter na Praworz¹dny Neutralny)~
+@13300 = ~Nikt z nas nie jest œwiêty, Elorano... ale chyba to, kim siê stajemy, znaczy równie wiele – jeœli nie wiêcej – ni¿ to, kim byliœmy? (UWAGA: ten wybór zmieni twój charakter na Chaotyczny Dobry)~
+@13301 = ~Nikt z nas nie jest œwiêty, Elorano... ale chyba to, kim siê stajemy, znaczy równie wiele – jeœli nie wiêcej – ni¿ to, kim byliœmy? (UWAGA: ten wybór zmieni twój charakter na Neutralny Dobry)~
+@13302 = ~Nikt z nas nie jest œwiêty, Elorano... ale chyba to, kim siê stajemy, znaczy równie wiele – jeœli nie wiêcej – ni¿ to, kim byliœmy? (UWAGA: ten wybór zmieni twój charakter na Praworz¹dny Dobry)~
+@13292 = ~Masz wyrzuty sumienia z powodu tego, co zrobi³aœ – i s³usznie. Powinnaœ ¿yæ, choæby po to, by dŸwigaæ ciê¿ar w³asnych wystêpków.~
+@13293 = ~Masz wyrzuty sumienia z powodu tego, co zrobi³aœ – i s³usznie. Powinnaœ ¿yæ, choæby po to, by dŸwigaæ ciê¿ar w³asnych wystêpków. (UWAGA: ten wybór zmieni twój charakter na Chaotyczny Neutralny)~
+@13294 = ~Masz wyrzuty sumienia z powodu tego, co zrobi³aœ – i s³usznie. Powinnaœ ¿yæ, choæby po to, by dŸwigaæ ciê¿ar w³asnych wystêpków. (UWAGA: ten wybór zmieni twój charakter na Prawdziwie Neutralny)~
+@13295 = ~Masz wyrzuty sumienia z powodu tego, co zrobi³aœ – i s³usznie. Powinnaœ ¿yæ, choæby po to, by dŸwigaæ ciê¿ar w³asnych wystêpków. (UWAGA: ten wybór zmieni twój charakter na Praworz¹dny Neutralny)~
+@13297 = ~Masz wyrzuty sumienia z powodu tego, co zrobi³aœ – i s³usznie. Powinnaœ ¿yæ, choæby po to, by dŸwigaæ ciê¿ar w³asnych wystêpków. (UWAGA: ten wybór zmieni twój charakter na Chaotyczny Z³y)~
+@13298 = ~Masz wyrzuty sumienia z powodu tego, co zrobi³aœ – i s³usznie. Powinnaœ ¿yæ, choæby po to, by dŸwigaæ ciê¿ar w³asnych wystêpków. (UWAGA: ten wybór zmieni twój charakter na Neutralny Z³y)~
+@13299 = ~Masz wyrzuty sumienia z powodu tego, co zrobi³aœ – i s³usznie. Powinnaœ ¿yæ, choæby po to, by dŸwigaæ ciê¿ar w³asnych wystêpków. (UWAGA: ten wybór zmieni twój charakter na Praworz¹dny Z³y)~
+@13296 = ~Ju¿ odkupi³aœ swoje grzechy, Elorano. Uwierz w siebie albo przynajmniej zaufaj Lathanderowi – to, co w³aœnie robisz i dlaczego to robisz, stoi w sprzecznoœci niemal ze wszystkim, co on reprezentuje. ~
+@13303 = ~(Nic nie rób, tylko patrz.)~
+
+
+// =====================
+// Finale Epilogues
+// =====================
+
+@13304 = ~Mo¿e... <CHARNAME>?... Naprawdê a¿ tak we mnie wierzysz? Nawet teraz, gdy znasz prawdê o tym, kim jestem – kim kiedyœ by³am? Myœlisz, ¿e zas³ugujê jeszcze na jak¹œ szansê? Ja... muszê to przemyœleæ... Nie mogê jednak d³u¿ej zostaæ we Wrotach, skoro Zhentarimowie wiedz¹, ¿e tu jestem. ¯egnaj. I dziêkujê.~ [fin_12]
+@13305 = ~Ty naprawdê w to wierzysz, prawda? Dobrze. Mam tylko nadziejê, ¿e nie pogorszê sprawy. Bogowie wiedz¹, ¿e i tak narobi³am ju¿ wystarczaj¹co du¿o szkód. Skoro tak bardzo chcesz, ¿ebym zosta³a przy ¿yciu, to... bêdê musia³a opuœciæ Wrota, bo przecie¿ Zhentarimowie wiedz¹, ¿e tu jestem. ¯egnaj. Mam nadziejê, ¿e to nie jest kolejny b³¹d.~ [fin_13]
+@13306 = ~Nie wa¿ siê rzucaæ tekstami, których sam nie pojmujesz! ¯egnaj.~ ~Nie wa¿ siê rzucaæ tekstami, których sama nie pojmujesz! ¯egnaj.~ [fin_14]
+@13307 = ~Do widzenia.~ [fin_15]
