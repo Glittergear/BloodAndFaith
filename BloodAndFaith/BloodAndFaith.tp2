@@ -78,6 +78,15 @@ LANGUAGE ~Russian (by CblblP & Arcanecoast.ru)~
          ~BloodAndFaith/Languages/russian/BloodAndFaith.tra~ //you'd put the mod title in here.
          ~BloodAndFaith/Languages/russian/JournalEntries.tra~
 
+LANGUAGE ~Polish [EE] (by my_summertime, SoM Membress, part of CoB Clan)~
+         ~polish-eet~   
+         ~BloodAndFaith/Languages/polish-eet/BloodAndFaith.tra~
+         ~BloodAndFaith/Languages/polish-eet/JournalEntries.tra~
+
+LANGUAGE ~Polish [BGT] (by my_summertime, SoM Membress, part of CoB Clan)~
+         ~polish-bgt~   
+         ~BloodAndFaith/Languages/polish-bgt/BloodAndFaith.tra~
+         ~BloodAndFaith/Languages/polish-bgt/JournalEntries.tra~
 
 BEGIN @4 /* Blood and Faith Installation */
 DESIGNATED 0
