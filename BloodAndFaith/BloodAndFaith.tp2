@@ -33,16 +33,23 @@ ALWAYS
 
     LAF autotra_workaround END
 
+// Special BGT
   ACTION_IF (GAME_IS ~bgt~ AND ~%LANGUAGE%~ STR_EQ ~polish~)  THEN BEGIN 
 
-      COPY ~BloodAndFaith/Languages/%LANGUAGE%/SpecialBGT~			~weidu_external/BloodAndFaith/Languages/autotra/%LANGUAGE%~
-      COPY ~BloodAndFaith/Languages/%LANGUAGE%/SpecialBGT/Dlg~			~weidu_external/BloodAndFaith/Languages/autotra/%LANGUAGE%/Dlg~
+	OUTER_SET SpecialBGT = 1
+		PRINT ~
+		SpecialBGT will proceed
+		~
+
+  END ELSE  BEGIN
+
+	OUTER_SET SpecialBGT = 0
 
   END
 
 // Convert tra files in UTF8 if EE and let them in ANSI if oBG
 
-	ACTION_IF NOT GAME_IS ~bgee eet~ AND NOT ~%LANGUAGE%~ STR_EQ ~polish~ BEGIN
+	ACTION_IF NOT GAME_IS ~bgee eet~ AND SpecialBGT = 0 BEGIN
   ACTION_DEFINE_ARRAY BloodAndFaith_noconvert BEGIN install END
 
 		ACTION_DEFINE_ARRAY BloodAndFaith_reload BEGIN BloodAndFaith JournalEntries END
@@ -58,14 +65,6 @@ ALWAYS
 				noconvert_array = BloodAndFaith_noconvert
 				reload_array = BloodAndFaith_reload
 			END
-	END ELSE BEGIN
-		ACTION_DEFINE_ARRAY BloodAndFaith_reload BEGIN BloodAndFaith JournalEntries END
-
-			LAF HANDLE_CHARSETS
-				STR_VAR
-				reload_array = BloodAndFaith_reload
-			END
-
 	END
 
 END
@@ -100,6 +99,15 @@ BEGIN @4 /* Blood and Faith Installation */
 DESIGNATED 0
 LABEL ~Blood-And-Faith-Glittergear~
 REQUIRE_PREDICATE GAME_IS ~bgee eet bgt~ @42 /* This mod need BGEE, BGT or EET */
+
+
+// Special BGT
+	ACTION_IF SpecialBGT = 1 THEN BEGIN
+		COPY ~BloodAndFaith/Languages/%LANGUAGE%/SpecialBGT~			~weidu_external/BloodAndFaith/Languages/autotra/%LANGUAGE%~
+		COPY ~BloodAndFaith/Languages/%LANGUAGE%/SpecialBGT/Dlg~			~weidu_external/BloodAndFaith/Languages/autotra/%LANGUAGE%/Dlg~
+		LOAD_TRA ~weidu_external/BloodAndFaith/Languages/autotra/%LANGUAGE%/JournalEntries.tra~
+		LOAD_TRA ~weidu_external/BloodAndFaith/Languages/autotra/%LANGUAGE%/BloodAndFaith.tra~
+	END
 
 ADD_JOURNAL TITLE (@5099) @5100 @5101 @5102 @5103 @5104 @5105 @5106 @5107 @5108 @5109 @5110 @5111 @5113  @5116 @5117 @5118 @5119 @5120 @5121 @5122 @5123 @5124 @5125 @5126 @5127 @5128 @5129 @5130 @5131 @5132 @5133 @5134 @5135 @5136 @5137 @5138 @5139 @5140 @5141 @5142 USING ~weidu_external/BloodAndFaith/Languages/autotra/%s/JournalEntries.tra~
 
