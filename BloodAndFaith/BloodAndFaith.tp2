@@ -58,6 +58,14 @@ ALWAYS
 				noconvert_array = BloodAndFaith_noconvert
 				reload_array = BloodAndFaith_reload
 			END
+	END ELSE BEGIN
+		ACTION_DEFINE_ARRAY BloodAndFaith_reload BEGIN BloodAndFaith JournalEntries END
+
+			LAF HANDLE_CHARSETS
+				STR_VAR
+				reload_array = BloodAndFaith_reload
+			END
+
 	END
 
 END
