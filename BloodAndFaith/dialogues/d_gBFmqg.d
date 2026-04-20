@@ -382,24 +382,24 @@ END
 
 IF ~~ THEN BEGIN 3idk
 	SAY @13103 /* I can’t tell you that. I don’t know myself. Satisfied at a job well done? Horrified that it had to come to this? Malar would be pleased with you for your victory, I think, even though you killed one of his followers. You were the stronger, after all. Now, sort yourself out, <CHARNAME>. Conflicted adventurers tend not to live very long, even if they are interesting. This is enough musing for now. Talk to me again when you're ready for something to do. */ IF ~~ THEN DO ~
- SetGlobal("gBFq2","GLOBAL",2) SetGlobal("GGBFMQ","GLOBAL",2) AddXPObject(Player1,150) AddXPObject(Player2,150) AddXPObject(Player3,150) AddXPObject(Player4,150) AddXPObject(Player5,150) AddXPObject(Player6,150)~ EXIT
-END
+ SetGlobal("gBFq2","GLOBAL",2) SetGlobal("GGBFMQ","GLOBAL",2) GiveItemCreate("POTN21",Player1,1,1,0) AddJournalEntry(@51033, QUEST) AddXPObject(Player1,150) AddXPObject(Player2,150) AddXPObject(Player3,150) AddXPObject(Player4,150) AddXPObject(Player5,150) AddXPObject(Player6,150)~ EXIT
+END // POTN21 Clarity
 
 
 IF ~~ THEN BEGIN 3feelsbadman
 	SAY @13104 /* But what? I assure you that not killing him would feel worse in the long run, considering that he would keep killing innocent people. We have blood on our hands and we bear whatever guilt we have, so that others don’t have to. You took the life in front of you, yes, but in doing so, you saved lives that you cannot see. Now, sort yourself out, <CHARNAME>. Conflicted adventurers tend not to live very long, even if they are interesting. This is enough musing for now. Talk to me again when you're ready for something to do. */ IF ~~ THEN DO ~
- SetGlobal("gBFq2","GLOBAL",2) SetGlobal("GGBFMQ","GLOBAL",2) AddXPObject(Player1,150) AddXPObject(Player2,150) AddXPObject(Player3,150) AddXPObject(Player4,150) AddXPObject(Player5,150) AddXPObject(Player6,150)~ EXIT
-END
+ SetGlobal("gBFq2","GLOBAL",2) SetGlobal("GGBFMQ","GLOBAL",2) GiveItemCreate("POTN21",Player1,1,1,0) AddJournalEntry(@51033, QUEST) AddXPObject(Player1,150) AddXPObject(Player2,150) AddXPObject(Player3,150) AddXPObject(Player4,150) AddXPObject(Player5,150) AddXPObject(Player6,150)~ EXIT
+END // POTN21 Clarity
 
 IF ~~ THEN BEGIN 3iduncare
 	SAY @13105 /* I don’t know, to be honest. It seems that we are similar, you and I. Sometimes, taking a life is the best or only course of action. But there’s no need to keep musing. Talk to me again when you're ready for something to do. */ IF ~~ THEN DO ~
-   IncrementGlobal("gBFrsP","GLOBAL",1) SetGlobal("gBFq2","GLOBAL",2) SetGlobal("GGBFMQ","GLOBAL",2) AddXPObject(Player1,150) AddXPObject(Player2,150) AddXPObject(Player3,150) AddXPObject(Player4,150) AddXPObject(Player5,150) AddXPObject(Player6,150)~ EXIT
-END
+   IncrementGlobal("gBFrsP","GLOBAL",1) SetGlobal("gBFq2","GLOBAL",2) SetGlobal("GGBFMQ","GLOBAL",2) GiveItemCreate("POTN45",Player1,1,1,0) AddJournalEntry(@51033, QUEST) AddXPObject(Player1,150) AddXPObject(Player2,150) AddXPObject(Player3,150) AddXPObject(Player4,150) AddXPObject(Player5,150) AddXPObject(Player6,150)~ EXIT
+END // POTN45 Freedom
 
 IF ~~ THEN BEGIN 3feelsgreat
 	SAY @13106 /* Well, you’ve certainly found your calling then. Malar would be pleased with you, I think. Adventuring is a violent and challenging profession. But do be careful of your targets—indiscriminate killing is an excellent way to become hunted by the dogs of justice, and throwing yourself at challenges is an excellent way to get in over your head and get yourself killed that way. But that’s enough preaching from me. Talk to me again when you're ready for something to do. */ IF ~~ THEN DO ~
-   IncrementGlobal("gBFdP","GLOBAL",1) SetGlobal("gBFq2","GLOBAL",2) SetGlobal("GGBFMQ","Global",2) AddXPObject(Player1,150) AddXPObject(Player2,150) AddXPObject(Player3,150) AddXPObject(Player4,150) AddXPObject(Player5,150) AddXPObject(Player6,150) ~ EXIT
-END
+   IncrementGlobal("gBFdP","GLOBAL",1) SetGlobal("gBFq2","GLOBAL",2) SetGlobal("GGBFMQ","Global",2) GiveItemCreate("POTN21",Player1,1,1,0) AddJournalEntry(@51033, QUEST) AddXPObject(Player1,150) AddXPObject(Player2,150) AddXPObject(Player3,150) AddXPObject(Player4,150) AddXPObject(Player5,150) AddXPObject(Player6,150) ~ EXIT
+END // POTN21 Clarity
 
 
 /////////////////////////////////
