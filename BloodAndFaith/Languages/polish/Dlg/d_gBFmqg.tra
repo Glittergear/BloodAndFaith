@@ -1,0 +1,425 @@
+// ==========================================================
+// Eloran questline master .tra (English original, grouped)
+// ==========================================================
+
+
+// =====================
+// Banters – Imoen
+// =====================
+
+@13000 = ~Tak? W czym mogę ci pomóc?~
+@13001 = ~Słyszałam, że kiedyś byłaś poszukiwaczką przygód. Dlaczego to się zmieniło?~
+@13002 = ~Widziałam zbyt wiele śmierci. Uznałam, że pora odejść.~
+@13003 = ~Ale jesteś kapłanką. Nie mogłaś ich wskrzesić?~
+@13004 = ~Nie zawsze nią byłam. A czemu pytasz?~
+@13005 = ~A tak sobie. Zagajam rozmowę. Kim byłaś, zanim zostałaś kapłanką?~
+@13006 = ~Tym, kim musiałam być. Ale chyba <CHARNAME> cię potrzebuje? Mam wrażenie, że robi się niecierpliwy. Porozmawiamy innym razem.~ ~Tym, kim musiałam być. Ale chyba <CHARNAME> cię potrzebuje? Mam wrażenie, że robi się niecierpliwa. Porozmawiamy innym razem.~
+@13007 = ~Tak, Imoen?~
+@13008 = ~Mówiłaś, że kiedyś nie byłaś kapłanką i że byłaś tym, kim musiałaś być. Czyli kim?~
+@13009 = ~Słucham?~
+@13010 = ~No pamiętasz! Sama powiedziałaś, że nie zawsze byłaś kapłanką. I obiecałaś, że dokończymy rozmowę.~
+@13011 = ~Ach. Racja. Cóż... Zanim zostałam kapłanką, byłam bardzo dobra w dostawaniu się tam, gdzie nie powinnam, i znajdowaniu rzeczy, których nie powinnam mieć. To mnie utrzymywało przy życiu.~
+@13012 = ~A potem?~
+@13013 = ~A potem zostałam kapłanką Lathandera.~
+@13014 = ~Co? I tyle?! Nie wierzę, że to cała historia.~
+@13015 = ~Nie, to nie jest całość, ale to wszystko, co mogę ci powiedzieć. Może chcesz zerknąć na jakieś eliksiry? Albo coś w tym stylu?~
+@13016 = ~No dobra, to powiedz: do jakiego tajnego stowarzyszenia należysz?~
+@13017 = ~...co proszę?~
+@13018 = ~No bo na pewno do jakiegoś należysz! Dlatego jesteś taka tajemnicza i wymijająca, dlatego masz złodziejskie zdolności. No to jak? Do którego należałaś?~
+@13019 = ~Nie odpuścisz, prawda?~
+@13020 = ~Nie ma takiej opcji.~
+@13021 = ~Teraz nie należę do żadnego, zresztą wtedy to też nie było żadne tajne stowarzyszenie. Po prostu... nie jest to coś, o czym lubię mówić. Jestem kapłanką i mam ku temu powody. I mam nadzieję, że nigdy nie będziesz musiała czegoś takiego zrozumieć.~
+
+
+// =====================
+// Banters – Kivan
+// =====================
+
+@13022 = ~Tak, jesteś Kivan, prawda? Przykro mi, że nie mieliśmy okazji porozmawiać, gdy odwiedziłeś nas po raz pierwszy. Mam nadzieję, że Thalantyr miał to, czego szukałeś.~
+@13023 = ~Co wiesz o bandytach w tej okolicy?~
+@13024 = ~Niewiele. Na co dzień mam inne obowiązki.~
+@13025 = ~Inne obowiązki?~
+@13026 = ~Nie zrozum mnie źle. Owszem, martwią mnie bandyci, ale zostawiam to paladynom i kapłanom. To w końcu ich działka.~
+@13027 = ~A czym więc się zajmujesz?~
+@13028 = ~Głównie sprawami świątyni. Nic wielkiego. Piszę listy z podziękowaniami do hojnych darczyńców, dbam o zapasy, od czasu do czasu warzę mikstury. Obawiam się, że niewiele ma to wspólnego z bandytami.~
+@13029 = ~I nic innego cię nie obchodzi?~
+@13030 = ~Oczywiście, że obchodzi. Gdyby było inaczej, nigdy nie usłyszałabym ani o Bassilusie, ani o innych, za którymi was posyłam.~
+@13031 = ~Kivanie, wierzysz w odkupienie?~
+@13032 = ~Dla siebie czy dla innych?~
+@13033 = ~A jest jakaś różnica?~
+@13034 = ~Dla mnie nie ma odkupienia. Może być tylko przebaczenie.~
+@13035 = ~Może jesteśmy bardziej podobni, niż nam się wydaje.~
+@13036 = ~Wolałbym nie. Dla dobra nas obojga.~
+
+
+// =====================
+// Banters – Xzar
+// =====================
+
+@13037 = ~Twoje uszy... jak długo je masz?~
+@13038 = ~Słucham?~
+@13039 = ~Przecież nie są twoje, prawda? Wyglądają... na ludzkie. A ty przecież nie jesteś człowiekiem. Widzę to w twoich oczach.~
+@13040 = ~To moje uszy i mam je od zawsze. Czy to już wszystko?~
+@13041 = ~A już myślałem, że masz pewne zamiłowanie do Rzemiosła. Może gdybyśmy wymienili się oczami, moglibyśmy widzieć rzeczy inaczej. Może innym razem.~
+@13042 = ~Czego chcesz, nekromanto?~
+@13043 = ~Myślałaś o tym? O wymianie oczu?~
+@13044 = ~Nie... nie mogę powiedzieć, żebym myślała.~
+@13045 = ~Och. Jakże rozczarowujące. Ale potrafisz widzieć w ciemności jak elfy, prawda? Zawsze o tym marzyłem, lecz to nie kwestia samego oka. Próbowałem – elfie oczy mi nie leżą. Nie działają zbyt dobrze i w ogóle nie pasują do mojej karnacji. Ale TWOJE oczy...~
+@13046 = ~Nie. Moja odpowiedź brzmi: nie.~
+@13047 = ~Czy ja naprawdę chcę wiedzieć, co znowu chodzi ci po głowie?~
+@13048 = ~Twój język.~
+@13049 = ~Uszy i oczy masz... osobliwe. Ale twój język jest znajomy. Jak długo jesteś z dala od Morza Księżycowego?~
+@13050 = ~Dłużej niż ty, zapewne. I nie tęsknię.~
+@13051 = ~Ja też nie. Wybrzeże Mieczy jest takie urocze o tej porze roku.~
+
+
+// =====================
+// Quest Hub – Accepting the questline
+// =====================
+
+@13052 = ~Myślę, że moglibyśmy stworzyć całkiem niezły duet. Szukam kogoś, kto potrafiłby nieść sprawiedliwość i nadzieję na Wybrzeżu Mieczy. Będzie to coś na kształt ścigania przestępców za nagrody, ale nie musisz martwić się moralnymi dylematami – bardzo dokładnie sprawdzam swoje cele i przysięgam na Pana Poranka, że wyślę cię tylko przeciwko złu. Co ty na to?~ ~Myślę, że mogłybyśmy stworzyć całkiem niezły duet. Szukam kogoś, kto potrafiłby nieść sprawiedliwość i nadzieję na Wybrzeżu Mieczy. Będzie to coś na kształt ścigania przestępców za nagrody, ale nie musisz martwić się moralnymi dylematami – bardzo dokładnie sprawdzam swoje cele i przysięgam na Pana Poranka, że wyślę cię tylko przeciwko złu. Co ty na to?~  [b_gIntro]
+@13053 = ~Zdajesz sobie sprawę, że jestem nekromantą, prawda?~ ~Zdajesz sobie sprawę, że jestem nekromantką, prawda?~
+@13054 = ~Chyba zauważyłaś, że podróżuję z Dornem, prawda?~
+@13055 = ~Chyba zauważyłaś, że podróżuję z Tiaxem, prawda?~
+@13056 = ~Chyba zauważyłaś, że podróżuję z Xzarem, prawda?~
+@13057 = ~Chyba zauważyłaś, że podróżuję z Viconią, prawda?~
+@13058 = ~A zdajesz sobie sprawę, że jestem wyznawcą Shar?~ ~A zdajesz sobie sprawę, że jestem wyznawczynią Shar?~
+@13059 = ~Czego dokładnie ode mnie oczekujesz?~
+@13060 = ~O jakich nagrodach mówimy?~
+@13061 = ~Co z ciebie za lathanderytka, skoro najmujesz łowcę nagród?~
+@13062 = ~Zrobię to.~
+@13063 = ~Nie, dziękuję.~
+@13064 = ~Myślę, że mimo naszych różnic moglibyśmy stworzyć całkiem zgrany zespół. Szukam kogoś, kto potrafiłby nieść sprawiedliwość i nadzieję na Wybrzeżu Mieczy – nie obchodzi mnie, czy w te koncepty wierzysz, bo mam wrażenie, że ty wierzysz przede wszystkim w nagrody. Świątynia Lathandera jest i majętna, i hojna. Co ty na to?~ [b_eInt] ~Myślę, że mimo naszych różnic mogłybyśmy stworzyć całkiem zgrany zespół. Szukam kogoś, kto potrafiłby nieść sprawiedliwość i nadzieję na Wybrzeżu Mieczy – nie obchodzi mnie, czy w te koncepty wierzysz, bo mam wrażenie, że ty wierzysz przede wszystkim w nagrody. Świątynia Lathandera jest i majętna, i hojna. Co ty na to?~ [b_eInt]
+@13065 = ~Zauważyłam. Ale wiem też, że nie wszyscy nekromanci są źli ani dogłębnie spaczeni. Istnieje wiele sposobów praktykowania nekromancji, które nie łamią żadnych praw boskich. A poza tym – kto zna nekromantów i nieumarłych lepiej niż nekromanci?~
+@13066 = ~Tak, zauważyłam. Raczej trudno go przeoczyć. Jednak Lathander naucza o odkupieniu. A jak Zło ma znaleźć drogę ku zmianie, jeśli nie da mu się na to szansy?~ [b_mNot]
+@13067 = ~Tak, zauważyłam. Raczej trudno ją przeoczyć. Jednak Lathander naucza o odkupieniu. A jak Zło ma znaleźć drogę ku zmianie, jeśli nie da mu się na to szansy?~ [b_fNot]
+@13068 = ~Tak, zauważyłam. Dość dziwne, że tak po prostu to ogłaszasz – myślałam, że wasza wiara ceni sobie dyskrecję. Powiedz mi jednak, czy nie wierzycie także w osobistą stratę i w to, że dusza musi zaznać mroku, by odnaleźć prawdę? I czy istnieje mrok większy od zabicia drugiej osoby? Poza tym Lathander naucza o odkupieniu – jak masz się odmienić, jeśli nie dasz sobie szansy? Traktuj to zadanie jak okazję... na wzmocnienie lub nadwyrężenie własnej wiary. Ciekawe, dokąd zaprowadzi cię to zadanie...~ [b_sNot]
+@13069 = ~Wskażę ci, czym masz się zająć, a ty rozwiążesz mój problem. Zazwyczaj będzie mi chodziło o rozprawienie się z nieumarłymi albo o wykonanie jakiegoś drobnego zadania. Pamiętaj jednak, że przemoc nie zawsze jest jedynym wyjściem – czasem to słowa okazują się najsilniejszą bronią. Jednak gdy słowa zawiodą... dobrze wymierzony sztylet zazwyczaj załatwi sprawę.~ [b_whExp]
+@13070 = ~Masz na myśli zapłatę? Przede wszystkim złoto. Czasem jakaś mikstura albo magiczny drobiazg. Sprawa jest raczej prosta. Zdobędziesz też doświadczenie, co dla każdego poszukiwacza przygód jest bezcenne. Postaram się nie wrzucać cię od razu na głęboką wodę – to nie służyłoby ani mnie, ani tobie. Ja straciłabym człowieka do zadań terenowych, a ty... cóż, swoje życie. To byłby kiepski interes.~ [b_whPr]
+@13071 = ~Praktyczna, oczywiście. Ktoś musi rozwiązywać te problemy, a Pan Poranka wie, że Płomienna Pięść się tym nie zajmie. Mamy paladynów, owszem, ale oni... cóż, nie wszystkie zadania da się wykonać bez odrobiny finezji i dyskrecji, a z tym u paladynów bywa różnie. Kiedyś sama mogłam brać to wszystko na siebie, ale obowiązki i stare rany trzymają mnie teraz pod dachem.~ [b_whyMe]
+@13072 = ~Szkoda. Będę tutaj, jeśli zmienisz zdanie.~ [b_no]
+
+
+// =====================
+// Quest 1 – An Ordinary Haunting (ghost in Beregost)
+// =====================
+
+@13073 = ~To właśnie chciałam usłyszeć. Mam nadzieję, że jesteś gotów zabrać się do pracy... od razu. W Beregoście jest dom, który nawiedza duch. To ten duży, żółtawy budynek z niebieskim dachem, naprzeciwko gospody Płonący Czarodziej. Spróbuj znaleźć sposób, by się go pozbyć. Jakieś pytania?~ ~To właśnie chciałam usłyszeć. Mam nadzieję, że jesteś gotowa, by zabrać się do pracy... od razu. W Beregoście jest dom, który nawiedza duch. To ten duży, żółtawy budynek z niebieskim dachem, naprzeciwko gospody Płonący Czarodziej. Spróbuj znaleźć sposób, by się go pozbyć. Jakieś pytania?~  [b_yes]
+@13074 = ~Jakieś rady?~
+@13075 = ~Wyglądasz na całkiem sprawną... dlaczego wysyłasz mnie?~
+@13076 = ~Bez pytań. Już się za to biorę.~
+@13077 = ~Uparte duchy zwykle mają powód, by trwać na tym świecie. Jeśli go zabijesz, może po prostu wrócić. Nie każdy problem da się rozwiązać stalą i przemocą. Dowiedz się, czego chce, i spróbuj spełnić jego ostatnie życzenie. Coś jeszcze?~ [gh_ad]
+@13078 = ~W pewnych kwestiach jesteśmy bardziej przydatni, w innych mniej. Mówiąc wprost – moja pomoc skupia się przede wszystkim na świątyni. Ty dobrze radzisz sobie w terenie, więc dlaczego miałabym nie wysłać właśnie ciebie? Poza tym... jak masz zdobywać doświadczenie? Poszukiwacze przygód bez doświadczenia żyją wyjątkowo krótko. Coś jeszcze?~ [gh_whyme]
+@13079 = ~Dobrze. Niech Pan Poranka ci sprzyja.~ [gh_noQs]
+@13080 = ~Rozwiąż sprawę nawiedzenia, <CHARNAME>.~ [gh_goSo]
+@13081 = ~Masz jakieś wieści?~ [gh_back]
+@13082 = ~Duch chciał, by pochowano go razem z jego kolekcją monet. Odnalazłem ją, oddałem... i nieproszony gość odszedł w spokoju.~ ~Duch chciał, by pochowano go razem z jego kolekcją monet. Odnalazłam ją, oddałam... i nieproszony gość odszedł w spokoju.~
+
+
+// =====================
+// Quest 2 – Hunting the Huntsman (Malarite on Coast Way)
+// =====================
+
+@13083 = ~Dobra robota, <CHARNAME>. Weź te mikstury w nagrodę. Zasłużyłeś... i mam przeczucie, że przydadzą ci się w następnym zadaniu. Pamiętasz, jak mówiłam, że nie każdy problem da się rozwiązać przemocą? Cóż, tym razem chyba tylko przemoc przyniesie skutek. Na trakcie między Beregostem a Zajazdem Pomocna Dłoń znikają podróżni. Najpierw myśleliśmy, że to wina bandytów, ale w końcu trafił się ocalały – i wiemy już, że nie stoi za tym zwykły bandyta, a wyznawca Malara. Malaryci wierzą, że przetrwać mogą jedynie najsilniejsi, więc przemoc to jedyny język, jaki rozumieją. Znajdź wyznawcę Malara na Nadbrzeżnym Trakcie i zabij go. Jakieś pytania?~ [mal_st] ~Dobra robota, <CHARNAME>. Weź te mikstury w nagrodę. Zasłużyłaś... i mam przeczucie, że przydadzą ci się w następnym zadaniu. Pamiętasz, jak mówiłam, że nie każdy problem da się rozwiązać przemocą? Cóż, tym razem chyba tylko przemoc przyniesie skutek. Na trakcie między Beregostem a Zajazdem Pomocna Dłoń znikają podróżni. Najpierw myśleliśmy, że to wina bandytów, ale w końcu trafił się ocalały – i wiemy już, że nie stoi za tym zwykły bandyta, a wyznawca Malara. Malaryci wierzą, że przetrwać mogą jedynie najsilniejsi, więc przemoc to jedyny język, jaki rozumieją. Znajdź wyznawcę Malara na Nadbrzeżnym Trakcie i zabij go. Jakieś pytania?~ [mal_st]
+@13084 = ~Co możesz mi powiedzieć o Malarze?~
+@13085 = ~Może powinienem spróbować z nim porozmawiać? Myślałem, że Pan Poranka wierzy w odkupienie.~ ~Może powinnam spróbować z nim porozmawiać? Myślałam, że Pan Poranka wierzy w odkupienie.~
+@13086 = ~Dlaczego wysyłasz tam właśnie mnie? Mogę zginąć.~
+@13087 = ~Masz jakieś wskazówki, gdzie się ukrywa?~
+@13088 = ~Pytań brak. Zabieram się za zadanie.~
+@13089 = ~Malar to złowrogi bóg polowania – krwiożerczy, dziki i okrutny. Wyzwala w swoich wyznawcach to, co najgorsze, a oni lubują się w tym. Sprzymierza się z boginiami pokroju Lolth i Loviatar, o ile można to w ogóle nazwać sojuszami. Tacy bogowie kiepsko współpracują z innymi. Spodziewaj się więc relacji drapieżnik-ofiara albo bardzo pokręconej zabawy w chowanego. Coś jeszcze?~ [mal_ex]
+@13090 = ~Pan Poranka wierzy w odkupienie, ale nie jest naiwny. Ja też nie. Żeby się zmienić, trzeba tego chcieć. Wątpię, by ten malaryta miał takie chęci, a my nie możemy czekać na decyzję, która może nigdy nie nadejść – zwłaszcza gdy w międzyczasie ludzie giną. Coś jeszcze?~ [mal_na]
+@13091 = ~Skoro prosty wędrowiec zdołał mu uciec, ty też sobie poradzisz. A dopiero co dałam ci parę mikstur leczniczych.~ [mal_fi]
+@13092 = ~Ostatnie ofiary podróżowały jednym wozem i nie dotarły daleko na północ. Poszukałabym ukrytego wejścia na południowych klifach Nadbrzeżnego Traktu.~ [mal_wh]
+@13093 = ~Dobrze. Niech Pan Poranka rozświetli twoją drogę ku zwycięstwu. A to – trochę złota za rozwiązanie sprawy nawiedzenia.~ [mal_co]
+@13094 = ~Nie zwlekaj, ale też nie działaj bezmyślnie. Im dłużej czekasz, tym więcej czasu ma na porwanie kolejnej osoby.~ [mal_hu]
+@13095 = ~Wyznawca Malara nie żyje.~
+@13096 = ~Dobra robota, <CHARNAME>. Wiedziałam, że ci się uda. Ale powiedz mi... jak się czujesz po tym ostatnim zadaniu?~ [mal_how]
+@13097 = ~Co to w ogóle za pytanie?~
+@13098 = ~Ja... nie wiem. Jak powinienem się czuć?~ ~Ja... nie wiem. Jak powinnam się czuć?~
+@13099 = ~Okropnie. Nie chciałem go zabijać, ale...~ ~Okropnie. Nie chciałam go zabijać, ale...~
+@13100 = ~W porządku. Dlaczego miałoby być inaczej?~
+@13101 = ~To było ciekawe wyzwanie. Szczerze mówiąc – nawet mi się podobało.~
+@13102 = ~Jesteś młody, niedoświadczony i raczej nieprzyzwyczajony do zabijania ludzi, prawda? Chcę się upewnić, że wszystko z tobą w porządku i że jesteś gotów na kolejne zadania. Teraz odpowiedz: co poczułeś, gdy zabiłeś malarytę?~ ~Jesteś młoda, niedoświadczona i raczej nieprzyzwyczajona do zabijania ludzi, prawda? Chcę się upewnić, że wszystko z tobą w porządku i że jesteś gotowa na kolejne zadania. Teraz odpowiedz: co poczułaś, gdy zabiłaś malarytę?~ [mal_an]
+@13103 = ~Nie mogę odpowiedzieć na to pytanie. Sama do końca tego nie wiem. Satysfakcja z dobrze wykonanej pracy? Przerażenie, że musiało do tego dojść? Myślę, że Malar byłby z ciebie zadowolony, mimo że zabiłeś jego wyznawcę – w końcu to ty okazałeś się silniejszy. A teraz uspokój swoje myśli. Wahający się poszukiwacze przygód nie żyją długo, nawet jeśli są intrygujący. Dość tych rozmyślań. Porozmawiaj ze mną, kiedy będziesz gotów na kolejne zadanie.~ ~Nie mogę odpowiedzieć na to pytanie. Sama do końca tego nie wiem. Satysfakcja z dobrze wykonanej pracy? Przerażenie, że musiało do tego dojść? Myślę, że Malar byłby z ciebie zadowolony, mimo że zabiłaś jego wyznawcę – w końcu to ty okazałaś się silniejsza. A teraz uspokój swoje myśli. Wahający się poszukiwacze przygód nie żyją długo, nawet jeśli są intrygujący. Dość tych rozmyślań. Porozmawiaj ze mną, kiedy będziesz gotowa na kolejne zadanie.~  [mal_a1]
+@13104 = ~Ale co? Posłuchaj – w dłuższej perspektywie zostawienie go przy życiu byłoby gorsze. On dalej mordowałby niewinnych. To prawda, mamy krew na rękach, ale bierzemy ten ciężar na siebie po to, by inni nie musieli tego robić. Odebrałeś życie komuś, kto stanął ci na drodze, ale w ten sposób ocaliłeś tych, których nawet nigdy nie poznasz. A teraz uspokój swoje myśli. Wahający się poszukiwacze przygód nie żyją długo, nawet jeśli są intrygujący. Dość tych rozmyślań. Porozmawiaj ze mną, kiedy będziesz gotów na kolejne zadanie.~ ~Ale co? Posłuchaj – w dłuższej perspektywie zostawienie go przy życiu byłoby gorsze. On dalej mordowałby niewinnych. To prawda, mamy krew na rękach, ale bierzemy ten ciężar na siebie po to, by inni nie musieli tego robić. Odebrałaś życie komuś, kto stanął ci na drodze, ale w ten sposób ocaliłaś tych, których nawet nigdy nie poznasz. A teraz uspokój swoje myśli. Wahający się poszukiwacze przygód nie żyją długo, nawet jeśli są intrygujący. Dość tych rozmyślań. Porozmawiaj ze mną, kiedy będziesz gotowa na kolejne zadanie.~ [mal_con]
+@13105 = ~Szczerze? Nie wiem. Wydaje mi się, że jesteśmy do siebie podobni. Czasami odebranie życia jest najlepszym albo jedynym wyjściem, ale nie ma sensu tego roztrząsać. Porozmawiaj ze mną, kiedy będziesz gotów na kolejne zadanie.~ [mal_c3]
+@13106 = ~Cóż, wygląda na to, że znalazłeś swoje powołanie. Myślę, że Malar byłby z ciebie zadowolony. To brutalny, wymagający zawód. Uważaj jednak, kogo atakujesz – bezmyślne zabijanie to świetny sposób, by samemu zostać zwierzyną dla ogarów sprawiedliwości, a rzucanie się na każde wyzwanie to prosty sposób na to, by w końcu zginąć. Ale dość kazań. Porozmawiaj ze mną, kiedy będziesz gotów na kolejne zadanie.~ ~Cóż, wygląda na to, że znalazłaś swoje powołanie. Myślę, że Malar byłby z ciebie zadowolony. To brutalny, wymagający zawód. Uważaj jednak, kogo atakujesz – bezmyślne zabijanie to świetny sposób, by samemu zostać zwierzyną dla ogarów sprawiedliwości, a rzucanie się na każde wyzwanie to prosty sposób na to, by w końcu zginąć. Ale dość kazań. Porozmawiaj ze mną, kiedy będziesz gotowa na kolejne zadanie.~  [mal_c4]
+
+
+// =====================
+// Quest 3 – Errant Funeral (Nashkel, Ibrandul)
+// =====================
+
+@13107 = ~Mam dla ciebie zadanie wymagające odrobiny dyskrecji. Helmici z Nashkel chcą, by ktoś od nas coś zbadał, więc wysyłam ciebie. Ich opiekun cmentarza zgubił ciało, a rodzina – naturalnie – jest wściekła. Kiedy helmici zasugerowali, że zmarły mógł zostać nieumarłym, zrobiło się jeszcze gorzej. Nie spodziewaj się ciepłego powitania. Wszyscy chcą zachować w tajemnicy sprawę zaginionego ciała i potencjalnych nieumarłych. Nashkel ma już dość problemów. Ustal, co stało się z ciałem. Jakieś pytania?~ [nas_0]
+@13108 = ~Co możesz mi powiedzieć o zaginionym ciele?~
+@13109 = ~Dlaczego ktokolwiek podejrzewa nieumarłych?~
+@13110 = ~Jakie jeszcze problemy ma Nashkel?~
+@13111 = ~Dlaczego wysyłasz właśnie mnie?~
+@13112 = ~Starszy mężczyzna, zmarł – o ile wiemy – z przyczyn naturalnych. Otrzymał pogrzeb według obrzędów Helma, co w Nashkel nie jest niczym niezwykłym. Wszystko przebiegło normalnie... poza tym, że ciało zniknęło. Coś jeszcze?~ [nas_01]
+@13113 = ~Cóż, gdy ciało znika z grobu, są tylko dwie możliwości: albo powstało jako nieumarłe i samo odeszło, albo działa grabieżca grobów. Twoim zadaniem jest ustalić, która z tych opcji jest prawdziwa – i rozwiązać problem. Coś jeszcze?~ [nas_02]
+@13114 = ~<CHARNAME>... Czasami zachowujesz się, jakbyś dopiero co wyszedł z jakiejś odosobnionej fortecy. Nashkel opiera się na swojej kopalni żelaza, ale podczas problemów z rudą żelaza wydobywany tam metal stał się wadliwy – kruchy, łamie się od byle czego. Do tego słyszałam, że z ich dowódcą straży stało się coś złego – zabił kilka osób, po czym zniknął. W Nashkel panuje chaos. Lepiej go nie pogarszać. Coś jeszcze?~ ~<CHARNAME>... Czasami zachowujesz się, jakbyś dopiero co wyszła z jakiejś odosobnionej fortecy. Nashkel opiera się na swojej kopalni żelaza, ale podczas problemu z rudą żelaza wydobywany tam metal stał się wadliwy – kruchy, łamie się od byle czego. Do tego słyszałam, że z ich dowódcą straży stało się coś złego – zabił kilka osób, po czym zniknął. W Nashkel panuje chaos. Lepiej go nie pogarszać. Coś jeszcze?~ [nas_03]
+@13115 = ~Normalnie wysłalibyśmy naszego kapłana, ale z powodu bandytów wszyscy są zajęci. Ty masz doświadczenie w uspokajaniu umarłych i w radzeniu sobie z nekromantami. Cokolwiek tam znajdziesz, będziesz wiedział, co zrobić. Poza tym... w Nashkel jest sporo do zobaczenia. Jeśli kopalnie cię nie interesują, słyszałam, że jarmark jest całkiem uroczy. Coś jeszcze?~ ~Normalnie wysłalibyśmy naszego kapłana, ale z powodu bandytów wszyscy są zajęci. Ty masz doświadczenie w uspokajaniu umarłych i w radzeniu sobie z nekromantami. Cokolwiek tam znajdziesz, będziesz wiedziała, co zrobić. Poza tym... w Nashkel jest sporo do zobaczenia. Jeśli kopalnie cię nie interesują, słyszałam, że jarmark jest całkiem uroczy. Coś jeszcze?~  [nas_04]
+@13116 = ~Dobrze. Powodzenia, <CHARNAME>.~ [nas_05]
+@13117 = ~Zajmij się zadaniem, <CHARNAME>.~
+@13118 = ~Jak ci idzie?~
+@13119 = ~Okazało się, że mężczyzna powstał z martwych, bo nie był zadowolony z pogrzebu według obrządku Helma. Był wyznawcą Ibrandula i chciał pochówku zgodnego ze swoją wiarą.~
+@13120 = ~Hm. Ciekawe. Zmarli potrafią być wybredni, jeśli chodzi o swoje pogrzeby. A sam Ibrandul jest intrygujący – sprzymierza się i z Maską, i z Ilmaterem, choć oni sami są wrogami. Jest też całkowicie sprzeczny z Panem Poranka. I dlatego jestem ciekawa... Co byś zrobił, gdybyś znalazł się w towarzystwie kogoś, kto stoi w absolutnej opozycji do twojej wiary?~ ~Hm. Ciekawe. Zmarli potrafią być wybredni, jeśli chodzi o swoje pogrzeby. A sam Ibrandul jest intrygujący – sprzymierza się i z Maską, i z Ilmaterem, choć oni sami są wrogami. Jest też całkowicie sprzeczny z Panem Poranka. I dlatego jestem ciekawa... Co byś zrobiła, gdybyś znalazła się w towarzystwie kogoś, kto stoi w absolutnej opozycji do twojej wiary?~ [nas_06]
+@13121 = ~Cóż, współpracuję z tobą, prawda?~
+@13122 = ~Moja wiara stoi po stronie Dobra, więc ktoś jej całkowicie przeciwny musiałby być Zły. Zrobiłbym to, co konieczne.~ ~Moja wiara stoi po stronie Dobra, więc ktoś jej całkowicie przeciwny musiałby być Zły. Zrobiłabym to, co konieczne.~
+@13123 = ~Myślę, że nic bym nie zrobił. W wielkim porządku rzeczy wszystko ma swoje miejsce.~ ~Myślę, że nic bym nie zrobiła. W wielkim porządku rzeczy wszystko ma swoje miejsce.~
+@13124 = ~Tak głębokie różnice muszą skończyć się przemocą.~
+@13125 = ~Nie sądzę, bym potrafił kogokolwiek przekonać... ale mógłbym dać przykład, że można żyć inaczej.~ ~Nie sądzę, bym potrafiła kogokolwiek przekonać... ale mogłabym dać przykład, że można żyć inaczej.~
+@13126 = ~Szczerze mówiąc – nie wiem.~
+@13127 = ~Ha! Słusznie, <CHARNAME>, słusznie. To jedna z rzeczy, które w tobie cenię. Porozmawiaj ze mną, kiedy będziesz gotów na coś nowego.~ ~Ha! Słusznie, <CHARNAME>, słusznie. To jedna z rzeczy, które w tobie cenię. Porozmawiaj ze mną, kiedy będziesz gotowa na coś nowego.~  [nas_07]
+@13128 = ~A jak określasz to, co jest konieczne? Jak zdecydujesz, kiedy pozwolić Złu żyć, a kiedy skazać je na śmierć? Gdybyśmy niszczyli Zło za każdym razem, nikt nie dostałby szansy na odkupienie. Ale jeśli zawsze pozwolimy mu żyć, czy nie będziemy częściowo winni zła, które później spowoduje? Hm. Ale nie ma sensu dłużej o tym rozmyślać. Porozmawiaj ze mną, gdy będziesz gotów na kolejne zadanie.~ ~A jak określasz to, co jest konieczne? Jak zdecydujesz, kiedy pozwolić Złu żyć, a kiedy skazać je na śmierć? Gdybyśmy niszczyli Zło za każdym razem, nikt nie dostałby szansy na odkupienie. Ale jeśli zawsze pozwolimy mu żyć, czy nie będziemy częściowo winni zła, które później spowoduje? Hm. Ale nie ma sensu dłużej o tym rozmyślać. Porozmawiaj ze mną, gdy będziesz gotowa na kolejne zadanie.~ [3dhow]
+@13129 = ~Czyli mrok pozwala docenić świt, tak? Hm. Nie jestem pewna, czy się z tym zgadzam, ale to nie czas na filozofowanie. Porozmawiaj ze mną, gdy będziesz gotów na kolejne zadanie.~ ~Czyli mrok pozwala docenić świt, tak? Hm. Nie jestem pewna, czy się z tym zgadzam, ale to nie czas na filozofowanie. Porozmawiaj ze mną, gdy będziesz gotowa na kolejne zadanie.~  [3ddd]
+@13130 = ~A kto byłby prowodyrem takiej sytuacji? Czasem ten, kogo uważamy za wroga, potrafi nas naprawdę zaskoczyć. Być może mądrzej jest wstrzymać cios i zobaczyć, co z tego wyniknie. Porozmawiaj ze mną, gdy będziesz gotów na kolejne zadanie.~ ~A kto byłby prowodyrem takiej sytuacji? Czasem ten, kogo uważamy za wroga, potrafi nas naprawdę zaskoczyć. Być może mądrzej jest wstrzymać cios i zobaczyć, co z tego wyniknie. Porozmawiaj ze mną, gdy będziesz gotowa na kolejne zadanie.~  [3dinst]
+@13131 = ~A jeśli wystarczająco ich zaciekawisz, sami zaczną szukać odpowiedzi? Cóż... czasami to działa. Porozmawiaj ze mną, gdy będziesz gotów na kolejne zadanie.~ ~A jeśli wystarczająco ich zaciekawisz, sami zaczną szukać odpowiedzi? Cóż... czasami to działa. Porozmawiaj ze mną, gdy będziesz gotowa na kolejne zadanie.~ [3dcur]
+@13132 = ~Przemyśl to... Podobne sytuacje mogą nadejść szybciej, niż myślisz. Porozmawiaj ze mną, gdy będziesz gotów na kolejne zadanie.~ ~Przemyśl to... Podobne sytuacje mogą nadejść szybciej, niż myślisz. Porozmawiaj ze mną, gdy będziesz gotowa na kolejne zadanie.~ [3didk]
+
+
+// =====================
+// Quest 4 – The Rat King (wererat & rats)
+// =====================
+
+@13133 = ~Mam nadzieję, że nie będzie ci przeszkadzać małe odejście od normy. Tym razem żadnych nieumarłych, nekromantów ani kultystów. Jedna z mieszkanek ma problem ze szczurami i chcę, żebyś się tym zajął. Mieszka niedaleko gospody Płonący Czarodziej. Jakieś pytania?~ ~Mam nadzieję, że nie będzie ci przeszkadzać małe odejście od normy. Tym razem żadnych nieumarłych, nekromantów ani kultystów. Jedna z mieszkanek ma problem ze szczurami i chcę, żebyś się tym zajęła. Mieszka niedaleko gospody Płonący Czarodziej. Jakieś pytania?~
+@13134 = ~Chcesz, żebym zajął się gromadką szczurów?~ ~Chcesz, żebym zajęła się gromadką szczurów?~ [4star]
+@13135 = ~Nigdy nie mówiłam, że każde zadanie, które ci dam, będzie ekscytujące i pełne chwały, prawda? Świątynia ma obowiązki wobec Beregostu i jego mieszkańców. Właścicielka domu poprosiła najpierw Płomienną Pięść, ale oczywiście odmówili. Nie bądź taki ponury – może jednak wydarzy się coś interesującego. Poza tym chyba każdy poszukiwacz przygód zaczynał od problemu ze szczurami.~ ~Nigdy nie mówiłam, że każde zadanie, które ci dam, będzie ekscytujące i pełne chwały, prawda? Świątynia ma obowiązki wobec Beregostu i jego mieszkańców. Właścicielka domu poprosiła najpierw Płomienną Pięść, ale oczywiście odmówili. Nie bądź taka ponura – może jednak wydarzy się coś interesującego. Poza tym chyba każda poszukiwaczka przygód zaczynała od problemu ze szczurami.~ [4glum]
+@13136 = ~Dobrze.~ [4rgood]
+@13137 = ~Wróć, kiedy uporasz się z sytuacją.~ [4rnoye]
+@13138 = ~Likantrop? Tutaj? Na Pana Poranka... gdybym tylko mogła, poszłabym tam z tobą. Dam ci dobrą radę. Spróbuj uniknąć walki i przekonać szczurołaka, żeby odszedł po dobroci. Nie był dotąd agresywny, więc jest szansa, że się na to zgodzi. Weź też ten srebrny sztylet, na wszelki wypadek. Niestety mam tylko jeden. Powodzenia, <CHARNAME>.~ [4yikes]
+@13139 = ~Wróć, gdy uporasz się z sytuacją. I powodzenia.~ [4noye2]
+@13140 = ~Zabiłem szczurołaka.~ ~Zabiłam szczurołaka.~
+@13141 = ~Ciekawi mnie... dlaczego go zabiłeś? To musiała być trudna walka.~ [4whyk]
+@13142 = ~Likantropy są złe. Nie mogłem pozwolić mu żyć.~ ~Likantropy są złe. Nie mogłam pozwolić mu żyć.~
+@13143 = ~Likantropy są zbyt niebezpieczne, zwłaszcza blisko cywilizacji. Zostawienie go przy życiu byłoby zbyt ryzykowne.~
+@13144 = ~Chciałem doświadczyć wymagającej walki.~ ~Chciałam doświadczyć wymagającej walki.~
+@13145 = ~Nie mogłem go przekonać. To była jedyna opcja.~ ~Nie mogłam go przekonać. To była jedyna opcja.~
+@13146 = ~Twierdzisz, że są złe z racji samego istnienia? To dość okrutna wizja. A co z likantropami Selune? Cóż... miejmy nadzieję, że nikt nigdy nie uzna, że ty jesteś zbyt niebezpieczny, by żyć. Ale nie mamy czasu, by się nad tym rozwodzić. Porozmawiaj ze mną, gdy będziesz chciał podjąć się kolejnego zadania.~ ~Twierdzisz, że są złe z racji samego istnienia? To dość okrutna wizja. A co z likantropami Selune? Cóż... miejmy nadzieję, że nikt nigdy nie uzna, że ty jesteś zbyt niebezpieczna, by żyć. Ale nie mamy czasu, by się nad tym rozwodzić. Porozmawiaj ze mną, gdy będziesz chciała podjąć się kolejnego zadania.~ [4ouch]
+@13147 = ~Zastanawiam się... czy nadejdzie dzień, w którym to ty będziesz uważany za tak potężnego i tak groźnego, że ktoś uzna, że ciebie nie można zostawić przy życiu? Ale nie mamy czasu na rozważania. Porozmawiaj ze mną, gdy będziesz chciał coś zrobić.~ ~Zastanawiam się... czy nadejdzie dzień, w którym to ty będziesz uważana za tak potężną i tak groźną, że ktoś uzna, że ciebie nie można zostawić przy życiu? Ale nie mamy czasu na rozważania. Porozmawiaj ze mną, gdy będziesz chciała coś zrobić.~  [4risk]
+@13148 = ~Naprawdę? A co z tobą? Chciałbyś, aby ktoś pomyślał o tobie w podobny sposób? Choć... może nawet by ci to odpowiadało. Ale nie mamy czasu na takie dywagacje. Porozmawiaj ze mną, gdy będziesz chciał czegoś się podjąć.~ ~Naprawdę? A co z tobą? Chciałabyś, aby ktoś pomyślał o tobie w podobny sposób? Choć... może nawet by ci to odpowiadało. Ale nie mamy czasu na takie dywagacje. Porozmawiaj ze mną, gdy będziesz chciała czegoś się podjąć.~ [4relish]
+@13149 = ~To niedobrze, ale tak już bywa. Przykro mi, <CHARNAME>, naprawdę, ale nie mamy czasu, żeby o tym dyskutować. Porozmawiaj ze mną, gdy będziesz chciał czegoś się podjąć.~ [4roops] ~To niedobrze, ale tak już bywa. Przykro mi, <CHARNAME>, naprawdę, ale nie mamy czasu, żeby o tym dyskutować. Porozmawiaj ze mną, gdy będziesz chciała czegoś się podjąć.~ [4roops]
+@13150 = ~Szczurami dowodził szczurołak, ale przekonałem ich, by przenieśli się do nor, które kiedyś zajmował malaryta.~ ~Szczurami dowodził szczurołak, ale przekonałam ich, by przenieśli się do nor, które kiedyś zajmował malaryta.~
+@13151 = ~Jestem ciekawa... dlaczego oszczędziłeś szczurołaka?~ ~Jestem ciekawa... dlaczego oszczędziłaś szczurołaka?~ [4rwhya]
+@13152 = ~Nie był agresywny. Nie zaatakuję kogoś, kto nie chce walczyć. To byłoby złe i niehonorowe.~
+@13153 = ~Nie robił niczego złego. Nie zasługiwał na śmierć tylko dlatego, że był szczurołakiem.~
+@13154 = ~Naprawdę, ale to naprawdę nie chciałem walczyć z likantropem.~ ~Naprawdę, ale to naprawdę nie chciałam walczyć z likantropem.~
+@13155 = ~Niehonorowe? Tak, wszyscy powinniśmy kierować się jakimiś zasadami. Albo przynajmniej powinniśmy je mieć. Dobra decyzja, <CHARNAME>. Porozmawiaj ze mną, gdy będziesz chciał czegoś się podjąć.~ ~Niehonorowe? Tak, wszyscy powinniśmy kierować się jakimiś zasadami. Albo przynajmniej powinniśmy je mieć. Dobra decyzja, <CHARNAME>. Porozmawiaj ze mną, gdy będziesz chciała czegoś się podjąć.~ [4rdish]
+@13156 = ~Czyli nie możemy zmienić tego, kim jesteśmy, ale możemy zmienić to, kim się stajemy. O to ci chodzi? Mam nadzieję, że masz rację, <CHARNAME>. Naprawdę. I chciałabym, żeby więcej ludzi myślało tak jak ty. Ale nie ma sensu się nad tym rozwodzić. Porozmawiaj ze mną, gdy będziesz chciał czegoś się podjąć.~ ~Czyli nie możemy zmienić tego, kim jesteśmy, ale możemy zmienić to, kim się stajemy. O to ci chodzi? Mam nadzieję, że masz rację, <CHARNAME>. Naprawdę. I chciałabym, żeby więcej ludzi myślało tak jak ty. Ale nie ma sensu się nad tym rozwodzić. Porozmawiaj ze mną, gdy będziesz chciała czegoś się podjąć.~ [4rwho]
+@13157 = ~To tchórzliwe, ale czasem tchórzostwo ratuje życie. Porozmawiaj ze mną, gdy będziesz chciał czegoś się podjąć.~ ~To tchórzliwe, ale czasem tchórzostwo ratuje życie. Porozmawiaj ze mną, gdy będziesz chciała czegoś się podjąć.~ [4rcow]
+
+
+// =====================
+// Quest 5 – A Zhent Agent
+// =====================
+
+@13158 = ~Chętnie porozmawiałabym dłużej, ale... na trakcie między gospodą „Pod Pomocną Dłonią” a Beregostem znajduje się agent Zhentarimów. Zabij go. Jakieś pytania?~ [5zhst]
+@13159 = ~Mam go po prostu zabić? Nie mam z nim wcześniej porozmawiać?~
+@13160 = ~Jak go rozpoznam?~ 
+@13161 = ~Jedyny dobry Zhent to martwy Zhent. Owszem, zdarzają się odstępcy od reguły, ale tym razem nie o takiego chodzi. Coś jeszcze?~ [5dead]
+@13162 = ~Droga między Beregostem a gospodą „Pod Pomocną Dłonią” jest prosta jak strzała. Głupotą byłoby iść nią otwarcie, ale równie głupio byłoby zapuszczać się zbyt daleko od traktu. A agenci Zhentarimów w terenie nie słyną z subtelności. Nie powinno być go trudno znaleźć. Coś jeszcze?~ [5where]
+@13163 = ~Zabij agenta Zhentarimów, <CHARNAME>.~ [5kill]
+@13164 = ~Witaj ponownie, <CHARNAME>. Jak tam twoje zadanie?~ [5done]
+@13165 = ~Agent Zhentarim nie żyje, choć najpierw zdążył trochę pogadać.~
+@13166 = ~Doprawdy?~ [5did]
+@13167 = ~Nazwał mnie twoją „najnowszą zabawką”.~
+@13168 = ~Należysz do Harfiarzy? Dlatego wysłałaś mnie na Zhenta?~
+@13169 = ~Co ten Zhent w ogóle o tobie wie?~
+@13170 = ~Przejdźmy dalej.~
+@13171 = ~Tak powiedział? Nie jesteś pierwszą osobą, którą wysłałam w teren. Podejrzewam też, że nie będziesz ostatnią – nie dlatego, że zakładam twoją śmierć, rzecz jasna. Mam nadzieję, że z czasem pójdziesz własną drogą. Coś jeszcze?~ [5move]
+@13172 = ~Co? Nie. Ja... nieważne. Nie należę do żadnych Harfiarzy. Coś jeszcze?~ [5harp]
+@13173 = ~Nazwał mnie twoją „najnowszą zabawką”.~
+@13174 = ~Poza tym, że jestem lathanderytką, a oni nas nie cierpią z zasady? I że ścigam przestępców, a oni właśnie nimi są? I to od dawna? Byłoby dziwne, gdyby o mnie nie wiedzieli. Coś jeszcze?~ [5know]
+@13175 = ~Z przyjemnością. Zgłoś się do mnie, kiedy będziesz gotów na kolejne zadanie. A oto złoto w ramach nagrody za twój wysiłek.~ ~Z przyjemnością. Zgłoś się do mnie, kiedy będziesz gotowa na kolejne zadanie. A oto złoto w ramach nagrody za twój wysiłek.~  [5end]
+
+
+// =====================
+// Quest 6 – The Hungry Halfling (Lenovola)
+// =====================
+
+@13176 = ~Dobrze, to mamy już za sobą. Wysyłam cię teraz po Lenovolę – dość znaną kanibalkę. To niziołka... choć zjada nie tylko niziołki, więc nie myśl, że ktokolwiek z was jest bezpieczny. Poluje na podróżnych między Beregostem a Nashkel, a czasem widywano ją też w okolicach Gullykin. Szukałabym jej w Samotnych Szczytach. Uważaj, żeby cię nie zjadła – okaleczonego albo zbezczeszczonego ciała nie da się wskrzesić. Jeśli pożre ciebie albo któregoś z twoich towarzyszy, nic się już nie da zrobić. Poza zabiciem jej, oczywiście. Jakieś pytania?~ [6start]
+@13177 = ~Da się najpierw z nią porozmawiać?~
+@13178 = ~Zależy, jak bardzo będzie głodna. A tak całkiem serio – raczej wątpię. Kanibalizm to jej wybór i nie sądzę, by dała się od tego odwieść. Coś jeszcze?~ [6choi]
+@13179 = ~Wykonaj zadanie.~ [6comp]
+@13180 = ~Ach, wróciłeś – i nadal żyjesz. Świetnie. Odezwij się, gdy będziesz gotów na kolejne zlecenie. A, i jeszcze – weź ten pierścień. Pomoże ci uchronić się przed tym, by ktoś cię w przyszłości upiekł.~ ~Ach, wróciłaś – i nadal żyjesz. Świetnie. Odezwij się, gdy będziesz gotowa na kolejne zlecenie. A, i jeszcze – weź ten pierścień. Pomoże ci uchronić się przed tym, by ktoś cię w przyszłości upiekł.~ [can_0]
+
+
+// =====================
+// Quest 7 – Bandits and Thieves (Shadow Thief & bandits)
+// =====================
+
+@13181 = ~Słyszałam pogłoski, że w pobliskich lasach działają bandyci. Musiał o nich usłyszeć także Złodziej Cienia, bo opuścił Amn i udał się prosto do lasów. O ile wiemy, jeszcze nie opuścił puszczy. Tak czy inaczej – jeśli Złodzieje Cienia interesują się bandytami z jakiegokolwiek powodu, warto się temu przyjrzeć. Znajdź Złodzieja Cienia i dowiedz się, czego tylko możesz. Jest szansa, że dotarł już do obozu bandytów, więc może będziesz musiał najpierw ten obóz znaleźć. Jakieś pytania?~ ~Słyszałam pogłoski, że w pobliskich lasach działają bandyci. Musiał o nich usłyszeć także Złodziej Cienia, bo opuścił Amn i udał się prosto do lasów. O ile wiemy, jeszcze nie opuścił puszczy. Tak czy inaczej – jeśli Złodzieje Cienia interesują się bandytami z jakiegokolwiek powodu, warto się temu przyjrzeć. Znajdź Złodzieja Cienia i dowiedz się, czego tylko możesz. Jest szansa, że dotarł już do obozu bandytów, więc może będziesz musiała najpierw ten obóz znaleźć. Jakieś pytania?~ [ban_0]
+@13182 = ~Gdzie jest ten obóz bandytów?~
+@13183 = ~Co Złodziej Cienia robi w tych stronach?~
+@13184 = ~Nie mam pytań. Zajmę się tym.~
+@13185 = ~Nie wiem. Wiedzą to tylko sami bandyci. Będziesz musiał znaleźć jakiś trop, a obawiam się, że tu ci nie pomogę. Coś jeszcze?~ ~Nie wiem. Wiedzą to tylko sami bandyci. Będziesz musiała znaleźć jakiś trop, a obawiam się, że tu ci nie pomogę. Coś jeszcze?~ [ban_01]
+@13186 = ~Nie jestem pewna. Właśnie dlatego chcę, żebyś to ustalił. Coś jeszcze?~ ~Nie jestem pewna. Właśnie dlatego chcę, żebyś to ustaliła. Coś jeszcze?~ [ban_02]
+@13187 = ~Złodziej Cienia okazał się renegatem. Przyłączył się do bandytów, bo uznał, że tylko oni go przyjmą po tym, co zrobił. Odesłałem go tutaj.~ ~Złodziej Cienia okazał się renegatem. Przyłączył się do bandytów, bo uznał, że tylko oni go przyjmą po tym, co zrobił. Odesłałam go tutaj.~
+@13188 = ~Tak? Co wpłynęło na tę decyzję?~ [ban_03]
+@13189 = ~Może zasłużył na śmierć za swoje czyny, ale to nie mnie o tym decydować.~
+@13190 = ~Wyglądał na skruszonego, a ja uznałem, że należy mu się druga szansa.~ ~Wyglądał na skruszonego, a ja uznałam, że należy mu się druga szansa.~
+@13191 = ~Naprawdę nie chciało mi się walczyć ze Złodziejem Cienia, skoro i tak miałem na głowie całą bandę bandytów.~ ~Naprawdę nie chciało mi się walczyć ze Złodziejem Cienia, skoro i tak miałam na głowie całą bandę bandytów.~
+@13192 = ~Czyli nie chcesz być sędzią, ławą przysięgłych i katem w jednej osobie? Zazwyczaj myślę podobnie. Tak czy inaczej, mam dla ciebie coś nowego. Odezwij się, kiedy będziesz gotów.~ ~Czyli nie chcesz być sędzią, ławą przysięgłych i katem w jednej osobie? Zazwyczaj myślę podobnie. Tak czy inaczej, mam dla ciebie coś nowego. Odezwij się, kiedy będziesz gotowa.~  [ban_04]
+@13193 = ~Jesteś chlubą swojej wiary, <CHARNAME>. Odezwij się, kiedy będziesz gotów.~ ~Jesteś chlubą swojej wiary, <CHARNAME>. Odezwij się, kiedy będziesz gotowa.~ [ban_05]
+@13194 = ~Och? Czyżbyś zaczynał brać ze mnie przykład? Może jeszcze zrobię z ciebie lathanderytę! Żarty na bok – mam dla ciebie coś jeszcze. Porozmawiaj ze mną znowu, gdy będziesz gotów na kolejne zadanie.~ ~Och? Czyżbyś zaczynała brać ze mnie przykład? Może jeszcze zrobię z ciebie lathanderytkę! Żarty na bok – mam dla ciebie coś jeszcze. Porozmawiaj ze mną znowu, gdy będziesz gotowa na kolejne zadanie.~ [ban_06]
+@13195 = ~Praktyczne podejście. Tak czy inaczej, mam dla ciebie kolejne zadanie. Odezwij się, kiedy będziesz gotów.~ ~Praktyczne podejście. Tak czy inaczej, mam dla ciebie kolejne zadanie. Odezwij się, kiedy będziesz gotowa.~ [ban_07]
+@13196 = ~Złodziej Cienia okazał się renegatem. Przyłączył się do bandytów, bo uznał, że tylko oni go przyjmą po tym, co zrobił. Zabiłem go.~ ~Złodziej Cienia okazał się renegatem. Przyłączył się do bandytów, bo uznał, że tylko oni go przyjmą po tym, co zrobił. Zabiłam go.~
+@13197 = ~Zasłużył na śmierć za to, co robił jako Złodziej Cienia.~
+@13198 = ~Mógł kłamać z tym renegactwem. Nie chciałem ryzykować, że Złodzieje Cienia wmieszają się w sprawę bandytów.~ ~Mógł kłamać z tym renegactwem. Nie chciałam ryzykować, że Złodzieje Cienia wmieszają się w sprawę bandytów.~
+@13199 = ~Nigdy wcześniej nie walczyłem ze Złodziejem Cienia i byłem tego ciekaw.~ ~Nigdy wcześniej nie walczyłam ze Złodziejem Cienia i byłam tego ciekaw.~
+@13200 = ~I nie dostał drugiej szansy? Ludzie potrafią zmieniać się w zaskakujący sposób. Skoro był renegatem... cóż, nigdy się już nie dowiemy. Tak czy inaczej, mam dla ciebie kolejne zadanie. Odezwij się, kiedy będziesz gotów.~ ~I nie dostał drugiej szansy? Ludzie potrafią zmieniać się w zaskakujący sposób. Skoro był renegatem... cóż, nigdy się już nie dowiemy. Tak czy inaczej, mam dla ciebie kolejne zadanie. Odezwij się, kiedy będziesz gotowa.~
+@13201 = ~Och. Tak, jeśli kłamał, mógłby w przyszłości narobić wszystkim wielu kłopotów. Ostatnia rzecz, jakiej potrzebujemy, to wplątanie się Złodziei Cienia w... cokolwiek się tutaj dzieje. Niezależnie od tego, mam dla ciebie coś innego. Porozmawiaj ze mną ponownie, gdy będziesz gotów.~ ~Och. Tak, jeśli kłamał, mógłby w przyszłości narobić wszystkim wielu kłopotów. Ostatnia rzecz, jakiej potrzebujemy, to wplątanie się Złodziei Cienia w... cokolwiek się tutaj dzieje. Niezależnie od tego, mam dla ciebie coś innego. Porozmawiaj ze mną ponownie, gdy będziesz gotowa.~ [ban_09]
+@13202 = ~Nie walczyłeś jeszcze z wieloma rzeczami. Gdybym wysłała cię na spotkanie ze smokiem, też byś go zabił? W każdym razie – mam dla ciebie kolejne zadanie. Może ochłodzi nieco twoją żądzę walki. Odezwij się, kiedy będziesz gotów.~ ~Nie walczyłaś jeszcze z wieloma rzeczami. Gdybym wysłała cię na spotkanie ze smokiem, też byś go zabiła? W każdym razie – mam dla ciebie kolejne zadanie. Może ochłodzi nieco twoją żądzę walki. Odezwij się, kiedy będziesz gotowa.~
+
+
+// =====================
+// Quest 8 – The Ulcaster Ruins
+// =====================
+
+@13203 = ~Słyszałeś o Ruinach Ulcastera? To była szkoła magii, założona kilka wieków temu przez mistrza przywołań Ulcastera pod okiem Aumvora Niezniszczalnego, netheryjskiego lisza. Szkoła została dawno temu zniszczona, a od tamtej pory okolica roi się od nieumarłych. A nieumarli, rzecz jasna, przyciągają nekromantów. Od czasu do czasu czyścimy to miejsce, ale teraz wszyscy mają ręce pełne roboty przez bandytów i problemy z rudą żelaza. Widzisz chyba, do czego zmierzam, prawda? Idź do Ruin Ulcastera, znajdź najnowszego lokatora-nekromantę i usuń go. Jakieś pytania?~ ~Słyszałaś o Ruinach Ulcastera? To była szkoła magii, założona kilka wieków temu przez mistrza przywołań Ulcastera pod okiem Aumvora Niezniszczalnego, netheryjskiego lisza. Szkoła została dawno temu zniszczona, a od tamtej pory okolica roi się od nieumarłych. A nieumarli, rzecz jasna, przyciągają nekromantów. Od czasu do czasu czyścimy to miejsce, ale teraz wszyscy mają ręce pełne roboty przez bandytów i problemy z rudą żelaza. Widzisz chyba, do czego zmierzam, prawda? Idź do Ruin Ulcastera, znajdź najnowszego lokatora-nekromantę i usuń go. Jakieś pytania?~ [ul_01]
+@13204 = ~Uważaj w tych ruinach. Nie zaglądaliśmy tam od dłuższego czasu, więc może się tam roić od wszelkiego plugastwa. A kiedy już staniesz naprzeciw nekromanty – postaraj się, żeby nie zdążył rzucić choćby jednego czaru. Coś jeszcze?~ [ul_02]
+@13205 = ~Dobrze. Niech Lathander ci sprzyja. Weź jeszcze te strzały – są bardzo skuteczne przeciwko czarującym. I nagroda za poprzednie zadanie: Pierścień Strażnika. Może się jeszcze okazać przydatny.~ [ul_03]
+@13206 = ~Dobrze. Niech Lathander ci sprzyja. Weź jeszcze te strzały – są bardzo skuteczne przeciwko czarującym. Ach, i nagroda za poprzednie zadanie – Pierścień druida. Może ci się jeszcze przydać.~ [ul_04]
+@13207 = ~Dobrze. Niech Lathander ci sprzyja. A weź jeszcze te strzały – są bardzo skuteczne przeciwko czarującym. Ach, i nagroda za poprzednie zadanie – Pierścień ostrości. Może ci się jeszcze przydać.~ [ul_05]
+
+
+// =====================
+// Quest 9 – Judge and Jury (Ovlin the bandit)
+// =====================
+
+@13208 = ~Ach, <CHARNAME>. Przybywasz w samą porę. Kiedy rozprawiłeś się z obozem bandytów, jednego musiałeś przeoczyć... albo po prostu nie było go wtedy w obozie. Tak czy inaczej, jest tutaj i proszę cię, byś rozsądził spór między mną a tym oficerem Płomiennej Pięści. <CHARNAME>, sytuacja jest taka: ten człowiek brał udział w napadach, ale okazuje skruchę i prosi o azyl w naszej świątyni. Jest gotów zostać tu, studiować nauki Lathandera, a ja wierzę, że naprawdę żałuje. Świątynia i Płomienna Pięść nie mogą dojść do porozumienia, więc proszę, byś to ty wydał wyrok. Daj znać, kiedy podejmiesz decyzję.~ ~Ach, <CHARNAME>. Przybywasz w samą porę. Kiedy rozprawiłaś się z obozem bandytów, jednego musiałaś przeoczyć... albo po prostu nie było go wtedy w obozie. Tak czy inaczej, jest tutaj i proszę cię, byś rozsądziła spór między mną a tym oficerem Płomiennej Pięści. <CHARNAME>, sytuacja jest taka: ten człowiek brał udział w napadach, ale okazuje skruchę i prosi o azyl w naszej świątyni. Jest gotów zostać tu, studiować nauki Lathandera, a ja wierzę, że naprawdę żałuje. Świątynia i Płomienna Pięść nie mogą dojść do porozumienia, więc proszę, byś to ty wydała wyrok. Daj znać, kiedy podejmiesz decyzję.~ [jj_01]
+@13209 = ~No i jak, <CHARNAME>? Jaki jest twój werdykt?~ [jj_02]
+@13210 = ~Za swoje zbrodnie zasłużył na stryczek.~
+@13211 = ~Musi odpowiedzieć za to, co zrobił, ale niekoniecznie utratą życia. Zamknijcie go na jakiś czas. Nauki Lathandera może chłonąć zza krat.~
+@13212 = ~Okazuje skruchę. Skupmy się na tym i pozwólmy mu zostać w świątyni.~
+@13213 = ~Wciąż się nad tym zastanawiam.~
+@13214 = ~A może jednak... nie... Wszyscy zgodziliśmy się na ten układ. Wybacz, Ovlinie. Bogowie znają prawdę i ufam, że okażą miłosierdzie twojej duszy. <CHARNAME>, porozmawiaj ze mną, kiedy będziesz gotów na kolejne zadanie.~ ~A może jednak... nie... Wszyscy zgodziliśmy się na ten układ. Wybacz, Ovlinie. Bogowie znają prawdę i ufam, że okażą miłosierdzie twojej duszy. <CHARNAME>, porozmawiaj ze mną, kiedy będziesz gotowa na kolejne zadanie.~ [jj_03]
+@13215 = ~Kompromis, tak? To i tak lepsze niż niektóre inne możliwości. <CHARNAME>, porozmawiaj ze mną, kiedy będziesz gotów na kolejne zadanie.~ ~Kompromis, tak? To i tak lepsze niż niektóre inne możliwości. <CHARNAME>, porozmawiaj ze mną, kiedy będziesz gotowa na kolejne zadanie.~  [jj_04]
+@13216 = ~Weźmiemy za niego pełną odpowiedzialność, jeśli to pana uspokoi, oficerze. Chyba że ma pan jeszcze jakieś zastrzeżenia...? A ty, <CHARNAME>, porozmawiaj ze mną, kiedy będziesz gotów na kolejne zadanie.~ [jj_05] ~Weźmiemy za niego pełną odpowiedzialność, jeśli to pana uspokoi, oficerze. Chyba że ma pan jeszcze jakieś zastrzeżenia...? A ty, <CHARNAME>, porozmawiaj ze mną, kiedy będziesz gotowa na kolejne zadanie.~ [jj_05]
+@13217 = ~Nie musisz się spieszyć z decyzją.~ [jj_06]
+
+
+// =====================
+// Quest 10 – Renegade Zhent (Cloakwood)
+// =====================
+
+@13218 = ~Mam dla ciebie zadanie dość delikatnej natury. Otrzymałam wiadomość o renegacie Zhentarimów ukrywającym się w Kniei Otulisko i chcę, byś go tutaj sprowadził. Nie wiem dokładnie, gdzie się kryje – pewnie na tyle głęboko, by unikać ludzi, ale nie tak głęboko, by trafić na Druidów Cienia. Znajdź go i odeślij tutaj, jasne?~ ~Mam dla ciebie zadanie dość delikatnej natury. Otrzymałam wiadomość o renegacie Zhentarimów ukrywającym się w Kniei Otulisko i chcę, byś go tutaj sprowadziła. Nie wiem dokładnie, gdzie się kryje – pewnie na tyle głęboko, by unikać ludzi, ale nie tak głęboko, by trafić na Druidów Cienia. Znajdź go i odeślij tutaj, jasne?~  [rz_01]
+@13219 = ~Czemu go po prostu nie zabić? Myślałem, że jedyny dobry Zhent to martwy Zhent?~ ~Czemu go po prostu nie zabić? Myślałam, że jedyny dobry Zhent to martwy Zhent?~
+@13220 = ~Dlaczego właściwie chcesz go tutaj?~
+@13221 = ~Jesteś pewna, że nie należysz do Harfiarzy?~
+@13222 = ~Nie jest już Zhentem. Uciekł – jest renegatem. Czy to wyjaśnia sprawę? Coś jeszcze?~ [rz_02]
+@13223 = ~Bo jeśli nie trafi tutaj albo do ilmaterytów, to prędzej czy później zginie. Lathander naucza o odkupieniu. Nawet dla Zhentarimów. Coś jeszcze?~ [rz_03]
+@13224 = ~Tak, jestem pewna. Przestań o to pytać. Coś jeszcze?~ [rz_04]
+@13225 = ~Odnajdź renegata i sprowadź go tutaj.~ [rz_05]
+@13226 = ~Odesłałem renegata w tę stronę. Inni Zhentarimowie próbowali go zabić, ale już się tym nie zajmą... a przy okazji nazwali mnie twoim „psem bojowym”.~ ~Odesłałam renegata w tę stronę. Inni Zhentarimowie próbowali go zabić, ale już się tym nie zajmą... a przy okazji nazwali mnie twoim „psem bojowym”.~
+@13227 = ~Mm. W gruncie rzeczy... może nie są daleko od prawdy, co? Tak czy inaczej, dobra robota, <CHARNAME>. Mam dla ciebie kolejne zadanie – tym razem chyba mniej dramatyczne. Odezwij się, kiedy będziesz gotów.~ ~Mm. W gruncie rzeczy... może nie są daleko od prawdy, co? Tak czy inaczej, dobra robota, <CHARNAME>. Mam dla ciebie kolejne zadanie – tym razem chyba mniej dramatyczne. Odezwij się, kiedy będziesz gotowa.~  [rz_06]
+@13228 = ~Naprawdę? Tak cię nazwali? Dziwne. Nie jesteś szczególnie brutalny... na pewno nie tak żądny krwi jak oni. W każdym razie – dobra robota, <CHARNAME>. Mam dla ciebie kolejne zadanie, raczej spokojniejsze. Odezwij się, kiedy będziesz gotów.~ ~Naprawdę? Tak cię nazwali? Dziwne. Nie jesteś szczególnie brutalna... na pewno nie tak żądna krwi jak oni. W każdym razie – dobra robota, <CHARNAME>. Mam dla ciebie kolejne zadanie, raczej spokojniejsze. Odezwij się, kiedy będziesz gotowa.~ [rz_07]
+@13229 = ~Zabiłem renegata Zhentarimów.~ ~Zabiłam renegata Zhentarimów.~
+@13230 = ~CO TAKIEGO?! Przecież wyraźnie powiedziałam, żebyś tego nie robił! Nieważne, jakie masz wytłumaczenie. Wynoś się stąd!~ ~CO TAKIEGO?! Przecież wyraźnie powiedziałam, żebyś tego nie robiła! Nieważne, jakie masz wytłumaczenie. Wynoś się stąd!~  [rz_08]
+@13231 = ~Wynoś się, <CHARNAME>.~ [rz_09]
+
+
+// =====================
+// Quest 11 – Papers, please (Helmite documents)
+// =====================
+
+@13232 = ~Helmici we Wrotach Baldura mają pewne dokumenty, które – jak sądzą – będę w stanie rozszyfrować. Zrób mi przysługę i je dla mnie odbierz. Arteger będzie, rzecz jasna, w Świątyni Helma. Jakieś pytania?~ [p_01]
+@13233 = ~Dlaczego sądzą, że potrafisz je odczytać? Czemu nie poproszą o to jakiegoś uczonego z Candlekeep?~
+@13234 = ~Dlaczego sama po nie nie pójdziesz?~
+@13235 = ~Nie jestem tego całkowicie pewna – i nie będę, dopóki nie zobaczę tych dokumentów. Możesz rozwiać naszą ciekawość, przynosząc je tutaj. Coś jeszcze?~ [p_02]
+@13236 = ~Ponieważ niechętnie opuszczam świątynię. Ty natomiast – jak widzę – nie masz z tym żadnego problemu. Coś jeszcze?~ [p_03]
+@13237 = ~Przynieś mi te dokumenty.~ [p_04]
+@13238 = ~Ach, widzę, że masz dokumenty. Hm... pokaż. Aha... tak, zdecydowanie potrafię... hm. Niestety wygląda na to, że sama powinnam udać się do Wrót. Najpewniej będę miała dla ciebie kolejne zadania – spotkaj się ze mną w Świątyni Helma.~ [p_05]
+
+
+// =====================
+// Quest 12 – The Loviataran (renegade of Loviatar)
+// =====================
+
+@13239 = ~Ach, <CHARNAME>, jesteś. Doskonale. Rzecz jasna, mam dla ciebie kolejną misję. Podsłuchałam rozmowę kilku helmitów o pewnej wyznawczyni Loviatar. Schroniła się we Wrotach Baldura jako odstępczyni i pragnie pojednać się z Ilmaterem. Helmici, oczywiście, chcą ją „postawić przed wymiarem sprawiedliwości”, co zapewne oznacza stryczek. Osobiście uważam, że to wyznawcy Ilmatera powinni zdecydować, co z nią zrobić. Chcę, byś ją odnalazł i przekazał jej ten pierścień niewidzialności. Najtrudniejsze będzie ustalenie, gdzie się zatrzymała. Ach – i helmici nie wiedzą, że my wiemy o jej obecności, więc proszę, zachowaj to między nami. Jakieś pytania?~ [lov_01] ~Ach, <CHARNAME>, jesteś. Doskonale. Rzecz jasna, mam dla ciebie kolejną misję. Podsłuchałam rozmowę kilku helmitów o pewnej wyznawczyni Loviatar. Schroniła się we Wrotach Baldura jako odstępczyni i pragnie pojednać się z Ilmaterem. Helmici, oczywiście, chcą ją „postawić przed wymiarem sprawiedliwości”, co zapewne oznacza stryczek. Osobiście uważam, że to wyznawcy Ilmatera powinni zdecydować, co z nią zrobić. Chcę, byś ją odnalazła i przekazała jej ten pierścień niewidzialności. Najtrudniejsze będzie ustalenie, gdzie się zatrzymała. Ach – i helmici nie wiedzą, że my wiemy o jej obecności, więc proszę, zachowaj to między nami. Jakieś pytania?~ [lov_01]
+@13240 = ~Co masz na myśli, mówiąc, że helmici nie wiedzą, że o niej wiemy?~
+@13241 = ~Dlaczego mamy pozwolić im decydować o jej losie?~
+@13242 = ~Wyglądasz na wyjątkowo zaangażowaną w tę sprawę.~
+@13243 = ~Masz jakieś wskazówki, gdzie jej szukać?~
+@13244 = ~Trochę sobie ich podsłuchałam. Byłbyś zdziwiony, gdybyś dowiedział się, co ludzie mówią, gdy sądzą, że nikt ich nie słyszy albo nie zwraca na nich uwagi. Coś jeszcze?~ ~Trochę sobie ich podsłuchałam. Byłabyś zdziwiona, gdybyś dowiedziała się, co ludzie mówią, gdy sądzą, że nikt ich nie słyszy albo nie zwraca na nich uwagi. Coś jeszcze?~ [lov_02]
+@13245 = ~Z tego, co podsłuchałam, większość jej przewinień dotyczyła wyznawców Ilmatera. Skoro tak, to oni powinni zdecydować o jej losie, nie sądzisz? Coś jeszcze?~ [lov_3]
+@13246 = ~Ja...? Nie, nie bardziej niż w innych sprawach. Jest odstępczynią i chcę dać jej szansę na odkupienie – tak jak tamtemu renegatowi Zhentarimów, którego kazałam ci sprowadzić. Coś jeszcze?~ [lov_04]
+@13247 = ~Hm. wyznawcy Loviatar potrafią być dość... dekadenccy, więc mogła wybrać jakąś lepszą gospodę. Ale są też kalkulujący, więc równie dobrze mogła celowo wybrać lichszą. Albo przewidzieć, że będziemy tak myśleć. Sprawdź po prostu wszystkie miejsca, gdzie podróżni zwykle się zatrzymują. Coś jeszcze?~ [lov_05]
+@13248 = ~Dobrze. Obyś znalazł ją, nim zrobi to Płomienna Pięść albo paladyni.~ ~Dobrze. Obyś znalazła ją, nim zrobi to Płomienna Pięść albo paladyni.~  [lov_06]
+@13249 = ~Dostarcz ten pierścień.~
+@13250 = ~Ach, wróciłeś. Powiedz mi, <CHARNAME>... dlaczego właściwie zrobiłeś to, o co prosiłam?~ ~Ach, wróciłaś. Powiedz mi, <CHARNAME>... dlaczego właściwie zrobiłaś to, o co prosiłam?~ [lov_08]
+@13251 = ~Wydałaś się wyjątkowo w to zaangażowana, więc uznałem, że to coś ważnego.~ ~Wydałaś się wyjątkowo w to zaangażowana, więc uznałam, że to coś ważnego.~
+@13252 = ~Bo mnie o to poprosiłaś.~
+@13253 = ~Bo uważam, że należy się jej druga szansa.~
+@13254 = ~Naprawdę tak myślisz? Hm. W pewnym sensie... chyba rzeczywiście jest to dla mnie ważne. Nieważne. Mam dla ciebie kolejne zadanie. Porozmawiaj ze mną, kiedy będziesz gotów.~ ~Naprawdę tak myślisz? Hm. W pewnym sensie... chyba rzeczywiście jest to dla mnie ważne. Nieważne. Mam dla ciebie kolejne zadanie. Porozmawiaj ze mną, kiedy będziesz gotowa.~ [lov_09]
+@13255 = ~I to tyle? Gdybym poprosiła cię o... nie, to byłoby wobec ciebie nieuczciwe. Nieważne. Mam dla ciebie kolejne zadanie.~ [lov_10]
+@13256 = ~Cieszę się, że się zgadzamy. A teraz – następne zadanie czeka. Porozmawiaj ze mną, kiedy będziesz gotów.~ ~Cieszę się, że się zgadzamy. A teraz – następne zadanie czeka. Porozmawiaj ze mną, kiedy będziesz gotowa.~ [lov_11]
+@13257 = ~Zabiłem renegatkę, wyznawczynię Loviatar.~ ~Zabiłam renegatkę, wyznawczynię Loviatar.~
+
+
+// =====================
+// Quest 13 – The Doppelganger
+// =====================
+
+@13258 = ~Ach, <CHARNAME>. Mam dla ciebie coś interesującego – pojawiły się doniesienia o sobowtórniaku, który skrywa się w kanałach. Płomienna Pięść, rzecz jasna, chce go zabić, ale ja jestem niezwykle ciekawa. Prawie nigdy nie widzi się sobowtórniaka w jego prawdziwej postaci i zastanawiam się, dlaczego akurat ten nie próbuje ukrywać się wśród ludzi, jak zwykle robi jego rodzaj. Zbadaj to, dobrze?~ [dop_01]
+@13259 = ~Myślisz, że ten sobowtórniak ma coś wspólnego z niepokojami w mieście?~
+@13260 = ~Zajmę się tym.~
+@13261 = ~Mało prawdopodobne. Gdyby chciał sprawiać problemy, nie paradowałby w swojej prawdziwej formie.~ [dop_02]
+@13262 = ~Dobrze. Obyś znalazł go, zanim zrobi to Płomienna Pięść.~ ~Dobrze. Obyś znalazła go, zanim zrobi to Płomienna Pięść.~  [dop_03]
+@13263 = ~Ustal, co się dzieje.~
+@13264 = ~Ach, <CHARNAME>, wróciłeś. Dzięki bogom.~ ~Ach, <CHARNAME>, wróciłaś. Dzięki bogom.~ [dop_04]
+@13265 = ~Sobowtórniak chciał po prostu żyć, będąc sobą, więc mu na to pozwoliłem.~ ~Sobowtórniak chciał po prostu żyć, będąc sobą, więc mu na to pozwoliłam.~
+@13266 = ~Dobra decyzja. Może... może jednak jest jakaś nadzieja. Nie mamy jednak czasu na rozważania, mam dla ciebie coś bardzo pilnego. Porozmawiaj ze mną, jak tylko będziesz mógł podjąć się kolejnego zadania.~ ~Dobra decyzja. Może... może jednak jest jakaś nadzieja. Nie mamy jednak czasu na rozważania, mam dla ciebie coś bardzo pilnego. Porozmawiaj ze mną, jak tylko będziesz mogła podjąć się kolejnego zadania.~  [dop_05]
+@13267 = ~Sobowtórniak nie żyje – nie mogłem pozwolić takiemu potworowi żyć.~ ~Sobowtórniak nie żyje – nie mogłam pozwolić takiemu potworowi żyć.~				 
+@13268 = ~Cóż... i właśnie dlatego zwykle się ukrywają. I dlatego inni także kłamią oraz skrywają, kim są. Osąd bywa gwałtowny. Nie mamy czasu, by się nad tym pochylać. Mam dla ciebie coś bardzo pilnego. Porozmawiaj ze mną, jak tylko będziesz mógł podjąć się kolejnego zadania.~ ~Cóż... i właśnie dlatego zwykle się ukrywają. I dlatego inni także kłamią oraz skrywają, kim są. Osąd bywa gwałtowny. Nie mamy czasu, by się nad tym pochylać. Mam dla ciebie coś bardzo pilnego. Porozmawiaj ze mną, jak tylko będziesz mogła podjąć się kolejnego zadania.~ [dop_06]
+
+
+// =====================
+// Finale – Blood or Faith (Mordiyin & confession)
+// =====================
+
+@13269 = ~Głębokie Piwnice pod Spłonioną Syreną. Kryje się tam Mordiyin, wysoko postawiony zabójca Zhentarimów. Musi zginąć, <CHARNAME>. Jakieś pytania?~ [fin_01]
+@13270 = ~Dlaczego sama tego nie zrobisz?~
+@13271 = ~Skąd o tym wiesz?~
+@13272 = ~Czemu nie poprosić o pomoc Płomiennej Pięści?~
+@13273 = ~Czemu nie wezwać Harfiarzy?~
+@13274 = ~To chyba nie jest jakaś pułapka, prawda?~
+@13275 = ~Co możesz mi powiedzieć o Mordiyinie?~
+@13276 = ~Nie mam pytań. Zajmę się tym.~
+@13277 = ~Ja... nie ufam sobie w tej sprawie. Za dużo między nami zaszło. Coś jeszcze?~ [fin_02]
+@13278 = ~Pamiętasz dokumenty, które sprowadziłeś mi od helmitów? Powód, dla którego przybyłam do Wrót Baldura, zamiast zostać w Beregoście? To były papiery Zhentarimów. Nie było trudno złamać ich szyfr i tak dowiedziałam się o tym wszystkim. Coś jeszcze?~ ~Pamiętasz dokumenty, które sprowadziłaś mi od helmitów? Powód, dla którego przybyłam do Wrót Baldura, zamiast zostać w Beregoście? To były papiery Zhentarimów. Nie było trudno złamać ich szyfr i tak dowiedziałam się o tym wszystkim. Coś jeszcze?~  [fin_03]
+@13279 = ~Płomiennej Pięści? Mówimy o tej samej organizacji? Nie radzą sobie z bandytami – jak więc mieliby poradzić sobie ze Zhentarimami? Nie dadzą sobie rady. To byłaby rzeź, zakładając, że w ogóle odważyliby się tam pójść. Coś jeszcze?~ [fin_04]
+@13280 = ~Życzę powodzenia w szybkim odnalezieniu Harfiarzy. Nawet jeśli ich znajdziesz, zasypią cię pytaniami. Ty stracisz czas, oni stracą czas... dokładnie tak, jak my teraz. Coś jeszcze?~ [fin_05]
+@13281 = ~Oczywiście, <CHARNAME>, spędziłam cały ten czas, budując twoją pozycję, tylko po to, by poprowadzić cię w pułapkę jak baranka na rzeź. Nie, to nie jest pułapka. Coś jeszcze?~ [fin_06]
+@13282 =  ~Byliśmy kiedyś partnerami. Unikałam i zabijałam wielu innych zabójców z Twierdzy Zhentil i wygląda na to, że w końcu przysłali Mordiyina. Zna mnie wystarczająco dobrze i zakładam, że wiedzą, że robiłam się trochę zbyt sentymentalna. Ja... nie wiem, czy dam radę się z nim zmierzyć, dlatego wysyłam ciebie. I bądź ostrożny, całkiem dobrze radzi sobie w walce, a do tego potrafi używać magii. Nie wiem dokładnie, do czego jest teraz zdolny, nie śledziłam go. Być może był to z mojej strony błąd. Coś jeszcze?~ [fin_07]
+@13283 = ~Powodzenia, <CHARNAME>.~ [fin_08]
+@13284 = ~Zabij Mordiyina, <CHARNAME>. Szybko. Proszę.~ [fin_09]
+@13285 = ~Och, <CHARNAME>! Wróciłeś.~ ~Och, <CHARNAME>! Wróciłaś.~ [fin_10]
+@13286 = ~Tak, wróciłem. Mordiyin miał sporo do powiedzenia.~ ~Tak, wróciłam. Mordiyin miał sporo do powiedzenia.~
+@13287 = ~Tak... przypuszczam, że miał. Dobrze, zasługujesz na moją szczerość. Kiedyś byłam agentką Zhentarimów. Egzekutorką. Tropiłam naszych wrogów bez litości i bez wahania, a każdego, kto im pomógł, choćby tylko udzielił schronienia... zabijałam. Z zimną krwią. Zdarzało się, że mordowałam niewinnych tylko dlatego, że ukrywali renegatów. Wymordowałam całą świątynię wraz z wyznawcami Ilmatera – choć nikt z nich nawet nie podniósł na mnie ręki. Próbowałam uciec przed swoją przeszłością. Być kimś lepszym. Lathander obiecuje nowy dzień, ale ja nie potrafię wyrwać się z cienia własnych grzechów. Zhentarimowie mawiają: „raz Zhent, zawsze Zhent”. I zaczynam rozumieć, że mieli rację. Próbowałam odkupić winy, pomagając innym renegatom... ale kiedy mówię, że jedyny dobry Zhent to martwy Zhent – wierz mi, wiem, co mówię. Dlatego mam dla ciebie ostatnie zadanie. Chcę, żebyś był świadkiem mojej śmierci.~ ~Tak... przypuszczam, że miał. Dobrze, zasługujesz na moją szczerość. Kiedyś byłam agentką Zhentarimów. Egzekutorką. Tropiłam naszych wrogów bez litości i bez wahania, a każdego, kto im pomógł, choćby tylko udzielił schronienia... zabijałam. Z zimną krwią. Zdarzało się, że mordowałam niewinnych tylko dlatego, że ukrywali renegatów. Wymordowałam całą świątynię wraz z wyznawcami Ilmatera – choć nikt z nich nawet nie podniósł na mnie ręki. Próbowałam uciec przed swoją przeszłością. Być kimś lepszym. Lathander obiecuje nowy dzień, ale ja nie potrafię wyrwać się z cienia własnych grzechów. Zhentarimowie mawiają: „raz Zhent, zawsze Zhent”. I zaczynam rozumieć, że mieli rację. Próbowałam odkupić winy, pomagając innym renegatom... ale kiedy mówię, że jedyny dobry Zhent to martwy Zhent – wierz mi, wiem, co mówię. Dlatego mam dla ciebie ostatnie zadanie. Chcę, żebyś była świadkiem mojej śmierci.~ [fin_11]
+@13288 = ~Nie bądź niedorzeczna. Wiesz przecież, że sam święty nie jestem. Jeśli potępisz siebie, potępiasz i mnie.~ ~Nie bądź niedorzeczna. Wiesz przecież, że sama święta nie jestem. Jeśli potępisz siebie, potępiasz i mnie.~
+@13289 = ~Nikt z nas nie jest święty, Elorano... ale chyba to, kim się stajemy, znaczy równie wiele – jeśli nie więcej – niż to, kim byliśmy? (UWAGA: ten wybór zmieni twój charakter na Chaotyczny Neutralny)~
+@13290 = ~Nikt z nas nie jest święty, Elorano... ale chyba to, kim się stajemy, znaczy równie wiele – jeśli nie więcej – niż to, kim byliśmy? (UWAGA: ten wybór zmieni twój charakter na Prawdziwie Neutralny)~
+@13291 = ~Nikt z nas nie jest święty, Elorano... ale chyba to, kim się stajemy, znaczy równie wiele – jeśli nie więcej – niż to, kim byliśmy? (UWAGA: ten wybór zmieni twój charakter na Praworządny Neutralny)~
+@13300 = ~Nikt z nas nie jest święty, Elorano... ale chyba to, kim się stajemy, znaczy równie wiele – jeśli nie więcej – niż to, kim byliśmy? (UWAGA: ten wybór zmieni twój charakter na Chaotyczny Dobry)~
+@13301 = ~Nikt z nas nie jest święty, Elorano... ale chyba to, kim się stajemy, znaczy równie wiele – jeśli nie więcej – niż to, kim byliśmy? (UWAGA: ten wybór zmieni twój charakter na Neutralny Dobry)~
+@13302 = ~Nikt z nas nie jest święty, Elorano... ale chyba to, kim się stajemy, znaczy równie wiele – jeśli nie więcej – niż to, kim byliśmy? (UWAGA: ten wybór zmieni twój charakter na Praworządny Dobry)~
+@13292 = ~Masz wyrzuty sumienia z powodu tego, co zrobiłaś – i słusznie. Powinnaś żyć, choćby po to, by dźwigać ciężar własnych występków.~
+@13293 = ~Masz wyrzuty sumienia z powodu tego, co zrobiłaś – i słusznie. Powinnaś żyć, choćby po to, by dźwigać ciężar własnych występków. (UWAGA: ten wybór zmieni twój charakter na Chaotyczny Neutralny)~
+@13294 = ~Masz wyrzuty sumienia z powodu tego, co zrobiłaś – i słusznie. Powinnaś żyć, choćby po to, by dźwigać ciężar własnych występków. (UWAGA: ten wybór zmieni twój charakter na Prawdziwie Neutralny)~
+@13295 = ~Masz wyrzuty sumienia z powodu tego, co zrobiłaś – i słusznie. Powinnaś żyć, choćby po to, by dźwigać ciężar własnych występków. (UWAGA: ten wybór zmieni twój charakter na Praworządny Neutralny)~
+@13297 = ~Masz wyrzuty sumienia z powodu tego, co zrobiłaś – i słusznie. Powinnaś żyć, choćby po to, by dźwigać ciężar własnych występków. (UWAGA: ten wybór zmieni twój charakter na Chaotyczny Zły)~
+@13298 = ~Masz wyrzuty sumienia z powodu tego, co zrobiłaś – i słusznie. Powinnaś żyć, choćby po to, by dźwigać ciężar własnych występków. (UWAGA: ten wybór zmieni twój charakter na Neutralny Zły)~
+@13299 = ~Masz wyrzuty sumienia z powodu tego, co zrobiłaś – i słusznie. Powinnaś żyć, choćby po to, by dźwigać ciężar własnych występków. (UWAGA: ten wybór zmieni twój charakter na Praworządny Zły)~
+@13296 = ~Już odkupiłaś swoje grzechy, Elorano. Uwierz w siebie albo przynajmniej zaufaj Lathanderowi – to, co właśnie robisz i dlaczego to robisz, stoi w sprzeczności niemal ze wszystkim, co on reprezentuje. ~
+@13303 = ~*Nic nie rób, tylko patrz*~
+
+
+// =====================
+// Finale Epilogues
+// =====================
+
+@13304 = ~Może... <CHARNAME>?... Naprawdę aż tak we mnie wierzysz? Nawet teraz, gdy znasz prawdę o tym, kim jestem – kim kiedyś byłam? Myślisz, że zasługuję jeszcze na jakąś szansę? Ja... muszę to przemyśleć... Nie mogę jednak dłużej zostać we Wrotach, skoro Zhentarimowie wiedzą, że tu jestem. Żegnaj. I dziękuję.~ [fin_12]
+@13305 = ~Ty naprawdę w to wierzysz, prawda? Dobrze. Mam tylko nadzieję, że nie pogorszę sprawy. Bogowie wiedzą, że i tak narobiłam już wystarczająco dużo szkód. Skoro tak bardzo chcesz, żebym została przy życiu, to... będę musiała opuścić Wrota, bo przecież Zhentarimowie wiedzą, że tu jestem. Żegnaj. Mam nadzieję, że to nie jest kolejny błąd.~ [fin_13]
+@13306 = ~Nie waż się rzucać tekstami, których sam nie pojmujesz! Żegnaj.~ ~Nie waż się rzucać tekstami, których sama nie pojmujesz! Żegnaj.~ [fin_14]
+@13307 = ~Do widzenia.~ [fin_15]

@@ -1,0 +1,93 @@
+@1  = ~Rozpoznano gre: BG I EE~
+@2  = ~Rozpoznano gre: EET~
+@3  = ~Rozpoznano gre: BGT~
+@4  = ~Blood and Faith mod do BGT, BG I EE i EET~
+
+@5  = ~Arteger~
+@6  = ~Duch~
+@7  = ~Grabarz~
+@8  = ~W³aœcicielka domu~
+@9  = ~Ovlin~
+@10 = ~Oficer Reatin~
+@11 = ~Wdowa~
+@12 = ~Przyjazny zombie~ // skrót od Zombie, zachowany dla spójnoœci z oryginalnym stylem
+@13 = ~Z³y Zhent~ // agent Zhentarim
+@14 = ~Przyjazny sobowtórniak~ // Podmieniec to polskie t³umaczenie Doppelganger
+@15 = ~Wyznawczyni Loviatar~ // lub Loviatanka, w zale¿noœci od p³ci NPC
+@16 = ~Mordiyin~
+@17 = ~Nekromanta~
+@18 = ~Szczur~
+@19 = ~Król szczurów~
+@20 = ~Renegat~
+@21 = ~By³y z³odziej~
+@22 = ~Agent Zhentarimów~
+@23 = ~Wyznawca Malara~ // Wyznawca Malara
+@24 = ~Kanibalka Lenovela~
+@25 = ~Elorana~
+@26 = ~Kolekcja monet~
+@27 = ~Ta kolekcja monet nie ma wielkiej wartoœci, chyba ¿e dla najbardziej zapalonych kolekcjonerów.~
+@28 = ~Zaszyfrowane dokumenty~
+@29 = ~Dokumenty s¹ zaszyfrowane w sposób, z jakim nigdy siê wczeœniej nie spotka³eœ.~ ~Dokumenty s¹ zaszyfrowane w sposób, z jakim nigdy siê wczeœniej nie spotka³aœ.~
+@30 = ~Nory~
+@31 = ~Miecz Mordiyina~
+@32 = ~Z tym mieczem jest coœ nie tak.~
+@33 = ~Ta na wskroœ z³a broñ zosta³a odebrana Mordiyinowi, agentowi Zhentarimów wyspecjalizowanemu w polowaniu na dezerterów. Przez lata orê¿ ten zasmakowa³ krwi wielu istot i wci¹¿ ³aknie walki, wykazuj¹c siê niepokoj¹c¹ skutecznoœci¹ przeciwko humanoidom. Miecz bije ch³odnym blaskiem, a ka¿dy, kto nie ma z³ych zamiarów, przekona siê, ¿e dotyk rêkojeœci parzy zbyt mocno, by móc nim w³adaæ.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +1, +3 przeciw humanoidom
+TraK0: +1, +3 przeciw humanoidom
+Typ obra¿eñ: sieczne
+Waga: 4
+OpóŸnienie: 4
+Rodzaj bieg³oœci: d³ugi miecz
+Typ broni: 1-rêczna
+Wymagana si³a: 6
+Nie mo¿e u¿ywaæ:
+ Postaæ o charakterze dobrym~
+@34 = ~Szpon Bestii Malara~
+@35 = ~Ten pierœcieñ, bêd¹cy rzekomo szponem odebranym jednej z ulubionych bestii Malara, cuchnie krwi¹ i lekko pulsuje pod wp³ywem dotyku. Nosz¹ca go osoba zostaje natchniona przebieg³oœci¹ i zaciek³oœci¹ W³adcy Bestii, ale dzieje siê to kosztem jej os¹du i og³ady towarzyskiej.
+
+PARAMETRY:
+
+Specjalne:
+ Klasa Pancerza: +1, +4 przeciw pociskom
+ +10% do Krycia siê w cieniu
+ +10% do Cichego chodzenia
+ +2 do prêdkoœci poruszania siê
+ -2 do M¹droœci
+ -3 do Charyzmy
+ Mo¿na zdj¹æ jedynie po rzuceniu czaru Zdjêcie kl¹twy~
+@36 = ~Krêgowy kostur~
+@37 = ~Ten przedmiot to szcz¹tki ofiary jakiegoœ nekromanty; wci¹¿ mo¿na w nim wyczuæ œlad agonii pierwotnego w³aœciciela krêgos³upa. Sprawia on, ¿e pos³uguj¹ca siê nim osoba staje siê odpychaj¹ca w oczach innych, trudno jednak zaprzeczyæ potêdze magicznej, któr¹ zapewnia. Czasami kostur porusza siê w d³oni, jak gdyby wci¹¿ by³ ¿ywy.
+
+PARAMETRY:
+
+Specjalne:
+ Podwaja liczbê zaklêæ maga
+ +1 do TraK0
+ -3 do Charyzmy
+ -2 do Kondycji
+Nie mo¿e u¿ywaæ:
+ Postaæ o charakterze dobrym~
+@38 = ~Amulet Elorany~
+@39 = ~Ten z³oty amulet, ozdobiony symbolem Pana Poranka, sprawia, ¿e nosz¹ca go osoba zyskuje wiêksz¹ przychylnoœæ w oczach swego bóstwa. Nie mo¿e byæ u¿ywany przez tych, którzy s³u¿¹ z³u.
+
+PARAMETRY:
+
+Specjalne:
+ Podwaja liczbê zaklêæ kap³ana
+Mo¿e u¿ywaæ:
+ Kap³an
+ Postaæ o charakterze innym ni¿ z³y~
+@40 = ~P³aszcz Ibrandula~
+@41 = ~P³aszcz ten, noszony niegdyœ przez wyznawcê Ibrandula, boga jaskiñ, przej¹³ czêœæ jego mroku. Lekki jak piórko, faluje niczym ¿ywy cieñ i zapewnia lepsze ukrycie w nocy.
+
+PARAMETRY:
+
+Specjalne:
+ +1 do Klasy Pancerza
+ Infrawizja
+ +10% do Cichego chodzenia (aktywne w nocy)
+ +10% do Krycia siê w cieniu (aktywne w nocy)~
+@42 = ~Ta modyfikacja wymaga BGI EE, BGT lub EET~

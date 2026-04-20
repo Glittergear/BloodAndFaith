@@ -33,9 +33,23 @@ ALWAYS
 
     LAF autotra_workaround END
 
+// Special BGT
+  ACTION_IF (GAME_IS ~bgt~ AND ~%LANGUAGE%~ STR_EQ ~polish~)  THEN BEGIN 
+
+	OUTER_SET SpecialBGT = 1
+		PRINT ~
+		SpecialBGT will proceed
+		~
+
+  END ELSE  BEGIN
+
+	OUTER_SET SpecialBGT = 0
+
+  END
+
 // Convert tra files in UTF8 if EE and let them in ANSI if oBG
 
-	ACTION_IF GAME_IS ~bgee eet~ BEGIN
+	ACTION_IF NOT GAME_IS ~bgee eet~ AND SpecialBGT = 0 BEGIN
   ACTION_DEFINE_ARRAY BloodAndFaith_noconvert BEGIN install END
 
 		ACTION_DEFINE_ARRAY BloodAndFaith_reload BEGIN BloodAndFaith JournalEntries END
@@ -43,17 +57,14 @@ ALWAYS
 			LAF HANDLE_CHARSETS
 				INT_VAR
 				infer_charsets = 1
+				from_utf8 = 1
 				STR_VAR
 				tra_path = EVAL ~weidu_external/BloodAndFaith/Languages/autotra~
-				out_path = EVAL ~weidu_external/BloodAndFaith/Languages/autotra/UTF8~
+				out_path = EVAL ~weidu_external/BloodAndFaith/Languages/autotra~
 				iconv_path = ~BloodAndFaith/Languages/autotra/iconv~
-				 noconvert_array = BloodAndFaith_noconvert
+				noconvert_array = BloodAndFaith_noconvert
 				reload_array = BloodAndFaith_reload
 			END
-
-	// UTF8 only
-	COPY ~weidu_external/BloodAndFaith/Languages/autotra/UTF8/%LANGUAGE%~				~weidu_external/BloodAndFaith/Languages/autotra/%LANGUAGE%~
-	COPY ~weidu_external/BloodAndFaith/Languages/autotra/UTF8/%LANGUAGE%/Dlg~			~weidu_external/BloodAndFaith/Languages/autotra/%LANGUAGE%/Dlg~
 	END
 
 END
@@ -69,20 +80,34 @@ LANGUAGE ~English~
 
 LANGUAGE ~Simplified Chinese(by Lzw104522773)~
          ~schinese~
-         ~BloodAndFaith/Languages/schinese/BloodAndFaith.tra~ //you'd put the mod title in here.
+         ~BloodAndFaith/Languages/schinese/BloodAndFaith.tra~
          ~BloodAndFaith/Languages/schinese/JournalEntries.tra~
          ~BloodAndFaith/Languages/schinese/install.tra~
 
 LANGUAGE ~Russian (by CblblP & Arcanecoast.ru)~
          ~russian~
-         ~BloodAndFaith/Languages/russian/BloodAndFaith.tra~ //you'd put the mod title in here.
+         ~BloodAndFaith/Languages/russian/BloodAndFaith.tra~
          ~BloodAndFaith/Languages/russian/JournalEntries.tra~
 
+LANGUAGE ~Polish (by my_summertime, SoM Membress, part of CoB Clan)~
+         ~polish~   
+         ~BloodAndFaith/Languages/polish/BloodAndFaith.tra~
+         ~BloodAndFaith/Languages/polish/JournalEntries.tra~
+		 
 
 BEGIN @4 /* Blood and Faith Installation */
 DESIGNATED 0
 LABEL ~Blood-And-Faith-Glittergear~
 REQUIRE_PREDICATE GAME_IS ~bgee eet bgt~ @42 /* This mod need BGEE, BGT or EET */
+
+
+// Special BGT
+	ACTION_IF SpecialBGT = 1 THEN BEGIN
+		COPY ~BloodAndFaith/Languages/%LANGUAGE%/SpecialBGT~			~weidu_external/BloodAndFaith/Languages/autotra/%LANGUAGE%~
+		COPY ~BloodAndFaith/Languages/%LANGUAGE%/SpecialBGT/Dlg~			~weidu_external/BloodAndFaith/Languages/autotra/%LANGUAGE%/Dlg~
+		LOAD_TRA ~weidu_external/BloodAndFaith/Languages/autotra/%LANGUAGE%/JournalEntries.tra~
+		LOAD_TRA ~weidu_external/BloodAndFaith/Languages/autotra/%LANGUAGE%/BloodAndFaith.tra~
+	END
 
 ADD_JOURNAL TITLE (@5099) @5100 @5101 @5102 @5103 @5104 @5105 @5106 @5107 @5108 @5109 @5110 @5111 @5113  @5116 @5117 @5118 @5119 @5120 @5121 @5122 @5123 @5124 @5125 @5126 @5127 @5128 @5129 @5130 @5131 @5132 @5133 @5134 @5135 @5136 @5137 @5138 @5139 @5140 @5141 @5142 USING ~weidu_external/BloodAndFaith/Languages/autotra/%s/JournalEntries.tra~
 
