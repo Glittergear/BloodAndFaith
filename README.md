@@ -119,6 +119,24 @@ If you find anything else, ping me on Discord or post it to the G3 forums.
 #### CHANGELOG
 --------------
 
+1.4 Languages update and fixes
+ - Chinese update by yoshimo0417
+ - Beregost houses owners accounted for (again)
+ - G_warrens spiders changes to SPIDGI or SPIDGI01
+ - Items corrections
+ - Malarite and Wererat animations for EE by GraionDilach
+ - New line for consistancy "I am grieving, please leave me alone" in d_gBF1w.tra (widow).
+ - [UTF8 for all language :](https://www.gibberlings3.net/forums/topic/41202-polish-translation-vs-polish-translation/)
+   - Polish translation for EE
+   - Polish translation for BGT (ANSI CP1250)
+ - Add oggdec.exe (for BGT)
+ - Use two new block for Polish duplicated translation
+ - [Corrections](https://github.com/Glittergear/BloodAndFaith/pull/19) thanks to @mysummertimemy :
+   - g_lovi.CRE updated according to gender used in dialog
+   - Missing/duplicated journal entry 5104 to 51033
+ - Adding a reward since it's mentionned in the missing journal entry
+ - Bam for Warrens entrance
+
 1.3 Languages update and fixes
  - Synchronize 1.1 and 1.2
  - Chinese by Lzw104522773, add install.tra for prompt
@@ -131,9 +149,6 @@ If you find anything else, ping me on Discord or post it to the G3 forums.
  - [Beregost houses owners accounted for](https://www.gibberlings3.net/forums/topic/38708-mod-release-blood-and-faith-a-bg1-questline-mod/page/3/#comment-351652)
  - GLOBAL to LOCALS/MYAREA when possible
  - EscapeArea() / Kill(Myself) moved at the end of blocks
- - G_warrens spiders changes to SPIDGI or SPIDGI01
- - Items corrections
- - Malarite and Wererat animations for EE by GraionDilach
 
 1.2 Voice acting and more!
  - Full voiceacting for Eloran!

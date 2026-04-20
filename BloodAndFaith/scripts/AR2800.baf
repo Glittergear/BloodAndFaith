@@ -1,14 +1,25 @@
 //spawns Malarite
 
 IF
+	Global("gBFq2","GLOBAL",0) 
+THEN
+		RESPONSE #100
+		RemoveMapNote([2617.3161],@30)
+		Continue()
+END
+
+IF
 	Global("GbmalarSp","MYAREA",0)
 	Global("gBFq2","GLOBAL",1) 
 THEN
 		RESPONSE #100
+		%BAF_AddMapNoteColor_AR2800%
 		CreateCreature("gg_malaF",[2536.3256],3)  
 		SetGlobal("GbmalarSp","MYAREA",1)
 		Continue()
 END
+//		AddMapNoteColor([2617.3161],@30,SLATE)
+//		AddMapNote([2617.3161],@30)
 
 //spawns zhent1
 

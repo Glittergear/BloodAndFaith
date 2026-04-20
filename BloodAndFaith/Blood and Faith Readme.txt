@@ -97,6 +97,15 @@ If you find anything else, ping me on Discord or post it to the G3 forums.
 //CHANGELOG
 /////////////////////
 
+1.4 Languages update and fixes
+ - Chinese update by yoshimo0417
+ - Beregost houses owners accounted for (again)
+ - G_warrens spiders changes to SPIDGI or SPIDGI01
+ - Items corrections
+ - Malarite and Wererat animations for EE by GraionDilach
+ - New line for consistancy "I am grieving, please leave me alone" in d_gBF1w.tra (widow)
+ - Bam for Warrens entrance
+
 1.3 Languages update and fixes
  - Synchronize 1.1 and 1.2
  - Chinese by Lzw104522773, add install.tra for prompt
@@ -109,9 +118,6 @@ If you find anything else, ping me on Discord or post it to the G3 forums.
  - Beregost houses owners accounted for
  - GLOBAL to LOCALS/MYAREA when possible
  - EscapeArea() / Kill(Myself) moved at the end of blocks
- - G_warrens spiders changes to SPIDGI or SPIDGI01
- - Items corrections
- - Malarite and Wererat animations for EE by GraionDilach
 
 1.2 Voice acting and more!
 	Full voiceacting for Eloran!
