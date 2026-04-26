@@ -98,12 +98,21 @@ If you find anything else, ping me on Discord or post it to the G3 forums.
 /////////////////////
 
 1.4 Languages update and fixes
- - Chinese update by yoshimo0417
+ - Chinese update by @yoshimo0417
  - Beregost houses owners accounted for (again)
  - G_warrens spiders changes to SPIDGI or SPIDGI01
  - Items corrections
- - Malarite and Wererat animations for EE by GraionDilach
- - New line for consistancy "I am grieving, please leave me alone" in d_gBF1w.tra (widow)
+ - Malarite and Wererat animations for EE by @GraionDilach
+ - New line for consistancy "I am grieving, please leave me alone" in d_gBF1w.tra (widow).
+ - UTF8 for all language :
+   - Polish translation for EE
+   - Polish translation for BGT (ANSI CP1250)
+ - Add oggdec.exe (for BGT)
+ - Use two new block for Polish duplicated translation
+ - Corrections thanks to @mysummertimemy and @morgan :
+   - g_lovi.CRE updated according to gender used in dialog
+   - Missing/duplicated journal entry 5104 to 51033
+ - Adding a reward since it's mentionned in the missing journal entry
  - Bam for Warrens entrance
 
 1.3 Languages update and fixes
