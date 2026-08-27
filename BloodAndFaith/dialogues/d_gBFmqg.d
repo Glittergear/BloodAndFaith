@@ -534,23 +534,23 @@ IF ~~ THEN BEGIN ratOn
  SetGlobal("gBFq4","GLOBAL",1) AddJournalEntry(@5108, QUEST)~ EXIT
 END
 
-IF ~ Global("gBFq4","GLOBAL",1) ~ THEN BEGIN ratLater
+IF ~ Global("gBFq4","GLOBAL",1) !Dead("g_rk")~ THEN BEGIN ratLater
 	SAY @13137 /* Come back when you've resolved the situation. */ IF ~~ THEN EXIT
 END
 
 //talked to Rat King, who is still alive
-IF ~ Global("gBFq4","GLOBAL",2) !Dead("g_rk") ~ THEN BEGIN ratwtf
+IF ~ Global("gBFq4","GLOBAL",2) !Dead("g_rk")~ THEN BEGIN ratwtf
 	SAY @13138 /* A lycanthrope? Here? By the Morninglord… I wish I could join you for this. But I can still help from here. Try to avoid a fight and do what you can to convince the wererat to leave peacefully. He hasn’t been violent yet, so I think there’s a chance. And here’s a silver dagger, just in case. Unfortunately, I only have the one. And good luck, <CHARNAME>. */ IF ~~ THEN DO ~
   GiveItemCreate("DAGG09",Player1,1,1,0) SetGlobal("gBFq4","GLOBAL",3) ~ EXIT
 END
 
-IF ~ Global("gBFq4","GLOBAL",3) ~ THEN BEGIN ratLater2
+IF ~ Global("gBFq4","GLOBAL",3) !Dead("g_rk")~ THEN BEGIN ratLater2
 	SAY @13139 /* Come back when you've resolved the situation. And good luck. */ IF ~~ THEN EXIT
 END
 
 
 //killed rat king
-IF ~ Dead("g_rk") ~ THEN BEGIN ratDead
+IF ~GlobalLT("gBFq4","GLOBAL",4) Dead("g_rk")~ THEN BEGIN ratDead
 	SAY @13081 /* Anything to report? */
 	++ @13140 /* I've slain the wererat. */ GOTO ratDeadD
 END
@@ -566,34 +566,35 @@ END
 IF ~~ THEN BEGIN ratEvil
 	SAY @13146 /* Irredeemably evil by virtue of existence? That’s cold, <CHARNAME>. What of the Selunite lycanthropes? Well, let’s hope there’s never any surprises about what *you* are. Ah, but we don’t have time to dwell on this now. Talk to me again when you want something to do. */ 
 IF ~~ THEN DO ~
-   IncrementGlobal("gBFdP","GLOBAL",1) SetGlobal("gBFq5","GLOBAL",4) SetGlobal("GGBFMQ","GLOBAL",5) AddJournalEntry(@5111, QUEST) AddXPObject(Player1,150) AddXPObject(Player2,150) AddXPObject(Player3,150) AddXPObject(Player4,150) AddXPObject(Player5,150) AddXPObject(Player6,150)~ EXIT
+   IncrementGlobal("gBFdP","GLOBAL",1) SetGlobal("gBFq4","GLOBAL",5) SetGlobal("GGBFMQ","GLOBAL",5) AddJournalEntry(@5111, QUEST) AddXPObject(Player1,150) AddXPObject(Player2,150) AddXPObject(Player3,150) AddXPObject(Player4,150) AddXPObject(Player5,150) AddXPObject(Player6,150)~ EXIT
 END
 
 IF ~~ THEN BEGIN ratDanger
 	SAY @13147 /* I wonder, <CHARNAME>…. Will there ever be a time when *you* become so dangerous and powerful that someone believes that you’re too risky to stay alive? Ah, but we don’t have time to dwell on this now. Talk to me again when you want something to do. */ 
 IF ~~ THEN DO ~
-   IncrementGlobal("gBFdP","GLOBAL",1) SetGlobal("gBFq5","GLOBAL",4) SetGlobal("GGBFMQ","GLOBAL",5) AddJournalEntry(@5111, QUEST) AddXPObject(Player1,150) AddXPObject(Player2,150) AddXPObject(Player3,150) AddXPObject(Player4,150) AddXPObject(Player5,150) AddXPObject(Player6,150)~ EXIT
+   IncrementGlobal("gBFdP","GLOBAL",1) SetGlobal("gBFq4","GLOBAL",5) SetGlobal("GGBFMQ","GLOBAL",5) AddJournalEntry(@5111, QUEST) AddXPObject(Player1,150) AddXPObject(Player2,150) AddXPObject(Player3,150) AddXPObject(Player4,150) AddXPObject(Player5,150) AddXPObject(Player6,150)~ EXIT
 END
 
 
 IF ~~ THEN BEGIN ratFight
 	SAY @13148 /* Did you? I’m sure you got one. I wonder if someone should ever believe the same of you. What then? Though perhaps you’d relish the opportunity. Ah, but we don’t have time for this. Talk to me again when you want something to do. */ 
 IF ~~ THEN DO ~
-   IncrementGlobal("gBFdP","GLOBAL",1) SetGlobal("gBFq5","GLOBAL",4) SetGlobal("GGBFMQ","Global",5) AddJournalEntry(@5111, QUEST) AddXPObject(Player1,150) AddXPObject(Player2,150) AddXPObject(Player3,150) AddXPObject(Player4,150) AddXPObject(Player5,150) AddXPObject(Player6,150)~ EXIT
+   IncrementGlobal("gBFdP","GLOBAL",1) SetGlobal("gBFq4","GLOBAL",5) SetGlobal("GGBFMQ","Global",5) AddJournalEntry(@5111, QUEST) AddXPObject(Player1,150) AddXPObject(Player2,150) AddXPObject(Player3,150) AddXPObject(Player4,150) AddXPObject(Player5,150) AddXPObject(Player6,150)~ EXIT
 END
 
 IF ~~ THEN BEGIN ratSad
 	SAY @13149 /* That’s unfortunate, but it’s reality. I’m sorry, <CHARNAME>, I really am. Ah, but I’m afraid we don’t have any time. Talk to me again when you want something to do. */ 
 IF ~~ THEN DO ~
- SetGlobal("GGBFMQ","GLOBAL",5) SetGlobal("gBFq5","GLOBAL",4) AddJournalEntry(@5111, QUEST) AddXPObject(Player1,150) AddXPObject(Player2,150) AddXPObject(Player3,150) AddXPObject(Player4,150) AddXPObject(Player5,150) AddXPObject(Player6,150)~ EXIT
+ SetGlobal("GGBFMQ","GLOBAL",5) SetGlobal("gBFq4","GLOBAL",5) AddJournalEntry(@5111, QUEST) AddXPObject(Player1,150) AddXPObject(Player2,150) AddXPObject(Player3,150) AddXPObject(Player4,150) AddXPObject(Player5,150) AddXPObject(Player6,150)~ EXIT
 END
 
 
 
 //convinced rat king to leave
-IF ~ Global("gBFq4","GLOBAL",4) !Dead("g_rk") ~ THEN BEGIN ratRelo
+IF ~ Global("gBFq4","GLOBAL",4) !Dead("g_rk")~ THEN BEGIN ratRelo
 	SAY @13081 /* Anything to report? */
-	++ @13150 /* The rats were led by a lycanthrope, and I convinced them to leave for the warrens that the Malarite used to occupy. */ GOTO ratLive
+	+ ~Global("gBF4rk","GLOBAL",0)~ + @13150 /* The rats were led by a lycanthrope, and I convinced them to leave for the warrens that the Malarite used to occupy. */ GOTO ratLive
+	+ ~Global("gBF4rk","GLOBAL",1)~ + @13308 /* The rats were led by a lycanthrope, and I convinced them to leave. */ GOTO ratLive
 END
 
 IF ~~ THEN BEGIN ratLive

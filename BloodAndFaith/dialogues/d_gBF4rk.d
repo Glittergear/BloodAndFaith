@@ -89,6 +89,7 @@ END
 IF ~~ THEN BEGIN strYes
 	SAY @9012 /* Wait, wait, wait! You seem strong. We don't want to fight you. We'll leave. */
 	IF ~~ THEN DO ~SetGlobal("gBFq4","GLOBAL",4)
+					SetGlobal("gBF4rk","GLOBAL",1)
 					ActionOverride("g_rat1",EscapeArea())
 					ActionOverride("g_rat2",EscapeArea())
 					ActionOverride("g_rat3",EscapeArea())

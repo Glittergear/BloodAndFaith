@@ -306,3 +306,7 @@
 @13305 = ~You truly believe that, don’t you? Fine. I just hope that I don’t make things worse somehow. Gods know I’ve done enough damage already. Since you want me to stay alive so badly, I’ll… I’ll have to leave the Gate. now that the Zhentarim know I'm here. Goodbye, <CHARNAME>. I hope this isn’t just another mistake.~ [fin_13]
 @13306 = ~Don't you dare quote things at me that you don't fully understand yourself! Goodbye, <CHARNAME>.~ [fin_14]
 @13307 = ~Goodbye, <CHARNAME>.~ [fin_15]
+
+// Rat king addition related to SetGlobal("gBF4rk","GLOBAL",1) in d_gBF4rk (He didn't go to warrens)
+@13308 = ~The rats were led by a lycanthrope, and I convinced them to leave.~
+
