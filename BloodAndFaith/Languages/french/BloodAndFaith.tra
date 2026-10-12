@@ -1,0 +1,115 @@
+@1    = ~Jeu : BGEE~
+@2    = ~Jeu : EET~
+@3    = ~Jeu : BGT~
+@4    = ~Blood and Faith~
+@5    = ~Arteger~
+@6    = ~Fantôme~
+@7    = ~Fossoyeur~
+@8    = ~Propriétaire~
+@9    = ~Ovlin~
+@10   = ~Officier Reatin~
+@11   = ~Veuve~
+@12   = ~Zombie amical~
+@13   = ~Zhent maléfique~
+@14   = ~Doppelganger amical~
+@15   = ~La loviate~
+@16   = ~Mordiyin~
+@17   = ~Nécromancien~
+@18   = ~Rat~
+@19   = ~Le Roi des rats~
+@20   = ~Renégat~
+@21   = ~Ancien voleur~
+@22   = ~Agent zhent~
+@23   = ~Malarite~
+@24   = ~Lenovela la Cannibale~
+@25   = ~Eloran~
+@26   = ~Collection de pièces~
+@27   = ~Cette collection de pièces n'a guère de valeur, sauf aux yeux des collectionneurs les plus passionnés.~
+@28   = ~Documents codés~
+@29   = ~Ces documents sont codés d'une manière que vous n'avez encore jamais vue.~
+@30   = ~Terriers~
+
+// v1.2 Items 
+@31   = ~Épée de Mordiyin~
+@32   = ~Quelque chose paraît anormal avec cette épée.~
+@33   = ~Prise à Mordiyin, un agent zhent spécialisé dans la traque des déserteurs, cette arme est profondément maléfique. Au fil des ans, elle a goûté le sang de nombreuses victimes et elle semble toujours avide de combat, tant son efficacité contre les humanoïdes est inquiétante. Elle luit d'une froide lumière, et quiconque n'est pas animé de mauvaises intentions trouve son contact trop brûlant pour pouvoir la manier.
+
+CARACTÉRISTIQUES :
+
+TAC0 : +1, +3 contre les humanoïdes
+Dégâts : 1d8+1, +3 contre les humanoïdes
+Type de dégâts : tranchants
+Facteur de vitesse : 4
+Type de compétence : épée longue
+Type : une main
+Requiert :
+ 6 en Force
+ Inutilisable par les personnages d'alignement Bon
+
+Poids : 4~
+
+@34   = ~Griffe de la Bête de Malar~
+@35   = ~On raconte que cette griffe provient de l'une des bêtes favorites de Malar. Cet anneau empeste le sang et palpite légèrement au toucher. Son porteur reçoit une part de la furtivité et de la férocité du Seigneur des Bêtes, mais au prix de <PRO_HISHER> discernement et de ses aptitudes sociales.
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+- Classe d'armure : +1, avec un bonus supplémentaire de +4 contre les projectiles
+- +10 % à Se cacher dans l'ombre
+- +10 % à Déplacement silencieux
+- +2 au facteur de vitesse
+- -2 en Sagesse
+- -3 en Charisme
+- Ne peut être retiré qu'avec un sort de Délivrance de la malédiction
+
+Poids : 1~
+
+@36   = ~Bâton vertébral~
+@37   = ~Vestige de la victime d'un nécromancien, ce bâton semble encore imprégné d'une trace de l'agonie ressentie par le propriétaire originel de cette colonne vertébrale. Il rend son porteur repoussant aux yeux d'autrui, mais il est difficile de nier la puissance magique qu'il confère. Il arrive qu'il remue dans la main comme s'il était encore vivant.
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+- Double le nombre de sorts de mage
+- -3 en Charisme
+- -2 en Constitution
+
+TAC0 : +1
+Dégâts : 1d6+1 (contondants)
+Facteur de vitesse : 3
+Type de compétence : bâton
+Type : à deux mains
+
+Requiert :
+- 5 en Force
+- Inutilisable par les personnages Bons
+
+Poids : 4~
+
+@38   = ~Amulette d'Eloran~
+@39   = ~Ornée du symbole du Seigneur de l'Aube, cette amulette d'or attire davantage l'attention du dieu de <PRO_HISHER> porteur. Elle ne peut être utilisée par ceux qui servent le Mal.
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+- Double le nombre d'emplacements de sorts divins
+- Utilisable uniquement par les prêtres
+- Inutilisable par les personnages Mauvais
+
+Poids : 1~
+
+@40   = ~Cape d'Ibrandul~
+@41   = ~Autrefois portée par un fidèle d'Ibrandul, le dieu des cavernes, cette cape semble avoir absorbé une part de ses ténèbres. Légère comme une plume, elle ondule telle une ombre vivante et dissimule davantage son porteur à la faveur de la nuit.
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+- Classe d'armure : +1
+- Infravision
+- Déplacement silencieux : +10 (actif la nuit)
+- Se cacher dans l'ombre : +10 (actif la nuit)
+
+Poids : 3~
+
+
+@42   = ~Ce mod nécessite BGEE, BGT ou EET~
