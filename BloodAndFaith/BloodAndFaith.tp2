@@ -93,6 +93,11 @@ LANGUAGE ~Polish (by my_summertime, SoM Membress, part of CoB Clan)~
          ~polish~   
          ~BloodAndFaith/Languages/polish/BloodAndFaith.tra~
          ~BloodAndFaith/Languages/polish/JournalEntries.tra~
+
+LANGUAGE French (by Deratiseur)~
+         ~french~   
+         ~BloodAndFaith/Languages/french/BloodAndFaith.tra~
+         ~BloodAndFaith/Languages/french/JournalEntries.tra~
 		 
 
 BEGIN @4 /* Blood and Faith Installation */

@@ -1,0 +1,90 @@
+@5099   = ~Blood and Faith~
+@5100	= ~Une hantise ordinaire
+Eloran m'a chargé de chasser un fantôme de la grande maison jaunâtre au toit bleu, en face du Magicien Ardent à Bérégost.~
+@5101	= ~Une hantise ordinaire
+Une fois la collection de pièces récupérée, le fantôme est parti pour l'au-delà. Je devrais retourner voir Eloran.~
+@5102	= ~Une hantise ordinaire
+Eloran s'est montrée satisfaite de ma réussite et m'a récompensé.~
+@5103	= ~La chasse au chasseur
+Eloran m'a chargé de tuer un druide malarite qui s'en prend aux voyageurs entre l'Auberge du Bras Amical et Bérégost.~
+@51033	= ~La chasse au chasseur
+Eloran s'est montrée satisfaite de ma réussite et m'a récompensé.~ // Was duplicated with @5104
+@5104= ~Des funérailles qui tournent mal
+Le fossoyeur de Nashkel a perdu un corps. Eloran m'a chargé de découvrir ce qui s'est passé.~
+@5105= ~Des funérailles qui tournent mal
+J'ai retrouvé le corps : il est devenu mort-vivant parce qu'il n'était pas satisfait de ses funérailles. Je devrais retourner voir le fossoyeur pour lui expliquer la situation.~
+@5106= ~Des funérailles qui tournent mal
+Le fossoyeur a accepté d'organiser de nouvelles funérailles. Le zombie devrait enfin pouvoir reposer en paix. Je devrais retourner voir Eloran.~
+@5107= ~Des funérailles qui tournent mal
+Eloran s'est montrée satisfaite de ma réussite.~
+@5108= ~Le Roi des rats
+Une maison située juste au nord-ouest de la Gerbe Rouge est infestée de rats, et Eloran veut que je règle le problème.~
+@5109=  ~Le Roi des rats
+Les rats sont dirigés par un lycanthrope ! Je devrais peut-être retourner voir Eloran, à moins qu'il n'existe un moyen de le convaincre de partir paisiblement avec ses rats.~
+@5110= ~Le Roi des rats
+J'ai convaincu le Roi des rats et ses congénères de partir s'installer dans les terriers au nord de Bérégost. Je devrais annoncer ma réussite à Eloran.~
+@5111=  ~Le Roi des rats
+Eloran s'est montrée satisfaite de ma réussite.~
+@5112=  ~dummy
+dummy~
+@5113=   ~dummy
+dummy~
+@5114= ~Un agent zhent
+Un agent zhent se rend à Bérégost depuis l'Auberge du Bras Amical, et Eloran veut que je le trouve et que je le tue.~
+@5115=  ~Un agent zhent
+Eloran s'est montrée satisfaite de ma réussite.~
+@5116= ~La halfeline affamée
+Une halfeline cannibale s'en prend aussi bien aux voyageurs qu'aux habitants de la région. Elle se cache probablement dans les Plaines de Flammevin. Je devrais fouiller les environs.~
+@5117=  ~La halfeline affamée
+Eloran s'est montrée satisfaite de ma réussite.~
+@5118= ~Bandits et voleurs
+Un Voleur de l'Ombre a été aperçu en chemin vers un camp de bandits des environs ! Eloran veut que j'enquête.~
+@5119=  ~Bandits et voleurs
+J'ai parlé au voleur. Je devrais retourner voir Eloran.~
+@5120=  ~Bandits et voleurs
+J'ai fait mon rapport à Eloran.~
+@5121= ~Le nécromancien d'Ulcaster
+Eloran m'a chargé de tuer un nécromancien qui s'est installé dans les ruines d'Ulcaster.~
+@5122=  ~Le nécromancien d'Ulcaster
+Je suis retourné voir Eloran, et pas une minute trop tôt.~
+@5123= ~Juge et juré
+Un bandit demande asile au temple de Lathandre. C'est à moi de décider de son sort.~
+@5124=  ~Juge et juré
+J'ai fait part de ma décision à Eloran.~
+@5125= ~Un Zhent renégat
+Eloran m'a chargé de secourir un agent zhentarim renégat dans le Bois-Manteau. Il se cache probablement assez profondément pour éviter les zones civilisées, mais pas au point de risquer de tomber sur les Druides de l'Ombre.~
+@5126=  ~Un Zhent renégat
+Je suis retourné voir Eloran.~
+@5127=   ~dummy
+dummy~
+@5128=   ~dummy
+dummy~
+@5129=   ~dummy
+dummy~
+@5130=   ~dummy
+dummy~
+@5131=   ~dummy
+dummy~
+@5132= ~Vos papiers, s'il vous plaît
+Les Heaumites de la Porte de Baldur ont trouvé des documents codés et pensent qu'Eloran pourra les déchiffrer. Je dois trouver Arteger au temple de Heaum de la Porte de Baldur, récupérer les documents et les rapporter à Eloran. ~
+@5133=  ~Vos papiers, s'il vous plaît
+Eloran a lu les documents codés très rapidement et m'a dit qu'on avait besoin d'elle à la Porte. Je dois la retrouver au temple de Heaum pour recevoir mes prochaines missions.~
+@5134= ~La loviate
+Je dois remettre un anneau d'invisibilité à une loviate repentante qui se cache à la Porte de Baldur. ~
+@5135=  ~La loviate
+J'ai remis l'anneau à la loviate. Il est temps de retourner voir Eloran.~
+@5136=  ~La loviate
+Eloran s'est montrée satisfaite que j'aie remis l'anneau.~
+@5137= ~Le doppelganger
+Un doppelganger a été aperçu caché dans les égouts de la Porte de Baldur. Eloran veut que j'enquête.~
+@5138=  ~Le doppelganger
+J'ai parlé au doppelganger. Il est temps de retourner voir Eloran.~
+@5139=  ~Le doppelganger
+Je suis retourné voir Eloran.~
+@5140= ~Le sang ou la foi
+Eloran m'a envoyé dans les Sous-Caves, sous la Sirène Rougissante, pour tuer Mordiyin, un assassin zhentarim.~
+@5141=  ~Le sang ou la foi
+Je suis retourné voir Eloran après avoir tué Mordiyin, et elle m'a tout avoué. Convaincue d'être irrécupérable, elle s'est donné la mort. Je n'ai plus rien à faire ici.~
+@5142=  ~Le sang ou la foi
+Je suis retourné voir Eloran après avoir tué Mordiyin, et elle m'a tout avoué. Je l'ai convaincue de vivre, et elle est partie vers une destination inconnue. Peut-être que le destin nous réunira à nouveau un jour.~
+
