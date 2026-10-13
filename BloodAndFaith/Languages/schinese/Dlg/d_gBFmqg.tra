@@ -306,3 +306,6 @@
 @13305 = ~你真的这么认为，对吗？好吧。我只是希望我不会以某种方式让事情变得更糟。神知道我已经造成了足够的伤害。既然你这么想让我活着，我……我得离开博德之门了。现在散塔林人知道我在这里。再见，<CHARNAME>。我希望这不会只是另一个错误。~
 @13306 = ~别给我引用那些你自己都不完全理解的东西！再见，<CHARNAME>。~
 @13307 = ~再见，<CHARNAME>。~
+
+// Rat king addition related to SetGlobal("gBF4rk","GLOBAL",1) in d_gBF4rk (He didn't go to warrens)
+@13308 = ~The rats were led by a lycanthrope, and I convinced them to leave.~

@@ -1,6 +1,6 @@
 BACKUP ~weidu_external/BloodAndFaith/backup~
 AUTHOR ~Glittergear~
-VERSION ~1.4~
+VERSION ~1.5~
 
 
 ALWAYS
@@ -94,7 +94,7 @@ LANGUAGE ~Polish (by my_summertime, SoM Membress, part of CoB Clan)~
          ~BloodAndFaith/Languages/polish/BloodAndFaith.tra~
          ~BloodAndFaith/Languages/polish/JournalEntries.tra~
 
-LANGUAGE French (by Deratiseur)~
+LANGUAGE ~French (by Deratiseur)~
          ~french~   
          ~BloodAndFaith/Languages/french/BloodAndFaith.tra~
          ~BloodAndFaith/Languages/french/JournalEntries.tra~

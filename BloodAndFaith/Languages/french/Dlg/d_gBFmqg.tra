@@ -306,3 +306,7 @@
 @13305 = ~Vous le pensez vraiment, n'est-ce pas ? Très bien. J'espère simplement que je ne vais pas encore empirer les choses. Les dieux savent que j'ai déjà causé assez de dégâts. Puisque vous tenez tant à ce que je reste en vie, je vais… je vais devoir quitter la Porte, maintenant que les Zhentarims savent que je suis ici. Adieu, <CHARNAME>. J'espère que ce n'est pas encore une erreur.~ [fin_13]
 @13306 = ~N'osez pas me citer des paroles que vous ne comprenez même pas pleinement ! Adieu, <CHARNAME>.~ [fin_14]
 @13307 = ~Adieu, <CHARNAME>.~ [fin_15]
+
+// Rat king addition related to SetGlobal("gBF4rk","GLOBAL",1) in d_gBF4rk (He didn't go to warrens)
+@13308 = ~The rats were led by a lycanthrope, and I convinced them to leave.~
+

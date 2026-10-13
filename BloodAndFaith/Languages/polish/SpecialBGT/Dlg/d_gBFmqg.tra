@@ -423,3 +423,6 @@
 @13305 = ~Ty naprawdê w to wierzysz, prawda? Dobrze. Mam tylko nadziejê, ¿e nie pogorszê sprawy. Bogowie wiedz¹, ¿e i tak narobi³am ju¿ wystarczaj¹co du¿o szkód. Skoro tak bardzo chcesz, ¿ebym zosta³a przy ¿yciu, to... bêdê musia³a opuœciæ Wrota, bo przecie¿ Zhentarimowie wiedz¹, ¿e tu jestem. ¯egnaj. Mam nadziejê, ¿e to nie jest kolejny b³¹d.~ [fin_13]
 @13306 = ~Nie wa¿ siê rzucaæ tekstami, których sam nie pojmujesz! ¯egnaj.~ ~Nie wa¿ siê rzucaæ tekstami, których sama nie pojmujesz! ¯egnaj.~ [fin_14]
 @13307 = ~Do widzenia.~ [fin_15]
+
+// Rat king addition related to SetGlobal("gBF4rk","GLOBAL",1) in d_gBF4rk (He didn't go to warrens)
+@13308 = ~The rats were led by a lycanthrope, and I convinced them to leave.~

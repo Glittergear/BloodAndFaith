@@ -423,3 +423,7 @@
 @13305 = ~Ty naprawdę w to wierzysz, prawda? Dobrze. Mam tylko nadzieję, że nie pogorszę sprawy. Bogowie wiedzą, że i tak narobiłam już wystarczająco dużo szkód. Skoro tak bardzo chcesz, żebym została przy życiu, to... będę musiała opuścić Wrota, bo przecież Zhentarimowie wiedzą, że tu jestem. Żegnaj. Mam nadzieję, że to nie jest kolejny błąd.~ [fin_13]
 @13306 = ~Nie waż się rzucać tekstami, których sam nie pojmujesz! Żegnaj.~ ~Nie waż się rzucać tekstami, których sama nie pojmujesz! Żegnaj.~ [fin_14]
 @13307 = ~Do widzenia.~ [fin_15]
+
+// Rat king addition related to SetGlobal("gBF4rk","GLOBAL",1) in d_gBF4rk (He didn't go to warrens)
+@13308 = ~The rats were led by a lycanthrope, and I convinced them to leave.~
+
