@@ -11,7 +11,8 @@ IF ~True()~ THEN BEGIN 0
 	+ ~OR(2)
 		CheckStatGT(Player1,16,STR)
 		PartyHasItem("DAGG09")~ + @9005 /*  [Intimidate] I’m going to kill you. */ GOTO strYes
-	+ ~CheckStatLT(Player1,17,STR)~ + @9005 /*  [Intimidate] I’m going to kill you. */ GOTO strNo
+	+ ~CheckStatLT(Player1,17,STR)
+		!PartyHasItem("DAGG09")~ + @9005 /*  [Intimidate] I’m going to kill you. */ GOTO strNo
 	+ ~~ + @9006 /* Hm. I'll come back later. */ GOTO stallTime
 END
 
@@ -27,7 +28,8 @@ IF ~~ THEN BEGIN whyTho
 	+ ~OR(2)
 		CheckStatGT(Player1,16,STR)
 		PartyHasItem("DAGG09")~ + @9005 /*  [Intimidate] I’m going to kill you. */ GOTO strYes
-	+ ~CheckStatLT(Player1,17,STR)~ + @9005 /*  [Intimidate] I’m going to kill you. */ GOTO strNo
+	+ ~CheckStatLT(Player1,17,STR)
+		!PartyHasItem("DAGG09")~ + @9005 /*  [Intimidate] I’m going to kill you. */ GOTO strNo
 	+ ~~ + @9006 /* Hm. I'll come back later. */ GOTO stallTime
 
 
@@ -43,7 +45,8 @@ IF ~~ THEN BEGIN whatWant
 	+ ~OR(2)
 		CheckStatGT(Player1,16,STR)
 		PartyHasItem("DAGG09")~ + @9005 /*  [Intimidate] I’m going to kill you. */ GOTO strYes
-	+ ~CheckStatLT(Player1,17,STR)~ + @9005 /*  [Intimidate] I’m going to kill you. */ GOTO strNo
+	+ ~CheckStatLT(Player1,17,STR)
+		!PartyHasItem("DAGG09")~ + @9005 /*  [Intimidate] I’m going to kill you. */ GOTO strNo
 	+ ~~ + @9006 /* Hm. I'll come back later. */ GOTO stallTime
 
 END
