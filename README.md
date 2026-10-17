@@ -120,7 +120,7 @@ If you find anything else, ping me on Discord or post it to the G3 forums.
 --------------
 
 1.5 Impovement
- - French translation by @Deratiseur
+ - French translation by IA
  - Impovement for [rat king encounter](https://www.gibberlings3.net/forums/topic/38708-mod-release-blood-and-faith-a-bg1-questline-mod/?do=findComment&comment=362166)
  - One new line for d_gBFmqg.tra related to rat king encounter
 
