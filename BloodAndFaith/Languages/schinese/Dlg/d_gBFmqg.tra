@@ -308,4 +308,4 @@
 @13307 = ~再见，<CHARNAME>。~
 
 // Rat king addition related to SetGlobal("gBF4rk","GLOBAL",1) in d_gBF4rk (He didn't go to warrens)
-@13308 = ~The rats were led by a lycanthrope, and I convinced them to leave.~
+@13308 = ~这群老鼠由一名兽化人统领，我已经说服它们离开了。~
