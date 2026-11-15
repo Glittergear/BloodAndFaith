@@ -176,6 +176,7 @@ COMPILE ~BloodAndFaith/Scripts/g_BFmalF.baf~
 COMPILE ~BloodAndFaith/Scripts/g_BFmorC.baf~
 COMPILE ~BloodAndFaith/Scripts/g_BFmord.baf~
 COMPILE ~BloodAndFaith/Scripts/g_BFmorj.baf~
+COMPILE ~BloodAndFaith/Scripts/g_bfzom.baf~
 
 COPY ~%MOD_FOLDER%/spells/g_bfci.spl~         ~override~
 
@@ -256,6 +257,30 @@ COPY ~BloodAndFaith/creatures/g_bfwi.cre~ ~override/g_bfwi.cre~ //
 COPY ~BloodAndFaith/creatures/g_bfzom.cre~ ~override/g_bfzom.cre~ //
 	SAY NAME1 @12 /* Friendly Zom */
 	SAY NAME2 @12 /* Friendly Zom */
+	WRITE_LONG 0x14 ~0~
+	WRITE_ASCII 0x248 ~g_bfzom~ (8)
+
+COPY_EXISTING ~SPJA01.spl~ ~override/g_SPJA01.spl~
+	LPF ALTER_SPELL_EFFECT
+		INT_VAR
+			match_opcode = 326
+		 STR_VAR 
+			resource = "g_SPJA0A" 
+	END
+
+COPY_EXISTING ~SPJA01A.spl~ ~override/g_SPJA0A.spl~
+	LPF DELETE_SPELL_EFFECT
+		INT_VAR
+			opcode_to_delete=12
+	END
+	LPF DELETE_SPELL_EFFECT
+		INT_VAR
+			opcode_to_delete=177
+	END
+	LPF DELETE_SPELL_EFFECT
+		INT_VAR
+			opcode_to_delete=367
+	END
 
 COPY ~BloodAndFaith/creatures/g_bZhent.cre~ ~override/g_bZhent.cre~ //
 	SAY NAME1 @13 /* Evil Zhent */

@@ -1,0 +1,10 @@
+
+IF
+	Die()
+	GlobalLT("gBFq3","GLOBAL",4)
+THEN
+	RESPONSE #100
+		CreateVisualEffectObject("SPRAISED","g_bfzom")
+		ChangeEnemyAlly(Myself,NEUTRAL)
+		ReallyForceSpellDeadRES("g_SPJA01",Myself)
+END
